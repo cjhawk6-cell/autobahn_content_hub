@@ -1,0 +1,48 @@
+name: Daily Content Hub
+
+on:
+  schedule:
+    # Runs every weekday at 7:00 AM EST (12:00 UTC)
+    # Adjust the UTC hour to match your preferred local time:
+    #   6 AM EST  = 11:00 UTC
+    #   7 AM EST  = 12:00 UTC
+    #   8 AM EST  = 13:00 UTC
+    - cron: "0 12 * * 1-5"
+
+  # Lets you manually trigger a run from the GitHub Actions UI
+  workflow_dispatch:
+
+jobs:
+  run-content-hub:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # needed to commit data/ back to the repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install anthropic feedparser
+
+      - name: Run scraper
+        run: python scripts/scraper.py
+
+      - name: Run generator
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/generator.py
+
+      - name: Commit updated data files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Daily content update: $(date +'%Y-%m-%d')"
+          git push

@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rock Your Business — Content Hub | Autobahn Consultants</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Roboto+Mono:wght@400&display=swap" rel="stylesheet">
+<style>
+:root {
+  --ac-green:   #0E765A;
+  --ac-green2:  #0C824C;
+  --ac-yellow:  #FFF400;
+  --ac-charcoal:#58585A;
+  --ac-gray:    #A8A9AC;
+  --bg:         #F5F5F5;
+  --card-bg:    #FFFFFF;
+  --text:       #58585A;
+  --text-light: #818285;
+  --border:     #E0E0E0;
+  --font:       'Roboto', Arial, sans-serif;
+  --mono:       'Roboto Mono', monospace;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: var(--font); background: var(--bg); color: var(--text); }
+
+/* ── Header ── */
+.header {
+  background: var(--ac-green);
+  padding: 20px 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header-brand { color: #fff; }
+.header-brand h1 { font-size: 20px; font-weight: 700; }
+.header-brand p { font-size: 12px; color: rgba(255,255,255,0.7); margin-top: 2px; }
+.header-meta { text-align: right; }
+.last-run { font-size: 12px; color: rgba(255,255,255,0.65); }
+.run-status { display: inline-block; background: var(--ac-yellow); color: #000; font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 20px; margin-top: 4px; }
+
+/* ── Controls ── */
+.controls {
+  background: #fff;
+  border-bottom: 1px solid var(--border);
+  padding: 12px 32px;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.filter-label { font-size: 12px; font-weight: 500; color: var(--text-light); margin-right: 4px; }
+.chapter-filter-btn {
+  font-size: 11px;
+  padding: 4px 12px;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  background: #fff;
+  color: var(--text);
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.chapter-filter-btn.active {
+  background: var(--ac-green);
+  color: #fff;
+  border-color: var(--ac-green);
+}
+.spacer { flex: 1; }
+.post-type-filter select {
+  font-size: 12px;
+  padding: 5px 10px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: #fff;
+  color: var(--text);
+}
+
+/* ── Grid ── */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  gap: 18px;
+  padding: 24px 32px;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+/* ── Cards ── */
+.card {
+  background: var(--card-bg);
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.card-header {
+  background: var(--ac-green);
+  padding: 12px 16px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 8px;
+}
+.card-header-left h3 { color: #fff; font-size: 13px; font-weight: 700; line-height: 1.3; }
+.card-header-left p { color: rgba(255,255,255,0.75); font-size: 11px; margin-top: 2px; }
+.ch-badge {
+  background: var(--ac-yellow);
+  color: #000;
+  font-size: 10px;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: 20px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+/* ── Articles section ── */
+.articles-section { padding: 12px 14px; border-bottom: 1px solid var(--border); }
+.section-label {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: var(--text-light);
+  margin-bottom: 8px;
+}
+.article-item { display: flex; gap: 8px; margin-bottom: 8px; }
+.article-item:last-child { margin-bottom: 0; }
+.article-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--ac-green2); flex-shrink: 0; margin-top: 5px; }
+.article-text {}
+.article-link {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--ac-green);
+  text-decoration: none;
+  line-height: 1.35;
+  display: block;
+}
+.article-link:hover { text-decoration: underline; }
+.article-source { font-size: 10px; color: var(--text-light); margin-top: 1px; }
+
+/* ── Posts section ── */
+.posts-section { padding: 12px 14px; flex: 1; }
+.post-tabs { display: flex; gap: 4px; margin-bottom: 10px; flex-wrap: wrap; }
+.post-tab {
+  font-size: 10px;
+  font-weight: 500;
+  padding: 3px 10px;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  background: #fff;
+  color: var(--text);
+  cursor: pointer;
+  transition: all 0.1s;
+}
+.post-tab.active { background: var(--ac-green2); color: #fff; border-color: var(--ac-green2); }
+.post-body { display: none; }
+.post-body.visible { display: block; }
+.post-text {
+  font-size: 12px;
+  line-height: 1.6;
+  color: var(--text);
+  background: #F9F9F9;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 10px 12px;
+  white-space: pre-wrap;
+  min-height: 80px;
+}
+.post-actions { display: flex; gap: 8px; margin-top: 8px; }
+.copy-btn {
+  font-size: 11px;
+  padding: 5px 12px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: #fff;
+  color: var(--text);
+  cursor: pointer;
+  transition: all 0.1s;
+}
+.copy-btn:hover { background: var(--ac-green); color: #fff; border-color: var(--ac-green); }
+
+/* ── Blog/Email strip ── */
+.extras-section { padding: 10px 14px; border-top: 1px solid var(--border); background: #FAFFFE; }
+.extra-item { margin-bottom: 8px; }
+.extra-item:last-child { margin-bottom: 0; }
+.extra-label { font-size: 10px; font-weight: 700; color: var(--text-light); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 3px; }
+.extra-text { font-size: 12px; color: var(--text); line-height: 1.5; }
+.email-subject { font-family: var(--mono); font-size: 12px; background: #f0f0f0; padding: 4px 8px; border-radius: 4px; display: inline-block; }
+
+/* ── Empty / Error ── */
+.empty { text-align: center; padding: 60px 20px; color: var(--text-light); grid-column: 1 / -1; }
+.empty h2 { font-size: 18px; margin-bottom: 8px; }
+.error-badge { background: #fff0f0; color: #a00; font-size: 11px; padding: 4px 10px; border-radius: 6px; display: inline-block; }
+
+/* ── Footer ── */
+.footer {
+  background: var(--ac-green);
+  padding: 10px 32px;
+  text-align: center;
+  font-size: 11px;
+  color: rgba(255,255,255,0.65);
+  margin-top: 40px;
+}
+
+/* ── Loading ── */
+.loading-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.35);
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+}
+.loading-overlay.visible { display: flex; }
+.loading-box {
+  background: #fff;
+  border-radius: 10px;
+  padding: 32px 40px;
+  text-align: center;
+}
+.spinner {
+  width: 36px; height: 36px;
+  border: 3px solid #eee;
+  border-top-color: var(--ac-green);
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+  margin: 0 auto 14px;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+.loading-box p { font-size: 14px; color: var(--text); }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-brand">
+    <h1>Rock Your Business — Content Intelligence Hub</h1>
+    <p>Daily article scraping + AI-drafted posts for Autobahn Consultants</p>
+  </div>
+  <div class="header-meta">
+    <div class="last-run" id="lastRun">Loading...</div>
+    <div class="run-status" id="runStatus">AUTOBAHN</div>
+  </div>
+</div>
+
+<div class="controls">
+  <span class="filter-label">Filter:</span>
+  <button class="chapter-filter-btn active" onclick="filterChapter('all', this)">All chapters</button>
+  <span id="chapterFilters"></span>
+  <div class="spacer"></div>
+  <div class="post-type-filter">
+    <select id="postTypeSelect" onchange="renderGrid()">
+      <option value="all">All post types</option>
+      <option value="thought_leadership">Thought leadership</option>
+      <option value="article_reaction">Article reaction</option>
+      <option value="book_tie_in">Book tie-in</option>
+    </select>
+  </div>
+</div>
+
+<div class="grid" id="mainGrid">
+  <div class="empty"><p>Loading today's content...</p></div>
+</div>
+
+<div class="footer">
+  AUTOBAHN CONSULTANTS &nbsp;|&nbsp; TEAM@AUTOBAHNCONSULTANTS.COM &nbsp;|&nbsp; WWW.AUTOBAHNCONSULTANTS.COM
+</div>
+
+<div class="loading-overlay" id="loadingOverlay">
+  <div class="loading-box">
+    <div class="spinner"></div>
+    <p>Loading content...</p>
+  </div>
+</div>
+
+<script>
+let allData = null;
+let activeChapterFilter = 'all';
+
+// ── Data loading ──────────────────────────────────────────────────────────────
+async function loadData() {
+  document.getElementById('loadingOverlay').classList.add('visible');
+  try {
+    // In production (GitHub Pages), this fetches from the repo's data folder.
+    // When running locally, use a local server or open the file in browser after
+    // running the Python scripts.
+    const resp = await fetch('./data/drafts_latest.json');
+    if (!resp.ok) throw new Error('File not found');
+    allData = await resp.json();
+    document.getElementById('lastRun').textContent = 'Last updated: ' + formatDate(allData.generated_at);
+    document.getElementById('runStatus').textContent = 'LIVE';
+    buildChapterFilters();
+    renderGrid();
+  } catch (e) {
+    document.getElementById('mainGrid').innerHTML = `
+      <div class="empty">
+        <h2>No data yet</h2>
+        <p style="margin-top:8px;">Run the Python scripts locally to generate <code>data/drafts_latest.json</code>,<br>
+        or wait for the first GitHub Actions run to complete.</p>
+        <p style="margin-top:12px; font-size:11px; color:#aaa;">Error: ${e.message}</p>
+      </div>`;
+  } finally {
+    document.getElementById('loadingOverlay').classList.remove('visible');
+  }
+}
+
+function formatDate(iso) {
+  try {
+    return new Date(iso).toLocaleString('en-US', { month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit' });
+  } catch { return iso; }
+}
+
+// ── Filter controls ───────────────────────────────────────────────────────────
+function buildChapterFilters() {
+  if (!allData) return;
+  const container = document.getElementById('chapterFilters');
+  container.innerHTML = allData.chapters.map(c =>
+    `<button class="chapter-filter-btn" onclick="filterChapter(${c.chapter}, this)">Ch. ${c.chapter}</button>`
+  ).join('');
+}
+
+function filterChapter(val, btn) {
+  activeChapterFilter = val;
+  document.querySelectorAll('.chapter-filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  renderGrid();
+}
+
+// ── Grid rendering ────────────────────────────────────────────────────────────
+function renderGrid() {
+  if (!allData) return;
+  const grid = document.getElementById('mainGrid');
+  const postTypeFilter = document.getElementById('postTypeSelect').value;
+
+  let chapters = allData.chapters;
+  if (activeChapterFilter !== 'all') {
+    chapters = chapters.filter(c => c.chapter === activeChapterFilter);
+  }
+
+  if (chapters.length === 0) {
+    grid.innerHTML = '<div class="empty"><p>No results for this filter.</p></div>';
+    return;
+  }
+
+  grid.innerHTML = chapters.map((c, ci) => buildCard(c, ci, postTypeFilter)).join('');
+}
+
+function buildCard(c, ci, postTypeFilter) {
+  const posts = c.posts || {};
+  const hasError = posts._error || posts._parse_error;
+
+  const articlesHtml = (c.articles || []).map(a => `
+    <div class="article-item">
+      <div class="article-dot"></div>
+      <div class="article-text">
+        <a class="article-link" href="${escHtml(a.url)}" target="_blank" rel="noopener">${escHtml(a.title)}</a>
+        <div class="article-source">${escHtml(a.source || '')} ${a.pub_date ? '· ' + a.pub_date.substring(0, 16) : ''}</div>
+      </div>
+    </div>
+  `).join('') || '<p style="font-size:11px;color:#aaa;">No articles found for this run.</p>';
+
+  let postsHtml = '';
+  if (hasError) {
+    postsHtml = `<div class="error-badge">Generation error — check logs or re-run.</div>`;
+  } else {
+    const postTypes = [
+      { key: 'post1', label: 'Thought Leadership', type: 'thought_leadership' },
+      { key: 'post2', label: 'Article Reaction', type: 'article_reaction' },
+      { key: 'post3', label: 'Book Tie-In', type: 'book_tie_in' },
+    ];
+
+    const visibleTypes = postTypeFilter === 'all' ? postTypes : postTypes.filter(p => p.type === postTypeFilter);
+    const defaultActive = visibleTypes[0]?.key || 'post1';
+
+    const tabs = visibleTypes.map(p =>
+      `<button class="post-tab ${p.key === defaultActive ? 'active' : ''}" onclick="switchPost('${ci}', '${p.key}', this)">${escHtml(p.label)}</button>`
+    ).join('');
+
+    const bodies = visibleTypes.map(p => {
+      const postData = posts[p.key] || {};
+      const text = postData.text || '';
+      const hashtags = postData.hashtags ? '\n\n' + postData.hashtags.map(h => h.startsWith('#') ? h : '#' + h).join(' ') : '';
+      const fullText = text + hashtags;
+      return `
+        <div class="post-body ${p.key === defaultActive ? 'visible' : ''}" id="post-${ci}-${p.key}">
+          <div class="post-text" id="text-${ci}-${p.key}">${escHtml(fullText)}</div>
+          <div class="post-actions">
+            <button class="copy-btn" onclick="copyText('text-${ci}-${p.key}', this)">&#x2398; Copy</button>
+            ${postData.source_url ? `<a class="copy-btn" href="${escHtml(postData.source_url)}" target="_blank" rel="noopener">Open article ↗</a>` : ''}
+          </div>
+        </div>`;
+    }).join('');
+
+    postsHtml = `<div class="post-tabs">${tabs}</div>${bodies}`;
+  }
+
+  const blogHook = posts.blog_hook || '';
+  const emailSubject = posts.email_subject || '';
+
+  const extrasHtml = (blogHook || emailSubject) ? `
+    <div class="extras-section">
+      ${blogHook ? `<div class="extra-item"><div class="extra-label">Blog / Newsletter Hook</div><div class="extra-text">${escHtml(blogHook)}</div></div>` : ''}
+      ${emailSubject ? `<div class="extra-item"><div class="extra-label">Email Subject Line</div><div class="email-subject">${escHtml(emailSubject)}</div></div>` : ''}
+    </div>` : '';
+
+  return `
+    <div class="card" id="card-${ci}">
+      <div class="card-header">
+        <div class="card-header-left">
+          <h3>${escHtml(c.title)}</h3>
+          <p>${escHtml(c.authors)}</p>
+        </div>
+        <span class="ch-badge">Ch. ${c.chapter}</span>
+      </div>
+      <div class="articles-section">
+        <div class="section-label">Today's Articles</div>
+        ${articlesHtml}
+      </div>
+      <div class="posts-section">
+        <div class="section-label">Draft Posts</div>
+        ${postsHtml}
+      </div>
+      ${extrasHtml}
+    </div>`;
+}
+
+// ── Post tab switcher ─────────────────────────────────────────────────────────
+function switchPost(ci, key, btn) {
+  const card = document.getElementById('card-' + ci);
+  card.querySelectorAll('.post-body').forEach(b => b.classList.remove('visible'));
+  card.querySelectorAll('.post-tab').forEach(b => b.classList.remove('active'));
+  const body = document.getElementById(`post-${ci}-${key}`);
+  if (body) body.classList.add('visible');
+  btn.classList.add('active');
+}
+
+// ── Copy to clipboard ─────────────────────────────────────────────────────────
+function copyText(id, btn) {
+  const el = document.getElementById(id);
+  if (!el) return;
+  navigator.clipboard.writeText(el.textContent.trim()).then(() => {
+    const orig = btn.textContent;
+    btn.textContent = '✓ Copied!';
+    setTimeout(() => btn.textContent = orig, 1600);
+  });
+}
+
+// ── Helpers ───────────────────────────────────────────────────────────────────
+function escHtml(str) {
+  return String(str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+// ── Init ──────────────────────────────────────────────────────────────────────
+loadData();
+</script>
+</body>
+</html>
