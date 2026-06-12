@@ -16,6 +16,9 @@ jobs:
   run-content-hub:
     runs-on: ubuntu-latest
 
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     permissions:
       contents: write   # needed to commit data/ back to the repo
 
