@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T14:33:49.354589+00:00",
+  "generated_at": "2026-07-10T14:02:11.581114+00:00",
   "chapters": [
     {
       "chapter": 1,
@@ -7,13 +7,6 @@
       "sub": "Leadership & Scaling",
       "authors": "Katherine Slain",
       "articles": [
-        {
-          "title": "Bitso Strengthens Its Global Executive Team to Accelerate Expansion and Technological Leadership in Latin America - FF News",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQb3F1RW5UN1RVYk9KczhGQ2R5c1RMRF9kWHZfQUJ6NXl1MTdJQWtaaU1zTEp4dmk3R2o1aW8xMkxtbFJTWFVMYXdvLWdYRktIa3IwN3ZzSm10U1cwRWZiYmRLclFaeHpVWmliUWp2WGFwQ2lZNkMxbmRQQmlyWG5pWVJWX0hiT0JUODZwQUhKbkJ4X3NieDJyMWJfUlBSSVFkVHlkd0NMamVmTHhNbko1MUtZUlZCTENNWC1TaVlHSW9EUElsSldaNW5FRTdsS2tMbE1MVVQwaFZZajNMRl9DWm5Dc2NrQQ?oc=5",
-          "source": "FF News",
-          "snippet": "Bitso Strengthens Its Global Executive Team to Accelerate Expansion and Technological Leadership in Latin America&nbsp;&nbsp;FF News",
-          "pub_date": "Fri, 03 Jul 2026 15:41:27 GMT"
-        },
         {
           "title": "Ciena bolsters executive team with supply chain, product appointments to scale AI infrastructure - SDxCentral",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQm05NW1RSUh0Uk1fa0hYMU9QTHVnaXJhZEpfdVVjaE9uWURQS3QtNGxCMWZhWjNwdWUyeXFwengxbDZZRFd6OF91ZTdtUmtNSGoyTkRzdklfeENYQ09ITWN6UjhWQVE0UE5sQmx3MXZJdmNjLVhSM2plUXl5aXhyOS1aS2hCb2xYQVU4UUdDakphV3NPWTdfazVQVWJtUEs2bFJWY3VzeTk5N2tVN3dFdE5TOFlqMUZxaWZvdTRfQ2w2QmVOUFF3?oc=5",
@@ -27,9 +20,16 @@
           "source": "FinTech Global",
           "snippet": "Nair joins Fenergo executive team to scale global revenue&nbsp;&nbsp;FinTech Global",
           "pub_date": "Mon, 29 Jun 2026 10:40:24 GMT"
+        },
+        {
+          "title": "Buffini & Company adds three senior executives to scale coaching - HousingWire",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80SmJLNXdFS1VDcE9QNXQ2YzNFUDNUSzItcWljNWEyb2NEUVJ0UzdweEIzaVZyclAyWk5fcW54Nlo2U21GSVVoMHFJaVpLSFdaMU1tMXRIWU8wMTJvc3RJNTM5VkhoaVFxZnZFM0VlWVU?oc=5",
+          "source": "HousingWire",
+          "snippet": "Buffini & Company adds three senior executives to scale coaching&nbsp;&nbsp;HousingWire",
+          "pub_date": "Thu, 11 Jun 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-09"
+      "scraped_at": "2026-07-10"
     },
     {
       "chapter": 2,
@@ -38,18 +38,18 @@
       "authors": "Paul Belair & George Hohman",
       "articles": [
         {
-          "title": "Business Exit Strategies - J.P. Morgan Private Bank",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalJUT0c3NEFPTndZX08zeGN0dXVFOEJVcmVLRml0QUNjb2xXU3Nxd2ZjOW1mUVUtc0F6SDZ0M056b2Rpd21ZZWF6aVBpOHZESjRiMEtKYk13Sm52VTJJTzV5ZzhFVTE5LVVtcVN4aVpiUzJYUUEtclFONlM4S0NzS3owaFRDT3p6Z2NoZlhjSUh1QnhsWTkyT3pKQkJZR3YxWnZHSHpHTDQ3MEtSRDdBb1JDTVJrb1U?oc=5",
-          "source": "J.P. Morgan Private Bank",
-          "snippet": "Business Exit Strategies&nbsp;&nbsp;J.P. Morgan Private Bank",
-          "pub_date": "Fri, 03 Jul 2026 02:20:32 GMT"
-        },
-        {
           "title": "How to Create an Exit Strategy for Your Business - U.S. Chamber of Commerce",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONERpMjFwUjkzVW8xLTRScUhVWTQ5VUFMS1R5cFY4c2p2eXYzZ3NYc0V0NUlaMmREUXM2N3VSaThYUjhERGNiSmhFTDB5TVBYNEhrOU9WSHRyYThWWUlUY2RYNlVFNkhvVGU4V3h1bXAtVzUwVVh0bG5FOWxmTUNJTTBJYjI?oc=5",
           "source": "U.S. Chamber of Commerce",
           "snippet": "How to Create an Exit Strategy for Your Business&nbsp;&nbsp;U.S. Chamber of Commerce",
           "pub_date": "Tue, 03 Feb 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Business Exit Strategies - J.P. Morgan Private Bank",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalJUT0c3NEFPTndZX08zeGN0dXVFOEJVcmVLRml0QUNjb2xXU3Nxd2ZjOW1mUVUtc0F6SDZ0M056b2Rpd21ZZWF6aVBpOHZESjRiMEtKYk13Sm52VTJJTzV5ZzhFVTE5LVVtcVN4aVpiUzJYUUEtclFONlM4S0NzS3owaFRDT3p6Z2NoZlhjSUh1QnhsWTkyT3pKQkJZR3YxWnZHSHpHTDQ3MEtSRDdBb1JDTVJrb1U?oc=5",
+          "source": "J.P. Morgan Private Bank",
+          "snippet": "Business Exit Strategies&nbsp;&nbsp;J.P. Morgan Private Bank",
+          "pub_date": "Fri, 03 Jul 2026 02:20:32 GMT"
         },
         {
           "title": "The $14 Trillion Wealth Transfer: How To Buy Businesses From Retiring Owners | Adam Coffey Fabio Di Giannantonio (784seAhXWR) - Fathom Journal",
@@ -59,7 +59,7 @@
           "pub_date": "Wed, 17 Jun 2026 13:25:49 GMT"
         }
       ],
-      "scraped_at": "2026-07-09"
+      "scraped_at": "2026-07-10"
     },
     {
       "chapter": 3,
@@ -67,6 +67,13 @@
       "sub": "Strategic Planning & Execution",
       "authors": "Rafa Loyo & Jim Randall",
       "articles": [
+        {
+          "title": "From paper to performance: How to execute your 2026 credit union strategic plan - CUInsight",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWVRBZ0VjRlV6U3JLUnBwLTdLeWktRDczdDFWaUMzRHdid0ZCQmhtdWY2dERjZi1UNVg5S0R0VXlua3N0MDJSYUNzeEJiMC1ibXhTa3dpVlNaRG54YUVCRzhYWVUydXNGLXI3VHljVEFWb3VNVkNvUHpRWTE4a0JSRU0tcEtrRGNfRHVyRDVxTWNmRnBLb1dVMmVZXzUzODI3SFNGX09jR2U?oc=5",
+          "source": "CUInsight",
+          "snippet": "From paper to performance: How to execute your 2026 credit union strategic plan&nbsp;&nbsp;CUInsight",
+          "pub_date": "Thu, 26 Feb 2026 08:00:00 GMT"
+        },
         {
           "title": "Why Leadership Teams Fail At Strategy Execution And How To Fix It - Forbes",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXpNczJQdVBKTWlEV0dsby1FaEFGUVg5X1B3Zk9qUGI2bDJMSUxydGhRdURFUUdERXhBRmNzUndTVXhITTREMzMxdk9faE5rUldabk9ld2p2dHdfeXJjVEpMckJ6dFZNckFkTkk5ZmJ5MHRVSm5iSXo2WGlwc0NoeTBvcUYxTF9pbUNmaDB4LUdlNk9pMll0Y01BRTNVYzJObzRrV3pCN19scHYtdThYcHJVUVFYbjFMbkE?oc=5",
@@ -80,16 +87,9 @@
           "source": "WPP.com",
           "snippet": "Strategy Update and 2025 Preliminary Results&nbsp;&nbsp;WPP.com",
           "pub_date": "Thu, 26 Feb 2026 08:00:00 GMT"
-        },
-        {
-          "title": "The 24 Hour Business Plan Expands Product Offering and Deepens Expertise - Little Black Book | LBBOnline",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVC1UNDAzQ2hyMjlQVUFoYW02b0g3TW9Hc1NYODBzdlJvcGJqcUFzcVBVa2ljZkxsYU56QXlwS1JpcmlpWVNpQ2pHcUIxRFJtbWRoWDlyRFlxQXU1ZWxDU2lDTFB0NDhRODdDYjg2czZMcDBVTFFLWHJRTmprNmFjYllVenBqVmgzNWtmZ0E0SUwyRi1TUmxjTm9neTRncVlq?oc=5",
-          "source": "Little Black Book | LBBOnline",
-          "snippet": "The 24 Hour Business Plan Expands Product Offering and Deepens Expertise&nbsp;&nbsp;Little Black Book | LBBOnline",
-          "pub_date": "Thu, 26 Feb 2026 08:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-09"
+      "scraped_at": "2026-07-10"
     },
     {
       "chapter": 4,
@@ -119,7 +119,7 @@
           "pub_date": "Tue, 09 Sep 2025 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-09"
+      "scraped_at": "2026-07-10"
     },
     {
       "chapter": 5,
@@ -128,11 +128,11 @@
       "authors": "Kayli Simpson & Yasmin West",
       "articles": [
         {
-          "title": "Pride in PR: Gabriel Gomez - PRWeek US",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PbHdKcFhldkZYYUdpY1RrdE93VUZmZmlQT1RkMlBFS1FsYXFGc2F0aUZmS21Fb2VfSU1OSzdMOVBncFlEc0otVTI0NTY3UG9BV0JoR2NneFBQd1Z3V2lsZl9QVVdiNUJ5WjB5ODln?oc=5",
-          "source": "PRWeek US",
-          "snippet": "Pride in PR: Gabriel Gomez&nbsp;&nbsp;PRWeek US",
-          "pub_date": "Thu, 18 Jun 2026 07:00:00 GMT"
+          "title": "Big Pharma\u2019s Big Brand: Inside Eli Lilly\u2019s marketing culture - Fierce Pharma",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObHJQeGMyVlVJNHF4NHlLZ2N5cldpRTY4ZnBYSUNFYmhkNlBJSkllY0Nwd0c1bnlOM0hTcklyOUlRcGRaLWYxWWQ0QUxjcER4TWVmQ01ZVjd4YUxjblZJN3BwSFBtWG9PTUUwRHBDMnRIVmVZTnlOMGRreVl6dlNtNkNlQXcydXI4NjZLNWttR0QweGlDcTJ6SzhUSmoxU1ZjVjFuVUpLU0djQQ?oc=5",
+          "source": "Fierce Pharma",
+          "snippet": "Big Pharma\u2019s Big Brand: Inside Eli Lilly\u2019s marketing culture&nbsp;&nbsp;Fierce Pharma",
+          "pub_date": "Mon, 22 Jun 2026 07:00:00 GMT"
         },
         {
           "title": "Why JBL is building marketing around culture not campaigns - Brand Innovators",
@@ -149,7 +149,7 @@
           "pub_date": "Tue, 24 Mar 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-09"
+      "scraped_at": "2026-07-10"
     },
     {
       "chapter": 6,
@@ -158,6 +158,13 @@
       "authors": "Caleb Hawkins, Darla Klein & Yasmin West",
       "articles": [
         {
+          "title": "Jobsity Announces Strategic Acquisition of Eureka Labs, Expanding Scale and Strengthening Its Position as a Leading Nearshore Talent Partner - Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQSlBhMHBNSVZfZG9QTkpsa1ExMUpmOHlucW1OX0RUeXN5RkVnT2hjenA5MlN0bHRfbHM3YTQtQ1FMemhralV3a3B4dkw5bjJ1eXVHaHp1OTY5MU10OUJUNUFuanVxWldyUmdHWWRyaVNNalc0NC04UzdjS0I5azFQMmJYeFNDUnloMEtCcnlhRHdhWGZ4QkViWU5Db3VQb1ZiMERHeU5iZHloQXI0Qk5YelVfNTdxTHp4cUlHUjlsZVhpamJmWXgwWTdoM0RnRVBXTFcyNlJEUng5T3VGYjltQ2xqNmtFMzQyYjF6aGFBZ1QwOWpuN29Lb0wwQk10ZER5WE9BNFE1U0pub3FleThPaHlDUXVRN0ZKWVN6Q1FNek40dw?oc=5",
+          "source": "Business Wire",
+          "snippet": "Jobsity Announces Strategic Acquisition of Eureka Labs, Expanding Scale and Strengthening Its Position as a Leading Nearshore Talent Partner&nbsp;&nbsp;Business Wire",
+          "pub_date": "Mon, 01 Jun 2026 07:00:00 GMT"
+        },
+        {
           "title": "Precision Over Scale: The New Rules of Hiring in 2026 - SHRM",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRFVYR0VscXJpMmVqV2dwazJDTkstVDJTNG9uTlZlWHJPVkFqQ0MzZTRQSUYwUDZweWw2dE52THZKSnhBTzQtb1g5UUYzbmJTbjFJcXlVYno2ZzU4aE0yNVRwN2RIN05xTWJVWnZQejVyY2xRNmJ2SF83QmVHel9GYmdWTEdEMWZLMVk5OThMNTF0TmdKR1F4bG84cnZRZ0FU?oc=5",
           "source": "SHRM",
@@ -165,21 +172,14 @@
           "pub_date": "Wed, 25 Feb 2026 08:00:00 GMT"
         },
         {
-          "title": "SRS Distribution Appoints Taylor Bradley as Director of Talent Acquisition - hrtoday.in",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNUZoMzRTNmE5Z0xVa1kwNy1BS2xqeXdCdHZ4UlJueDJNTEQ0RUUwUTdKejlaYUpJR1ZhZE1vVDFzM2hQX2IzNmdBcTA0Nkt1X1RNSWNTUS1ITlBiZFBaQ3U5NlUtX21QMTRqSkdCSzJvdmhzOFU1ZkFPUzBmX3V5ZHpXYUIwaTNHeWRRR1psbVdJdEpfZ0Y0bkxB?oc=5",
-          "source": "hrtoday.in",
-          "snippet": "SRS Distribution Appoints Taylor Bradley as Director of Talent Acquisition&nbsp;&nbsp;hrtoday.in",
-          "pub_date": "Tue, 30 Jun 2026 05:34:34 GMT"
-        },
-        {
-          "title": "Jobsity Announces Strategic Acquisition of Eureka Labs, Expanding Scale and Strengthening Its Position as a Leading Nearshore Talent Partner - Business Wire",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQSlBhMHBNSVZfZG9QTkpsa1ExMUpmOHlucW1OX0RUeXN5RkVnT2hjenA5MlN0bHRfbHM3YTQtQ1FMemhralV3a3B4dkw5bjJ1eXVHaHp1OTY5MU10OUJUNUFuanVxWldyUmdHWWRyaVNNalc0NC04UzdjS0I5azFQMmJYeFNDUnloMEtCcnlhRHdhWGZ4QkViWU5Db3VQb1ZiMERHeU5iZHloQXI0Qk5YelVfNTdxTHp4cUlHUjlsZVhpamJmWXgwWTdoM0RnRVBXTFcyNlJEUng5T3VGYjltQ2xqNmtFMzQyYjF6aGFBZ1QwOWpuN29Lb0wwQk10ZER5WE9BNFE1U0pub3FleThPaHlDUXVRN0ZKWVN6Q1FNek40dw?oc=5",
-          "source": "Business Wire",
-          "snippet": "Jobsity Announces Strategic Acquisition of Eureka Labs, Expanding Scale and Strengthening Its Position as a Leading Nearshore Talent Partner&nbsp;&nbsp;Business Wire",
-          "pub_date": "Mon, 01 Jun 2026 07:00:00 GMT"
+          "title": "Embark Names Russell Weaver as Chief People Officer to Lead Talent Strategy and Expansion - citybiz",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOTV6UWZPWmlRcGczUXNjUVRWdXhEc3JTOXBQbDRuV0JOdUxiZGJMY282NmFnODJzZ1BhblhyelZHOWt1MFhxYlQ4eWV0VmFGb0IwTldJcy0tbmxweXUyUjN1cUVidjFUX2dKYklZMTJUNUJHZ0I5Ry1IdzQyNFNyek5pTlYtSTd5R2hEaGJuWTg1ZmNjNXkzRERGMmdRbm9MbnhWYlBoNm5CMmh1amdMUG1iQUdMYU5rdGpOSWd0YV90VXJCZVpz?oc=5",
+          "source": "citybiz",
+          "snippet": "Embark Names Russell Weaver as Chief People Officer to Lead Talent Strategy and Expansion&nbsp;&nbsp;citybiz",
+          "pub_date": "Fri, 01 May 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-09"
+      "scraped_at": "2026-07-10"
     },
     {
       "chapter": 7,
@@ -209,7 +209,7 @@
           "pub_date": "Thu, 13 Nov 2025 08:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-09"
+      "scraped_at": "2026-07-10"
     },
     {
       "chapter": 8,
@@ -225,11 +225,11 @@
           "pub_date": "Mon, 06 Jul 2026 20:07:31 GMT"
         },
         {
-          "title": "Top AI Time-Saving and Productivity Hacks From 12 CEOs and Bosses - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc010ZUhURC0wVGNKMTdRUWVyTnZFVXRWODBxaVc3MWYyeU52bG1PdHVaTU45aS1mSG13Ulh2eUtmcU5qNXhma2VDLWo0UlpDLWMyU0lZc1ZkcHZzZXVrVXlpNGNObGVxRnVTMlVBc2RQLTk2bWtJaWFmeW1BMlBHNml5SktYdEdaLWJ3VmpYTU55bHB6cVpUVW5LWG1WR2lhRng0SXYwcHdFYXJTanJn?oc=5",
-          "source": "Bloomberg.com",
-          "snippet": "Top AI Time-Saving and Productivity Hacks From 12 CEOs and Bosses&nbsp;&nbsp;Bloomberg.com",
-          "pub_date": "Tue, 12 May 2026 07:00:00 GMT"
+          "title": "Thousands of CEOs admit AI had no impact on employment or productivity\u2014and it has economists resurrecting a paradox from 40 years ago - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3ptZXVGa1lTR0lfcjB5T20yMXQwdTFHdU45dVQtbFVBa1BnbG5RcVdwZndWQlpGMHJpLW1sQURMT29YR2tPemd0bUZzNnNGWnl4SEpTMWJ0X3hkM2d1NlV6aUR5d1lmalRlbTFsSy00OGF1eFpMTHcwT0tMNWlWNGtpOE5FeDZrbzVGVEVCUVdZd2ZlQXdtYUEyUV9IOWxwV1ppUjlKV042VDhvUnZCcWNR?oc=5",
+          "source": "Fortune",
+          "snippet": "Thousands of CEOs admit AI had no impact on employment or productivity\u2014and it has economists resurrecting a paradox from 40 years ago&nbsp;&nbsp;Fortune",
+          "pub_date": "Sun, 19 Apr 2026 07:00:00 GMT"
         },
         {
           "title": "\u2018Talk to My A.I. Twin\u2019: Busy Executives Have a New Productivity Hack - The New York Times",
@@ -239,7 +239,7 @@
           "pub_date": "Mon, 08 Jun 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-09"
+      "scraped_at": "2026-07-10"
     },
     {
       "chapter": 9,
@@ -269,7 +269,7 @@
           "pub_date": "Mon, 20 Apr 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-09"
+      "scraped_at": "2026-07-10"
     },
     {
       "chapter": 10,
@@ -285,11 +285,11 @@
           "pub_date": "Fri, 26 Jun 2026 07:00:00 GMT"
         },
         {
-          "title": "I Quit My $390K Job to Start My Company. I Still Question My Decision. - Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkpkRTJEZEtDYkUtbmhSanpTaDFSR3NrT1lHb2FWYzhZb3VUcmoyZlpheHRIcWQ5eUp1MFYxRG5KSFVFNG5CekxzTTFaU25SN2hxdEdVSG95ZnJGbjM4cHR1RFZfMWZvTUtiRkZTYXg2UnA1SUs1eWVvV0ZaMnc2c3V4WHNZaWluRW4wbnpRaXdreGJleDAwQVdickpMcUtHejJvdFFZTUZadw?oc=5",
-          "source": "Business Insider",
-          "snippet": "I Quit My $390K Job to Start My Company. I Still Question My Decision.&nbsp;&nbsp;Business Insider",
-          "pub_date": "Sun, 18 Jan 2026 08:00:00 GMT"
+          "title": "HPU Student Entrepreneurs Earn $30,000 in Business Plan Competition - High Point University",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDVfMnhZS3JndXJ4eV9iV3M2ZlA1bUxsMXZvVWlRVkdKLUlyVkRPRUtWakxPTmdLUk5zS05pelQxbEtONV8tYUhOM2Z3cHVMN3BsWDduUy02cWFaR2Y0S2RhNmtUU1pYZDFHa1FtMl92cjFsd2VtOXBQMFNtajZ4V3V4dkJhRzlqSmt0SzdqS2sxdU4yQmlCb2hiM1FGWlBqeFZQMF9LbEQ?oc=5",
+          "source": "High Point University",
+          "snippet": "HPU Student Entrepreneurs Earn $30,000 in Business Plan Competition&nbsp;&nbsp;High Point University",
+          "pub_date": "Thu, 16 Apr 2026 07:00:00 GMT"
         },
         {
           "title": "Karen Powell, Founder of My Wealth 4 Life, Interviewed on the Influential Entrepreneurs Podcast, Discussing Securing Retirement Lifestyle - redlandscommunitynews.com",
@@ -299,7 +299,7 @@
           "pub_date": "Mon, 08 Jun 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-09"
+      "scraped_at": "2026-07-10"
     }
   ]
 }
