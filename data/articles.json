@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T14:09:08.018856+00:00",
+  "generated_at": "2026-07-14T13:11:50.694513+00:00",
   "chapters": [
     {
       "chapter": 1,
@@ -29,7 +29,7 @@
           "pub_date": "Mon, 29 Jun 2026 10:40:24 GMT"
         }
       ],
-      "scraped_at": "2026-07-13"
+      "scraped_at": "2026-07-14"
     },
     {
       "chapter": 2,
@@ -37,6 +37,13 @@
       "sub": "M&A & Business Valuation",
       "authors": "Paul Belair & George Hohman",
       "articles": [
+        {
+          "title": "Interview: Harlem Local Darius Ross, From Homelessness To Entrepreneurial Success - Harlem World Magazine",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0hyU0tuaTRDbXEwZW1xb1RhYVNJbHpxZi15VmZNX3R5bEVVcFFVQ0hMVE9UY2VpV1ZBSVBBM05vT1VRd2duRGgtT2pTV3lJenlSTk5KMzQ4MVlSSWl4Qk0wZjRrcTQ5RHJBaDAzUzF5d1BxU0w0NTg1OG1SRVZ2bGRwUnJKX3Q0M1czVVpBSlRmdE5UakVtdTJMT0F3SnI0bTV5a1pqS0ZLa1dJaC1wUWRhYzB2dGM?oc=5",
+          "source": "Harlem World Magazine",
+          "snippet": "Interview: Harlem Local Darius Ross, From Homelessness To Entrepreneurial Success&nbsp;&nbsp;Harlem World Magazine",
+          "pub_date": "Tue, 14 Jul 2026 00:51:39 GMT"
+        },
         {
           "title": "How to Create an Exit Strategy for Your Business - U.S. Chamber of Commerce",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONERpMjFwUjkzVW8xLTRScUhVWTQ5VUFMS1R5cFY4c2p2eXYzZ3NYc0V0NUlaMmREUXM2N3VSaThYUjhERGNiSmhFTDB5TVBYNEhrOU9WSHRyYThWWUlUY2RYNlVFNkhvVGU4V3h1bXAtVzUwVVh0bG5FOWxmTUNJTTBJYjI?oc=5",
@@ -50,16 +57,9 @@
           "source": "The American Bazaar",
           "snippet": "From startup to exit: Deepak Hathiramani\u2019s playbook for GovCon entrepreneurs&nbsp;&nbsp;The American Bazaar",
           "pub_date": "Mon, 15 Jun 2026 07:00:00 GMT"
-        },
-        {
-          "title": "Mark Cuban\u2019s business lesson: Why having an exit strategy is the first sign your startup will fail - The Times of India",
-          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPWlE0VDdiMXBtZHRzNG1wOTJtZWNPbTVzSUtpcThkVXpKdTFvckZDNVo1NWk1blQ5cTQtWHBXZ2JFRV95cjc5c2o3NktfcDk2U2MwTDNzNWd3RldOVFk3aWxxME41TXJWeGJUMUFWeFNRbmlJRnlnbi1McGNCMEhlUHRDZ2tTcmI5RlYtVWh1aW83MTQ0TlRaWDljT29xQ3lLUjA0dkNvdnY4bkowRmR0al9XRDFLRUh1bk85QVNqTnB0UVVjd1FWem5ZbWFoaEhYemdQVV9XT3d0UFdJWk05OXpLWW02VGJTYmVxX0M0bTFqTE5OSGxrZWVXZWllMXdic2N0a0dxdW1TckdhaDI0QU1Bd082REpwZmFj0gGgAkFVX3lxTE51dl9fZE1paXpOR043aGw3WkswM2tYU2FkRGNZbTVsWGVueUl5ZXp6bERJeW01NExVZ3B3S3B4WnB2UzhKbTU2WXpkcC1XUWxXa3JwVUZNVXA1U2RvWjFTZ3ZHOS1td3VZaGVsRWhTM3lBUHZVakljSFlYM1ZiTkFGUUFodnpqUXVRVUNPSG14S042V2kyVkUyVTdBREd4Um1pRUNwMzlQenNxMk9CNW9zeHJ2UjRRRlA3OU1MbWJuY1dsUTItMVFfOFhQd0NvWGh4ckZpUUxmX1g1Wkw5cGNSb3NGMnk1c1gtUjM0MWl4c1R4TE9vNjV3X1FNNFFhMUNEMXMxVms2V3R2NnhheVZmYlhHRnNHbThjMDlsMTNYeQ?oc=5",
-          "source": "The Times of India",
-          "snippet": "Mark Cuban\u2019s business lesson: Why having an exit strategy is the first sign your startup will fail&nbsp;&nbsp;The Times of India",
-          "pub_date": "Sat, 16 May 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-13"
+      "scraped_at": "2026-07-14"
     },
     {
       "chapter": 3,
@@ -68,28 +68,28 @@
       "authors": "Rafa Loyo & Jim Randall",
       "articles": [
         {
-          "title": "Why Leadership Teams Fail At Strategy Execution And How To Fix It - Forbes",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXpNczJQdVBKTWlEV0dsby1FaEFGUVg5X1B3Zk9qUGI2bDJMSUxydGhRdURFUUdERXhBRmNzUndTVXhITTREMzMxdk9faE5rUldabk9ld2p2dHdfeXJjVEpMckJ6dFZNckFkTkk5ZmJ5MHRVSm5iSXo2WGlwc0NoeTBvcUYxTF9pbUNmaDB4LUdlNk9pMll0Y01BRTNVYzJObzRrV3pCN19scHYtdThYcHJVUVFYbjFMbkE?oc=5",
-          "source": "Forbes",
-          "snippet": "Why Leadership Teams Fail At Strategy Execution And How To Fix It&nbsp;&nbsp;Forbes",
-          "pub_date": "Tue, 04 Nov 2025 08:00:00 GMT"
+          "title": "Uniserve Advances National Digital Infrastructure Strategy with $1.8 Million Committed Growth Credit Facility - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOYXcwTDFZVmg5UllnQ2RQMVByVG5CWUluZlpOMkQ3cGNzMWpGYmRLX2RaYTY3dFhZenR2cWtUR0RaN04yTERraFBPWVJaQ1VEcjJKUnZiY2poSDdJUF9wdFo0Q0cwTTJYeVJKMEZjbG5aQXVSMjFoUzI1elRZTzNteUtSVDdnRl9zYW9tRFNtblRpTnN5bEdoRHBzNS1hTU9MRXN2RmNZdTZ6aGFySExVNk1oWG1ZWUp4OFVuZWdnTWZpN2xWS290dFJLbGcyN1ZyWXcxZ2dWV05tTC1BeHM5R0FUWEhUVjN0cXppelRkQmRCbWVIRFFMMnlYb2NvVERl?oc=5",
+          "source": "TradingView",
+          "snippet": "Uniserve Advances National Digital Infrastructure Strategy with $1.8 Million Committed Growth Credit Facility&nbsp;&nbsp;TradingView",
+          "pub_date": "Tue, 14 Jul 2026 11:30:00 GMT"
         },
         {
-          "title": "Strategy Update and 2025 Preliminary Results - WPP.com",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZEJuV0JzRTk2V2NQZnB0WHdwbE13c2E4WXJjVWROSS1WVDljS3VCU19VZlRKdmliNVI0bHNiN3BrSzhHMGE3ay1ZVmxFblpxWk9wYzZrUEFxbWFGa1lLNDRpaGNKQkw3UXVsaEJzYkVmVDdoTXRXbFZOT3NuVjRrZWE5ZmJ3bU0?oc=5",
-          "source": "WPP.com",
-          "snippet": "Strategy Update and 2025 Preliminary Results&nbsp;&nbsp;WPP.com",
+          "title": "From paper to performance: How to execute your 2026 credit union strategic plan - CUInsight",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWVRBZ0VjRlV6U3JLUnBwLTdLeWktRDczdDFWaUMzRHdid0ZCQmhtdWY2dERjZi1UNVg5S0R0VXlua3N0MDJSYUNzeEJiMC1ibXhTa3dpVlNaRG54YUVCRzhYWVUydXNGLXI3VHljVEFWb3VNVkNvUHpRWTE4a0JSRU0tcEtrRGNfRHVyRDVxTWNmRnBLb1dVMmVZXzUzODI3SFNGX09jR2U?oc=5",
+          "source": "CUInsight",
+          "snippet": "From paper to performance: How to execute your 2026 credit union strategic plan&nbsp;&nbsp;CUInsight",
           "pub_date": "Thu, 26 Feb 2026 08:00:00 GMT"
         },
         {
-          "title": "BTS: \u2018Improvisation is an essential part of strategy execution\u2019 - Consultancy.eu",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZW1vR0xxMlZYR3cxckhGWGRlQkVJRG1QSnVwSnQ0N3R4Y21KZmJxMEc5eVNlemV3UlhnU3h5QXhjcTh5QjRrS3ZpSmlsM2tYckRHc3JFUEtpbVctS2pBcHpVcDZZT3Ntb1BPc0FjVDJYbHR5ekc4RG5tTG1NUWlYcmJRTWE1RnhlNFppTktxV1NCNkVwdEl3czhHeXBWbWvSAaQBQVVfeXFMT29OeXZLSUxwakJCUnV0azBHTGdubjAtXzlzamJ3RHJSRzJqMVkxOFg5N0NObElobEVBbG9zcUw1RUwyZ0t4Y0Q0QXE0ZHdCNG1lZG9sNDdFeXNmdHF5SktybmZMRjcxSGNPNWMzeHU4a0hfck85RFZ5NG1DelNqUi1xbGMzX01sS1QwSGdISHVHMTFhUDR0aVFjUWF3QU5Kd2hLbGs?oc=5",
-          "source": "Consultancy.eu",
-          "snippet": "BTS: \u2018Improvisation is an essential part of strategy execution\u2019&nbsp;&nbsp;Consultancy.eu",
-          "pub_date": "Thu, 22 Jan 2026 08:00:00 GMT"
+          "title": "Strategy Update and 2025 Preliminary Results - WPP",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZEJuV0JzRTk2V2NQZnB0WHdwbE13c2E4WXJjVWROSS1WVDljS3VCU19VZlRKdmliNVI0bHNiN3BrSzhHMGE3ay1ZVmxFblpxWk9wYzZrUEFxbWFGa1lLNDRpaGNKQkw3UXVsaEJzYkVmVDdoTXRXbFZOT3NuVjRrZWE5ZmJ3bU0?oc=5",
+          "source": "WPP",
+          "snippet": "Strategy Update and 2025 Preliminary Results&nbsp;&nbsp;WPP",
+          "pub_date": "Thu, 26 Feb 2026 08:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-13"
+      "scraped_at": "2026-07-14"
     },
     {
       "chapter": 4,
@@ -119,7 +119,7 @@
           "pub_date": "Wed, 27 Aug 2025 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-13"
+      "scraped_at": "2026-07-14"
     },
     {
       "chapter": 5,
@@ -135,21 +135,21 @@
           "pub_date": "Mon, 22 Jun 2026 07:00:00 GMT"
         },
         {
-          "title": "Pride in PR: Gabriel Gomez - PRWeek",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PbHdKcFhldkZYYUdpY1RrdE93VUZmZmlQT1RkMlBFS1FsYXFGc2F0aUZmS21Fb2VfSU1OSzdMOVBncFlEc0otVTI0NTY3UG9BV0JoR2NneFBQd1Z3V2lsZl9QVVdiNUJ5WjB5ODln?oc=5",
-          "source": "PRWeek",
-          "snippet": "Pride in PR: Gabriel Gomez&nbsp;&nbsp;PRWeek",
-          "pub_date": "Thu, 18 Jun 2026 07:00:00 GMT"
-        },
-        {
           "title": "Why JBL is building marketing around culture not campaigns - Brand Innovators",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXpYamE0dkF6MWVkcEkwUHlnSHk5bUtIbmV4ZTlDNEk3MEpURWZDdUo5b1Q4aTMtZkIzUy1scXU3VEJUREY2Vks0NjFGV0s2QXYtejBPMm93NlRrSC00MHRSdlpQcnJqeW00akp4eFRLeTZwRGxOV1BEQmR0eEpoVXB0cFpPaUhVeTBtU3E3WGxfZw?oc=5",
           "source": "Brand Innovators",
           "snippet": "Why JBL is building marketing around culture not campaigns&nbsp;&nbsp;Brand Innovators",
           "pub_date": "Wed, 08 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Why Culture Is a Business Investment, Not a Brand Expense - AdvisorHub",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT2tNUkIwa2VtZC1VVnphVU5JWG81aXVpaEM0VzdfT29FZ3NKUEVvNm9Pdk5wVjRCNUxPNG1ZTkxvTVF0QWxTYVE4VjliYkFCemRWUDl4clU4cVEydVAxSndDeTF6eU5YazRYOFZraFd6U29GVHdzZE9VNmw5ZzllUHRqR29wdkJlX2lrLU5MUnc2SzJLSVhYcmhR?oc=5",
+          "source": "AdvisorHub",
+          "snippet": "Why Culture Is a Business Investment, Not a Brand Expense&nbsp;&nbsp;AdvisorHub",
+          "pub_date": "Tue, 24 Mar 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-13"
+      "scraped_at": "2026-07-14"
     },
     {
       "chapter": 6,
@@ -179,7 +179,7 @@
           "pub_date": "Mon, 01 Jun 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-13"
+      "scraped_at": "2026-07-14"
     },
     {
       "chapter": 7,
@@ -209,7 +209,7 @@
           "pub_date": "Thu, 13 Nov 2025 08:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-13"
+      "scraped_at": "2026-07-14"
     },
     {
       "chapter": 8,
@@ -222,14 +222,7 @@
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMlFNWXd4M0hCM0tZVk1ORzB6R2NqU0poWWpzUURvY281am1sYzJyeU5JSk92UTlJUHpTN3NtTjU1blNtVVZ4UkkzMDRCXzI3Zl9KSXEtMF9MbXktU2o5SllVallHNEJ4X0VsZ1B6R0xjOTB1YUFlTTQ3UHlEdm01QU5SdUU?oc=5",
           "source": "Harvard Business Review",
           "snippet": "Performance Management Needs New Metrics in the AI Era&nbsp;&nbsp;Harvard Business Review",
-          "pub_date": "Mon, 06 Jul 2026 20:07:31 GMT"
-        },
-        {
-          "title": "Thousands of CEOs admit AI had no impact on employment or productivity\u2014and it has economists resurrecting a paradox from 40 years ago - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3ptZXVGa1lTR0lfcjB5T20yMXQwdTFHdU45dVQtbFVBa1BnbG5RcVdwZndWQlpGMHJpLW1sQURMT29YR2tPemd0bUZzNnNGWnl4SEpTMWJ0X3hkM2d1NlV6aUR5d1lmalRlbTFsSy00OGF1eFpMTHcwT0tMNWlWNGtpOE5FeDZrbzVGVEVCUVdZd2ZlQXdtYUEyUV9IOWxwV1ppUjlKV042VDhvUnZCcWNR?oc=5",
-          "source": "Fortune",
-          "snippet": "Thousands of CEOs admit AI had no impact on employment or productivity\u2014and it has economists resurrecting a paradox from 40 years ago&nbsp;&nbsp;Fortune",
-          "pub_date": "Sun, 19 Apr 2026 07:00:00 GMT"
+          "pub_date": "Mon, 06 Jul 2026 07:00:00 GMT"
         },
         {
           "title": "\u2018Talk to My A.I. Twin\u2019: Busy Executives Have a New Productivity Hack - The New York Times",
@@ -237,9 +230,16 @@
           "source": "The New York Times",
           "snippet": "\u2018Talk to My A.I. Twin\u2019: Busy Executives Have a New Productivity Hack&nbsp;&nbsp;The New York Times",
           "pub_date": "Mon, 08 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Thousands of CEOs admit AI had no impact on employment or productivity\u2014and it has economists resurrecting a paradox from 40 years ago - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3ptZXVGa1lTR0lfcjB5T20yMXQwdTFHdU45dVQtbFVBa1BnbG5RcVdwZndWQlpGMHJpLW1sQURMT29YR2tPemd0bUZzNnNGWnl4SEpTMWJ0X3hkM2d1NlV6aUR5d1lmalRlbTFsSy00OGF1eFpMTHcwT0tMNWlWNGtpOE5FeDZrbzVGVEVCUVdZd2ZlQXdtYUEyUV9IOWxwV1ppUjlKV042VDhvUnZCcWNR?oc=5",
+          "source": "Fortune",
+          "snippet": "Thousands of CEOs admit AI had no impact on employment or productivity\u2014and it has economists resurrecting a paradox from 40 years ago&nbsp;&nbsp;Fortune",
+          "pub_date": "Sun, 19 Apr 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-13"
+      "scraped_at": "2026-07-14"
     },
     {
       "chapter": 9,
@@ -269,7 +269,7 @@
           "pub_date": "Mon, 20 Apr 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-13"
+      "scraped_at": "2026-07-14"
     },
     {
       "chapter": 10,
@@ -299,7 +299,7 @@
           "pub_date": "Mon, 20 Apr 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-13"
+      "scraped_at": "2026-07-14"
     }
   ]
 }
