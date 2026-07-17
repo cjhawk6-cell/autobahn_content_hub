@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T13:23:14.555697+00:00",
+  "generated_at": "2026-07-17T13:07:26.368991+00:00",
   "chapters": [
     {
       "chapter": 1,
@@ -29,7 +29,7 @@
           "pub_date": "Tue, 23 Jun 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-16"
+      "scraped_at": "2026-07-17"
     },
     {
       "chapter": 2,
@@ -38,13 +38,6 @@
       "authors": "Paul Belair & George Hohman",
       "articles": [
         {
-          "title": "Interview: Harlem Local Darius Ross, From Homelessness To Entrepreneurial Success - Harlem World Magazine",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0hyU0tuaTRDbXEwZW1xb1RhYVNJbHpxZi15VmZNX3R5bEVVcFFVQ0hMVE9UY2VpV1ZBSVBBM05vT1VRd2duRGgtT2pTV3lJenlSTk5KMzQ4MVlSSWl4Qk0wZjRrcTQ5RHJBaDAzUzF5d1BxU0w0NTg1OG1SRVZ2bGRwUnJKX3Q0M1czVVpBSlRmdE5UakVtdTJMT0F3SnI0bTV5a1pqS0ZLa1dJaC1wUWRhYzB2dGM?oc=5",
-          "source": "Harlem World Magazine",
-          "snippet": "Interview: Harlem Local Darius Ross, From Homelessness To Entrepreneurial Success&nbsp;&nbsp;Harlem World Magazine",
-          "pub_date": "Tue, 14 Jul 2026 00:51:39 GMT"
-        },
-        {
           "title": "How to Create an Exit Strategy for Your Business - U.S. Chamber of Commerce",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONERpMjFwUjkzVW8xLTRScUhVWTQ5VUFMS1R5cFY4c2p2eXYzZ3NYc0V0NUlaMmREUXM2N3VSaThYUjhERGNiSmhFTDB5TVBYNEhrOU9WSHRyYThWWUlUY2RYNlVFNkhvVGU4V3h1bXAtVzUwVVh0bG5FOWxmTUNJTTBJYjI?oc=5",
           "source": "U.S. Chamber of Commerce",
@@ -52,14 +45,21 @@
           "pub_date": "Tue, 03 Feb 2026 08:00:00 GMT"
         },
         {
-          "title": "Mark Cuban\u2019s business lesson: Why having an exit strategy is the first sign your startup will fail - The Times of India",
-          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPWlE0VDdiMXBtZHRzNG1wOTJtZWNPbTVzSUtpcThkVXpKdTFvckZDNVo1NWk1blQ5cTQtWHBXZ2JFRV95cjc5c2o3NktfcDk2U2MwTDNzNWd3RldOVFk3aWxxME41TXJWeGJUMUFWeFNRbmlJRnlnbi1McGNCMEhlUHRDZ2tTcmI5RlYtVWh1aW83MTQ0TlRaWDljT29xQ3lLUjA0dkNvdnY4bkowRmR0al9XRDFLRUh1bk85QVNqTnB0UVVjd1FWem5ZbWFoaEhYemdQVV9XT3d0UFdJWk05OXpLWW02VGJTYmVxX0M0bTFqTE5OSGxrZWVXZWllMXdic2N0a0dxdW1TckdhaDI0QU1Bd082REpwZmFj0gGgAkFVX3lxTE51dl9fZE1paXpOR043aGw3WkswM2tYU2FkRGNZbTVsWGVueUl5ZXp6bERJeW01NExVZ3B3S3B4WnB2UzhKbTU2WXpkcC1XUWxXa3JwVUZNVXA1U2RvWjFTZ3ZHOS1td3VZaGVsRWhTM3lBUHZVakljSFlYM1ZiTkFGUUFodnpqUXVRVUNPSG14S042V2kyVkUyVTdBREd4Um1pRUNwMzlQenNxMk9CNW9zeHJ2UjRRRlA3OU1MbWJuY1dsUTItMVFfOFhQd0NvWGh4ckZpUUxmX1g1Wkw5cGNSb3NGMnk1c1gtUjM0MWl4c1R4TE9vNjV3X1FNNFFhMUNEMXMxVms2V3R2NnhheVZmYlhHRnNHbThjMDlsMTNYeQ?oc=5",
-          "source": "The Times of India",
-          "snippet": "Mark Cuban\u2019s business lesson: Why having an exit strategy is the first sign your startup will fail&nbsp;&nbsp;The Times of India",
-          "pub_date": "Sat, 16 May 2026 07:00:00 GMT"
+          "title": "Interview: Harlem Local Darius Ross, From Homelessness To Entrepreneurial Success - Harlem World Magazine",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0hyU0tuaTRDbXEwZW1xb1RhYVNJbHpxZi15VmZNX3R5bEVVcFFVQ0hMVE9UY2VpV1ZBSVBBM05vT1VRd2duRGgtT2pTV3lJenlSTk5KMzQ4MVlSSWl4Qk0wZjRrcTQ5RHJBaDAzUzF5d1BxU0w0NTg1OG1SRVZ2bGRwUnJKX3Q0M1czVVpBSlRmdE5UakVtdTJMT0F3SnI0bTV5a1pqS0ZLa1dJaC1wUWRhYzB2dGM?oc=5",
+          "source": "Harlem World Magazine",
+          "snippet": "Interview: Harlem Local Darius Ross, From Homelessness To Entrepreneurial Success&nbsp;&nbsp;Harlem World Magazine",
+          "pub_date": "Tue, 14 Jul 2026 00:51:39 GMT"
+        },
+        {
+          "title": "Business Exit Strategies for Startup Founders & Entrepreneurs - J.P. Morgan",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTU5NZlBZTkQwd29TWDREd3dhcVZjWHo4MS1JSVpOVU1UNHUtR29HNzdzR1BjS0NFbGl5V1l2UFhPMllFc1JjLVpyZEVzalhaS1VWZDdvQ1kwZGFkdDBfczlmb3o5bjU3NzR6SnhFOWdfM1ZYUkZuVEo4Qk9Ta3B6TnNJYUJ0OEVsMmZFWnVVSDlzMGZueWhGWXlSblQzYW1FOXFndkJ1Y00wODdLa296RlJ6UVhwVzQteHBpbnZCeG53Y2tSSmc?oc=5",
+          "source": "J.P. Morgan",
+          "snippet": "Business Exit Strategies for Startup Founders & Entrepreneurs&nbsp;&nbsp;J.P. Morgan",
+          "pub_date": "Thu, 20 Nov 2025 15:35:36 GMT"
         }
       ],
-      "scraped_at": "2026-07-16"
+      "scraped_at": "2026-07-17"
     },
     {
       "chapter": 3,
@@ -68,28 +68,28 @@
       "authors": "Rafa Loyo & Jim Randall",
       "articles": [
         {
+          "title": "Wrike Now Offers a Strategic Portfolio Management Solution to Bridge Strategy and Execution, Enabling Organizations to Plan and Deliver True Transformation - Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOQWJ3elhwY2E1ZHFBalM5VHpoTEkxRHYyUFhMZVpYcmpvcTJoa3MyakZIRlhVdTRKNnZRNGZRajFSREFZRGRrQ2hlV2xJNExJSGFYd1B1Yy03d1BCRkdLWWx0cGtXaEdLbnNhc2lBTHc3Q2ZCb3ZRbkt3a0xGRWZaZlRxNTgzVjZnZXVDZy1SdFZlLTl3c2tERjQyRmR5YTF4WnhPVmJBbEM0QU1ydWlaRHhCUWJLd080M18wN0ZRMXlURWRDdjFaUElMWE5vVGZRc3lCRjdGNWVQblRONGRJSk50VGFaelgyNU1jcmozTDZGY0QwdndOZGRuaGZPdndhaWNfeFFqcldKMDRXdHdEODNEeEt4UUJ3XzNzLWhZMFZGdm81SEZSRFlVdXNjN3ZHV0djSE93?oc=5",
+          "source": "Business Wire",
+          "snippet": "Wrike Now Offers a Strategic Portfolio Management Solution to Bridge Strategy and Execution, Enabling Organizations to Plan and Deliver True Transformation&nbsp;&nbsp;Business Wire",
+          "pub_date": "Tue, 14 Jul 2026 13:00:00 GMT"
+        },
+        {
+          "title": "Uniserve Advances National Digital Infrastructure Strategy with $1.8 Million Committed Growth Credit Facility - TMX Newsfile",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUWZpY0VkYThGT1NZVm1CS21haU1zM1RfNVdzaF9Fb241TFlEVzVGUmJKQUFfbGtGWWpBNTYtWk9GekRPb3NRYU14WjNDOUJDTWYtTmVrSUQ0WnRVWFBBWnJyN1MtR092cjM3YnNNd0NZeU1ySzJVdnJtVzFKemZVdkdSV2g2UDAyZVBvWldXRTUwMHRfaEh4UF9jXzhiTzJvbUJucnlHSkEzNWp2Z1F6S3hMaGFmRkM4OFFaTGF1d1FuT01td0plSFRpdjRoZzF3MWZwbHpxbEdwb1Y1cmhLd0hMamVEVHc?oc=5",
+          "source": "TMX Newsfile",
+          "snippet": "Uniserve Advances National Digital Infrastructure Strategy with $1.8 Million Committed Growth Credit Facility&nbsp;&nbsp;TMX Newsfile",
+          "pub_date": "Tue, 14 Jul 2026 11:30:00 GMT"
+        },
+        {
           "title": "From paper to performance: How to execute your 2026 credit union strategic plan - CUInsight",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWVRBZ0VjRlV6U3JLUnBwLTdLeWktRDczdDFWaUMzRHdid0ZCQmhtdWY2dERjZi1UNVg5S0R0VXlua3N0MDJSYUNzeEJiMC1ibXhTa3dpVlNaRG54YUVCRzhYWVUydXNGLXI3VHljVEFWb3VNVkNvUHpRWTE4a0JSRU0tcEtrRGNfRHVyRDVxTWNmRnBLb1dVMmVZXzUzODI3SFNGX09jR2U?oc=5",
           "source": "CUInsight",
           "snippet": "From paper to performance: How to execute your 2026 credit union strategic plan&nbsp;&nbsp;CUInsight",
           "pub_date": "Thu, 26 Feb 2026 08:00:00 GMT"
-        },
-        {
-          "title": "Why Leadership Teams Fail At Strategy Execution And How To Fix It - Forbes",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXpNczJQdVBKTWlEV0dsby1FaEFGUVg5X1B3Zk9qUGI2bDJMSUxydGhRdURFUUdERXhBRmNzUndTVXhITTREMzMxdk9faE5rUldabk9ld2p2dHdfeXJjVEpMckJ6dFZNckFkTkk5ZmJ5MHRVSm5iSXo2WGlwc0NoeTBvcUYxTF9pbUNmaDB4LUdlNk9pMll0Y01BRTNVYzJObzRrV3pCN19scHYtdThYcHJVUVFYbjFMbkE?oc=5",
-          "source": "Forbes",
-          "snippet": "Why Leadership Teams Fail At Strategy Execution And How To Fix It&nbsp;&nbsp;Forbes",
-          "pub_date": "Tue, 04 Nov 2025 08:00:00 GMT"
-        },
-        {
-          "title": "Strategy Update and 2025 Preliminary Results - WPP.com",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZEJuV0JzRTk2V2NQZnB0WHdwbE13c2E4WXJjVWROSS1WVDljS3VCU19VZlRKdmliNVI0bHNiN3BrSzhHMGE3ay1ZVmxFblpxWk9wYzZrUEFxbWFGa1lLNDRpaGNKQkw3UXVsaEJzYkVmVDdoTXRXbFZOT3NuVjRrZWE5ZmJ3bU0?oc=5",
-          "source": "WPP.com",
-          "snippet": "Strategy Update and 2025 Preliminary Results&nbsp;&nbsp;WPP.com",
-          "pub_date": "Thu, 26 Feb 2026 08:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-16"
+      "scraped_at": "2026-07-17"
     },
     {
       "chapter": 4,
@@ -112,14 +112,14 @@
           "pub_date": "Mon, 08 Jun 2026 07:00:00 GMT"
         },
         {
-          "title": "Growth amid uncertainty: Jump-starting B2B sales performance - McKinsey & Company",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZTRZSENpb09YaDZtdGRtYjE2QkVfa0tuZFlBbUR2UlBRRkxhblBzVV9WSFF4clY4MkpYWWZBQ3A0OVI0NzZuQmV5aUpBUGFMMHRKbUV1cHIxdHVtWm5HRW8zRHR2MC0wWE0tY21HeUpDNHFnRmJUbi1UdzRFVzRsWWFVR0hLbFZGUVQwNXJVQXhFdVZ6QkZWOWR6azlsakEtYkdCa084R2swb2o4MWZoUUZNZWdEYnZBN0cwdmNXY1VPZV84dnFIdDljbEZmbG54U0Z3?oc=5",
-          "source": "McKinsey & Company",
-          "snippet": "Growth amid uncertainty: Jump-starting B2B sales performance&nbsp;&nbsp;McKinsey & Company",
-          "pub_date": "Wed, 27 Aug 2025 07:00:00 GMT"
+          "title": "How to Double B2B Sales Growth - Bain & Company",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KUjR4bFFkR0FPV0NzcF96cEVjVExiZDhMNFVSTHZfYk10UEtuYW8xVmh5blI5a2VSck4ySjhQTTZpQzNBQ3JRWVE3VjhjcEx3SVM2LUpQRmJELUJPS3psdExNdVRKaUpGYVJ6dmM4M3l2blJCSHAybA?oc=5",
+          "source": "Bain & Company",
+          "snippet": "How to Double B2B Sales Growth&nbsp;&nbsp;Bain & Company",
+          "pub_date": "Tue, 09 Sep 2025 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-16"
+      "scraped_at": "2026-07-17"
     },
     {
       "chapter": 5,
@@ -142,14 +142,14 @@
           "pub_date": "Wed, 08 Apr 2026 07:00:00 GMT"
         },
         {
-          "title": "Why Culture Is a Business Investment, Not a Brand Expense - AdvisorHub",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT2tNUkIwa2VtZC1VVnphVU5JWG81aXVpaEM0VzdfT29FZ3NKUEVvNm9Pdk5wVjRCNUxPNG1ZTkxvTVF0QWxTYVE4VjliYkFCemRWUDl4clU4cVEydVAxSndDeTF6eU5YazRYOFZraFd6U29GVHdzZE9VNmw5ZzllUHRqR29wdkJlX2lrLU5MUnc2SzJLSVhYcmhR?oc=5",
-          "source": "AdvisorHub",
-          "snippet": "Why Culture Is a Business Investment, Not a Brand Expense&nbsp;&nbsp;AdvisorHub",
-          "pub_date": "Tue, 24 Mar 2026 07:00:00 GMT"
+          "title": "Pride in PR: Gabriel Gomez - PRWeek",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PbHdKcFhldkZYYUdpY1RrdE93VUZmZmlQT1RkMlBFS1FsYXFGc2F0aUZmS21Fb2VfSU1OSzdMOVBncFlEc0otVTI0NTY3UG9BV0JoR2NneFBQd1Z3V2lsZl9QVVdiNUJ5WjB5ODln?oc=5",
+          "source": "PRWeek",
+          "snippet": "Pride in PR: Gabriel Gomez&nbsp;&nbsp;PRWeek",
+          "pub_date": "Thu, 18 Jun 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-16"
+      "scraped_at": "2026-07-17"
     },
     {
       "chapter": 6,
@@ -172,14 +172,14 @@
           "pub_date": "Wed, 25 Feb 2026 08:00:00 GMT"
         },
         {
-          "title": "Jobsity Announces Strategic Acquisition of Eureka Labs, Expanding Scale and Strengthening Its Position as a Leading Nearshore Talent Partner - Business Wire",
-          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQSlBhMHBNSVZfZG9QTkpsa1ExMUpmOHlucW1OX0RUeXN5RkVnT2hjenA5MlN0bHRfbHM3YTQtQ1FMemhralV3a3B4dkw5bjJ1eXVHaHp1OTY5MU10OUJUNUFuanVxWldyUmdHWWRyaVNNalc0NC04UzdjS0I5azFQMmJYeFNDUnloMEtCcnlhRHdhWGZ4QkViWU5Db3VQb1ZiMERHeU5iZHloQXI0Qk5YelVfNTdxTHp4cUlHUjlsZVhpamJmWXgwWTdoM0RnRVBXTFcyNlJEUng5T3VGYjltQ2xqNmtFMzQyYjF6aGFBZ1QwOWpuN29Lb0wwQk10ZER5WE9BNFE1U0pub3FleThPaHlDUXVRN0ZKWVN6Q1FNek40dw?oc=5",
-          "source": "Business Wire",
-          "snippet": "Jobsity Announces Strategic Acquisition of Eureka Labs, Expanding Scale and Strengthening Its Position as a Leading Nearshore Talent Partner&nbsp;&nbsp;Business Wire",
-          "pub_date": "Mon, 01 Jun 2026 07:00:00 GMT"
+          "title": "WorkWave Names Melinda Vedder as Chief Human Resources Officer - Pest Control Technology",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS1F5THVoSVJYOUJrRW9iYnYyUHNaYnlwdW9XY09NbHkzMVFtNjNYMmVYcnBieGYtamt6Yzk0SkRmSDZGakx1Ymt0T0Nya1hlWGY3OHhtUWFDRF9TU1FRd0lIX05kajU2QlBqbURiNXhQRjhJblktN2tjYmtmM29XZ3gycUtWZFZRZF9Ib2k2ZXR2cHkzaFg4dENXUzZURDA?oc=5",
+          "source": "Pest Control Technology",
+          "snippet": "WorkWave Names Melinda Vedder as Chief Human Resources Officer&nbsp;&nbsp;Pest Control Technology",
+          "pub_date": "Tue, 21 Apr 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-16"
+      "scraped_at": "2026-07-17"
     },
     {
       "chapter": 7,
@@ -209,7 +209,7 @@
           "pub_date": "Thu, 13 Nov 2025 08:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-16"
+      "scraped_at": "2026-07-17"
     },
     {
       "chapter": 8,
@@ -232,14 +232,14 @@
           "pub_date": "Mon, 08 Jun 2026 07:00:00 GMT"
         },
         {
-          "title": "Thousands of CEOs admit AI had no impact on employment or productivity\u2014and it has economists resurrecting a paradox from 40 years ago - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3ptZXVGa1lTR0lfcjB5T20yMXQwdTFHdU45dVQtbFVBa1BnbG5RcVdwZndWQlpGMHJpLW1sQURMT29YR2tPemd0bUZzNnNGWnl4SEpTMWJ0X3hkM2d1NlV6aUR5d1lmalRlbTFsSy00OGF1eFpMTHcwT0tMNWlWNGtpOE5FeDZrbzVGVEVCUVdZd2ZlQXdtYUEyUV9IOWxwV1ppUjlKV042VDhvUnZCcWNR?oc=5",
-          "source": "Fortune",
-          "snippet": "Thousands of CEOs admit AI had no impact on employment or productivity\u2014and it has economists resurrecting a paradox from 40 years ago&nbsp;&nbsp;Fortune",
-          "pub_date": "Sun, 19 Apr 2026 07:00:00 GMT"
+          "title": "Artificial Intelligence, Productivity, and the Workforce: Evidence from Corporate Executives - Atlanta - Federal Reserve Bank",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPNDhRMjNzUG10SXR3WWhIbURPZWFhUkNWUno2WXV2V1hwellWbDRSd2VuRkhCVVIxNEgtRVNFQ2VSaTdhU2J5bmMydzRfU3hUem1ES0tEZ09TNlliSU1veDJHMF9iSEJsaE15Rk5vb0RyVjJkcE9WVzB2b3hxd3MxdXVvMmttSnJKZ3A3amo0RHFyZDFJZFFfbzZ0aThIYXljTlQ4Z09VOU5wYjlFX1hSSVk4N0pndWJOT0l6czVmNGZJS0ZEZ2txaTlRb0xmYmR1ZU40bkNHdEpUX2QyY05mZHRVRlh0NnpiMmFZRmZwcGVVa0g0MjZEZmlWUk1TM1ppZ3JmbDVaTQ?oc=5",
+          "source": "Atlanta - Federal Reserve Bank",
+          "snippet": "Artificial Intelligence, Productivity, and the Workforce: Evidence from Corporate Executives&nbsp;&nbsp;Atlanta - Federal Reserve Bank",
+          "pub_date": "Wed, 25 Mar 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-16"
+      "scraped_at": "2026-07-17"
     },
     {
       "chapter": 9,
@@ -269,7 +269,7 @@
           "pub_date": "Mon, 20 Apr 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-16"
+      "scraped_at": "2026-07-17"
     },
     {
       "chapter": 10,
@@ -299,7 +299,7 @@
           "pub_date": "Mon, 20 Apr 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-07-16"
+      "scraped_at": "2026-07-17"
     }
   ]
 }
