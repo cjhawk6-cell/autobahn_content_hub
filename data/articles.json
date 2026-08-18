@@ -1,85 +1,305 @@
 {
-  "generated_at": "2026-08-17T12:28:00.515794+00:00",
+  "generated_at": "2026-08-18T12:26:14.951751+00:00",
   "chapters": [
     {
       "chapter": 1,
       "title": "Lead Like Lives Depend On It",
       "sub": "Leadership & Scaling",
       "authors": "Katherine Slain",
-      "articles": [],
-      "scraped_at": "2026-08-17"
+      "articles": [
+        {
+          "title": "Alpha Compute Strengthens Executive Team To Scale Global Infrastructure Business - AiThority",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaTloc1BlOHlIdDVvRGd6alJldFFMdlJ2VFRDeTFOTWx5NW82RkxJSkdSMTM3cG80WnB0N3JVZXhJYm91M1hRMm5lTlAta2RfT1BVRzZDX2ZZRkR1cjRVZW9UdWpYMGV1RDI2VmRxb19acmRKeE1YSW1KT2RXZGVyS0V4amFqMWg0YUJ2Z3V1Y0JCalU3OWJsbk9hRVF6Yk9XVERkeXJOWG12clBQSWtLMmdhUnBOekQ4UDdzdQ?oc=5",
+          "source": "AiThority",
+          "snippet": "Alpha Compute Strengthens Executive Team To Scale Global Infrastructure Business&nbsp;&nbsp;AiThority",
+          "pub_date": "Tue, 18 Aug 2026 08:09:53 GMT"
+        },
+        {
+          "title": "Alpha Compute puts three new leaders behind a sales pipeline topping $1.5B - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNXZGamd2Z3VnS1BnYlJYQnpZaHdFUU9LLWNXaG5hM0JsZk14c3JHbW9CQldLckw3aXZkVTdtNFN6VWVfUFQ0YkVST1NvenY1am4wdWRQdU5vaEhhYWo0N2hjejZtWC1MSVZiLUdqZHNSSkNvd2otakhQWkM0X0xHU3A1aHZ6UWswdzRwSmY5M2dQbWMzWnVpcFZfZTRuSHNGX1FMLUNKcDU3MWlwd0Fn?oc=5",
+          "source": "Stock Titan",
+          "snippet": "Alpha Compute puts three new leaders behind a sales pipeline topping $1.5B&nbsp;&nbsp;Stock Titan",
+          "pub_date": "Mon, 17 Aug 2026 19:27:00 GMT"
+        },
+        {
+          "title": "Cyrille Bessi\u00e8re: The Executive Who Knows How to Scale Companies - citybiz",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNak50bU0tdnhPUUd3VElGLXhLcGNJRFpQcFhjMzdxWjFFYVk2Q0kwTWFybW4zQ29UWm1WY1NaeVJlakI4STJyZUxYWUpvdFlHZU1yenE0WjhKWTRXeXhKRVRFMVRnS0JkeU1teDlmTnltQWVMOERuaWVOOE5EM2JfbWRCajJYLUlIbnItMVRvLWxPX3ljNHY5SVFtSkp1OXRwaDc5Mg?oc=5",
+          "source": "citybiz",
+          "snippet": "Cyrille Bessi\u00e8re: The Executive Who Knows How to Scale Companies&nbsp;&nbsp;citybiz",
+          "pub_date": "Fri, 14 Aug 2026 22:00:07 GMT"
+        }
+      ],
+      "scraped_at": "2026-08-18"
     },
     {
       "chapter": 2,
       "title": "Maximize Your Multiple to Achieve Your Exit",
       "sub": "M&A & Business Valuation",
       "authors": "Paul Belair & George Hohman",
-      "articles": [],
-      "scraped_at": "2026-08-17"
+      "articles": [
+        {
+          "title": "Business Exit Strategies - J.P. Morgan Private Bank",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalJUT0c3NEFPTndZX08zeGN0dXVFOEJVcmVLRml0QUNjb2xXU3Nxd2ZjOW1mUVUtc0F6SDZ0M056b2Rpd21ZZWF6aVBpOHZESjRiMEtKYk13Sm52VTJJTzV5ZzhFVTE5LVVtcVN4aVpiUzJYUUEtclFONlM4S0NzS3owaFRDT3p6Z2NoZlhjSUh1QnhsWTkyT3pKQkJZR3YxWnZHSHpHTDQ3MEtSRDdBb1JDTVJrb1U?oc=5",
+          "source": "J.P. Morgan Private Bank",
+          "snippet": "Business Exit Strategies&nbsp;&nbsp;J.P. Morgan Private Bank",
+          "pub_date": "Fri, 03 Jul 2026 02:20:32 GMT"
+        },
+        {
+          "title": "MSMEs urged to plan exit strategies to attract investors - Business News Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaThBMFprcXRZRGdSbDBIWF9vSlJPZlVZV1ZsMU1SUUgxQi1uYnlJWUgtekgweEVRWWNRZGF1MGpWTW8yTUkzQk1KcW82R19ZOUYydWVJQ0xRTVVwVDlWbi1ZSERfalhLS0oyTy12UktYdjJleksxQm90NXk5SDk2OHVPVGdlZlpCN2pLMll4ZFlrQWQyUno0MVpFRlc2TEE?oc=5",
+          "source": "Business News Nigeria",
+          "snippet": "MSMEs urged to plan exit strategies to attract investors&nbsp;&nbsp;Business News Nigeria",
+          "pub_date": "Fri, 31 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Why You Need an Exit Plan Long Before You're Ready to Sell - entrepreneur.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM1NnNE5WNExrN0g3ckJYdWc4NFRfUnFxZ1RqWkNqZjVkYWFSLVJWUVBtUXM1MjRRMVNUZEVoVFlaTW1POXR1aUc1UEN5Vm4xcklGcy0tam5lUXJULVRaTnpESUkyWGF1TWlxcl95U1lPa0tmY1g1YW5ibmVLQk9nd25kcENfUVJyb1ZnRU1kQm9Jd09aZHRSLU02djVuYW1SMEd0cXhZUjNwVXhkbUE1NDRB?oc=5",
+          "source": "entrepreneur.com",
+          "snippet": "Why You Need an Exit Plan Long Before You're Ready to Sell&nbsp;&nbsp;entrepreneur.com",
+          "pub_date": "Wed, 11 Mar 2026 07:00:00 GMT"
+        }
+      ],
+      "scraped_at": "2026-08-18"
     },
     {
       "chapter": 3,
       "title": "What We Learned Selling Fish Food and Nike Shoes",
       "sub": "Strategic Planning & Execution",
       "authors": "Rafa Loyo & Jim Randall",
-      "articles": [],
-      "scraped_at": "2026-08-17"
+      "articles": [
+        {
+          "title": "Is VUCA the end of strategy and leadership? - imd.org",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT2hZeVA1ekJuVHpjM3NOUzNtbjM1NkRJNm5KcWg2UlIxUlRZRVB3WlRNTGhZN2pUcDhHZVNiWHhjSDRTQ0JPdjJwQ0d4eHhZNDlaSVBaYWpaS0lENzJCZ2p4bE5ldkhmc09nRUhUWWVOR3FMZlZReTl5Qy01TEdPTkVPWkowN0RYa2tWSzdld0xoRVZ2Zzg2bk9GMFk3d19qdktteQ?oc=5",
+          "source": "imd.org",
+          "snippet": "Is VUCA the end of strategy and leadership?&nbsp;&nbsp;imd.org",
+          "pub_date": "Tue, 11 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Wrike Now Offers a Strategic Portfolio Management Solution to Bridge Strategy and Execution, Enabling Organizations to Plan and Deliver True Transformation - Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOQWJ3elhwY2E1ZHFBalM5VHpoTEkxRHYyUFhMZVpYcmpvcTJoa3MyakZIRlhVdTRKNnZRNGZRajFSREFZRGRrQ2hlV2xJNExJSGFYd1B1Yy03d1BCRkdLWWx0cGtXaEdLbnNhc2lBTHc3Q2ZCb3ZRbkt3a0xGRWZaZlRxNTgzVjZnZXVDZy1SdFZlLTl3c2tERjQyRmR5YTF4WnhPVmJBbEM0QU1ydWlaRHhCUWJLd080M18wN0ZRMXlURWRDdjFaUElMWE5vVGZRc3lCRjdGNWVQblRONGRJSk50VGFaelgyNU1jcmozTDZGY0QwdndOZGRuaGZPdndhaWNfeFFqcldKMDRXdHdEODNEeEt4UUJ3XzNzLWhZMFZGdm81SEZSRFlVdXNjN3ZHV0djSE93?oc=5",
+          "source": "Business Wire",
+          "snippet": "Wrike Now Offers a Strategic Portfolio Management Solution to Bridge Strategy and Execution, Enabling Organizations to Plan and Deliver True Transformation&nbsp;&nbsp;Business Wire",
+          "pub_date": "Tue, 14 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Strategy Update and 2025 Preliminary Results - WPP.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZEJuV0JzRTk2V2NQZnB0WHdwbE13c2E4WXJjVWROSS1WVDljS3VCU19VZlRKdmliNVI0bHNiN3BrSzhHMGE3ay1ZVmxFblpxWk9wYzZrUEFxbWFGa1lLNDRpaGNKQkw3UXVsaEJzYkVmVDdoTXRXbFZOT3NuVjRrZWE5ZmJ3bU0?oc=5",
+          "source": "WPP.com",
+          "snippet": "Strategy Update and 2025 Preliminary Results&nbsp;&nbsp;WPP.com",
+          "pub_date": "Thu, 26 Feb 2026 08:00:00 GMT"
+        }
+      ],
+      "scraped_at": "2026-08-18"
     },
     {
       "chapter": 4,
       "title": "Every Day Without a Real Sales Strategy is a Donation",
       "sub": "Sales Strategy",
       "authors": "Deb & Brandon",
-      "articles": [],
-      "scraped_at": "2026-08-17"
+      "articles": [
+        {
+          "title": "AI Time Savings Won\u2019t Drive Revenue Unless CSOs Intervene - Gartner",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83YmJZYVNxUUtqV1lJanRha3hGWnFtdjJYSm5FWURzTUFrVm1uTDB2R1VRWklWVlM4cVhURDNTMVFxVmw0Ql9YZUZrdndhcC1JWFRZczVJRmxlR1REQmVvMg?oc=5",
+          "source": "Gartner",
+          "snippet": "AI Time Savings Won\u2019t Drive Revenue Unless CSOs Intervene&nbsp;&nbsp;Gartner",
+          "pub_date": "Fri, 19 Jun 2026 09:39:20 GMT"
+        },
+        {
+          "title": "B2B Sales Strategy Now Demands AI, Personalization to Survive - abasto.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeXlWSGVIUEpjeTZGWVJQMzBJWU1DSl80Y3dVRkZ0eS05QjI3cWo4clgzNXFzRnh1eWp3VWN0T0FPQnl5TnNIcWw4RFVKUTZWSk5fTy1zSk5FSmNtOW80MmN1THVoNjRsZWVZVUNIRGR1UkQxWE9ZZWhGX1A0bkdzVk5BemNDV05DVDR5X2VFNHVXZw?oc=5",
+          "source": "abasto.com",
+          "snippet": "B2B Sales Strategy Now Demands AI, Personalization to Survive&nbsp;&nbsp;abasto.com",
+          "pub_date": "Mon, 08 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "SenesTech Reports Record Q2 2026 Revenue and Gross Margin as E-commerce Growth Accelerates - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMVVIcjBOejk5WHEwM2JNYUh6Zy1FczMyZnAwRXNVMlVSYVhRRVpWM3F3NWZ3T2NESDZpM3Vnd1hXZkt0MHpqUW9XM20xdTU1Skx1Z05FTGt2OXlrV1VQTHFmQTV3WkRaOHppMUI5NXFXYl9rc0xPSm1WaFpOQlVwR1VqREdBTVM0Q25BUHhnVDdMWWpINnloYklGRWNBNU14UEJmMV90bGFob0ZoNjZWcHZIZE4xVTdwNWVmQmJjdElQbFRIcWJNM0R4T3NDQjktb3VyOWlQX2FKN3lEYTlxOUpjSHBNQQ?oc=5",
+          "source": "TradingView",
+          "snippet": "SenesTech Reports Record Q2 2026 Revenue and Gross Margin as E-commerce Growth Accelerates&nbsp;&nbsp;TradingView",
+          "pub_date": "Wed, 05 Aug 2026 20:05:00 GMT"
+        }
+      ],
+      "scraped_at": "2026-08-18"
     },
     {
       "chapter": 5,
       "title": "What Does Your Marketing Smell Like?",
       "sub": "Branding & Marketing",
       "authors": "Kayli Simpson & Yasmin West",
-      "articles": [],
-      "scraped_at": "2026-08-17"
+      "articles": [
+        {
+          "title": "Ulta\u2019s CMO on blending brand building and omnichannel marketing - Marketing Dive",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRlFnSEozTXJJdnl5aWFJQTFGR0tkcnhrUnUyOTNZNlIwcHZiLWFnbm0tQ0FWZEZCTWZvdUFQeEFvQkIwOHdpMmZBR3I5WmNjRmFYb0xJMGhQWmJHYUdWUVdyWndOWTYwR1ZQQ2E4V1dMV2NrT0hpRzNaU1VKdUdoZHMwSFB4SlhYTkZKZ2hDdEdsSkJ6TW91UTZTWlNGaGVmcUE?oc=5",
+          "source": "Marketing Dive",
+          "snippet": "Ulta\u2019s CMO on blending brand building and omnichannel marketing&nbsp;&nbsp;Marketing Dive",
+          "pub_date": "Tue, 30 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Big Pharma\u2019s Big Brand: Inside Eli Lilly\u2019s marketing culture - Fierce Pharma",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObHJQeGMyVlVJNHF4NHlLZ2N5cldpRTY4ZnBYSUNFYmhkNlBJSkllY0Nwd0c1bnlOM0hTcklyOUlRcGRaLWYxWWQ0QUxjcER4TWVmQ01ZVjd4YUxjblZJN3BwSFBtWG9PTUUwRHBDMnRIVmVZTnlOMGRreVl6dlNtNkNlQXcydXI4NjZLNWttR0QweGlDcTJ6SzhUSmoxU1ZjVjFuVUpLU0djQQ?oc=5",
+          "source": "Fierce Pharma",
+          "snippet": "Big Pharma\u2019s Big Brand: Inside Eli Lilly\u2019s marketing culture&nbsp;&nbsp;Fierce Pharma",
+          "pub_date": "Mon, 22 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Pride in PR: Gabriel Gomez - PRWeek",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PbHdKcFhldkZYYUdpY1RrdE93VUZmZmlQT1RkMlBFS1FsYXFGc2F0aUZmS21Fb2VfSU1OSzdMOVBncFlEc0otVTI0NTY3UG9BV0JoR2NneFBQd1Z3V2lsZl9QVVdiNUJ5WjB5ODln?oc=5",
+          "source": "PRWeek",
+          "snippet": "Pride in PR: Gabriel Gomez&nbsp;&nbsp;PRWeek",
+          "pub_date": "Thu, 18 Jun 2026 07:00:00 GMT"
+        }
+      ],
+      "scraped_at": "2026-08-18"
     },
     {
       "chapter": 6,
       "title": "The Talent Engine",
       "sub": "Talent & People Strategy",
       "authors": "Caleb Hawkins, Darla Klein & Yasmin West",
-      "articles": [],
-      "scraped_at": "2026-08-17"
+      "articles": [
+        {
+          "title": "Precision Over Scale: The New Rules of Hiring in 2026 - SHRM",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRFVYR0VscXJpMmVqV2dwazJDTkstVDJTNG9uTlZlWHJPVkFqQ0MzZTRQSUYwUDZweWw2dE52THZKSnhBTzQtb1g5UUYzbmJTbjFJcXlVYno2ZzU4aE0yNVRwN2RIN05xTWJVWnZQejVyY2xRNmJ2SF83QmVHel9GYmdWTEdEMWZLMVk5OThMNTF0TmdKR1F4bG84cnZRZ0FU?oc=5",
+          "source": "SHRM",
+          "snippet": "Precision Over Scale: The New Rules of Hiring in 2026&nbsp;&nbsp;SHRM",
+          "pub_date": "Wed, 25 Feb 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Ouster Names Shaluinn Fullove as Chief People Officer to Drive Global Growth and Talent Strategy - Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbUlpS0dERjNHcjRzanBhLW9JUkhXU1RxVERublpWZUlyMzhUb2dsVEFFZXpWbmtuZzFIN1kzRzgzRGlzNkp2RDBidHRZdnJyVWV3QVVTcnhIcWhJOXVpci1JdUxVQ1plZXM3YW96eDE3c1d3WE5lelY3MGJLa2JxTEtUbDg5S3Vsdl83bk1CbW9zUHRZZWFXbzRxZ053bFRrVXZfN01ScjZGVkNfTDQxZUsyUXpfdjE0NkxtY1p5OFA0Q294QWJkbWZueW82TEVIYW5odHowdVdicktHMGRIcE9pLUpOR2Nx?oc=5",
+          "source": "Business Wire",
+          "snippet": "Ouster Names Shaluinn Fullove as Chief People Officer to Drive Global Growth and Talent Strategy&nbsp;&nbsp;Business Wire",
+          "pub_date": "Thu, 23 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "WorkWave Names Melinda Vedder as Chief Human Resources Officer - Pest Control Technology",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS1F5THVoSVJYOUJrRW9iYnYyUHNaYnlwdW9XY09NbHkzMVFtNjNYMmVYcnBieGYtamt6Yzk0SkRmSDZGakx1Ymt0T0Nya1hlWGY3OHhtUWFDRF9TU1FRd0lIX05kajU2QlBqbURiNXhQRjhJblktN2tjYmtmM29XZ3gycUtWZFZRZF9Ib2k2ZXR2cHkzaFg4dENXUzZURDA?oc=5",
+          "source": "Pest Control Technology",
+          "snippet": "WorkWave Names Melinda Vedder as Chief Human Resources Officer&nbsp;&nbsp;Pest Control Technology",
+          "pub_date": "Tue, 21 Apr 2026 07:00:00 GMT"
+        }
+      ],
+      "scraped_at": "2026-08-18"
     },
     {
       "chapter": 7,
       "title": "Death by KPIs",
       "sub": "Metrics & Performance",
       "authors": "H\u00e9ctor Arias, Matt Radicelli & Jim Randall",
-      "articles": [],
-      "scraped_at": "2026-08-17"
+      "articles": [
+        {
+          "title": "30 Financial Metrics and KPIs to Measure Success in 2026 - Oracle NetSuite",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcThuZllxNkVka0dpOV9QdHZQM2RiU0tfMGVIR05tdW9ZN1AtYngwQ1d4WDFSb3ZNSUxKNHFCSUR4aC1lR1g2ZWYzWFE0NWF1WmVpejAxOW9VRFdJa01yLUFKa1hvbjNGQnR6a2hZcVVtQzgwRXNCdXVGbjhfNWR2eWpTSlFyRk5zLVZ3MnJvMU14ZjA?oc=5",
+          "source": "Oracle NetSuite",
+          "snippet": "30 Financial Metrics and KPIs to Measure Success in 2026&nbsp;&nbsp;Oracle NetSuite",
+          "pub_date": "Thu, 16 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "The KPIs to Help Manufacturers Improve Company Performance - CliftonLarsonAllen (CLA)",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc3hGVVVxVnMwVEpLcmxaNWJzaURJbERjczZaSDhlcnhvOFlHX1VZU0tETkctQjFqRVhZVkNtcFNoUWtfSmRhSmU5N3pYc25IVzlfTEs5TjFZWk1RTmhZd2JzSkpPSXVmQndRRHRBM29CaDBoWnVWRXcxMnBhWkcwT3dmWTAwSDFSeS1hYzFtRUNtd05nWE9PX25nbzRfc2ZzSjVFVURMY0hMRkdVMmtOdjVOYUluUXJIcEE?oc=5",
+          "source": "CliftonLarsonAllen (CLA)",
+          "snippet": "The KPIs to Help Manufacturers Improve Company Performance&nbsp;&nbsp;CliftonLarsonAllen (CLA)",
+          "pub_date": "Thu, 13 Nov 2025 08:00:00 GMT"
+        },
+        {
+          "title": "14 Tools to Track KPIs for Your Business - Business.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWNPSTVTUDVYYURoVkZKa0ItNEtQbmJqWlNJTlIzUVZqclAxMHFaajNobC1JbGNkZGZVajN6MWJLT1pJcXktVG10VG8zUUljdU43NU5WR1cyNDB4QkxONlJkb3hJR2FfNzdGZHd1VWhPbTktdU1vdTEzamFWY2ZFVDNKUFIwRG91ZDdWU1UyN2twNFpLd1JjU3EzTUpjdw?oc=5",
+          "source": "Business.com",
+          "snippet": "14 Tools to Track KPIs for Your Business&nbsp;&nbsp;Business.com",
+          "pub_date": "Mon, 22 Jun 2026 07:00:00 GMT"
+        }
+      ],
+      "scraped_at": "2026-08-18"
     },
     {
       "chapter": 8,
       "title": "The Third Monitor Theory",
       "sub": "AI in Business",
       "authors": "Hudson Shank & Jonathan Slain",
-      "articles": [],
-      "scraped_at": "2026-08-17"
+      "articles": [
+        {
+          "title": "Layoffs tied to AI hurt worker productivity \u2013 and the reason may surprise managers - theconversation.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQblFJUXUxdDRWb3FTSWhYTXM4MDI4SWZLOFpsQjdNNEJkVE53ZE15LU90eGdDZXVwN2JROTI5SG5NcGxxV3ZUZ2hEd2RGMjRLd21teXZmODQ4empZU2hXZWFURGVHMWJSenEyRWhUbTU0enhwRFkwdmFpNl81RjlrcHBEaXdQbTA5TWpVeWFSVGhGdjhJRUNkbXBfSlFZMklYc0tzWWx5elEyY1BSWTZqdklQRldqZw?oc=5",
+          "source": "theconversation.com",
+          "snippet": "Layoffs tied to AI hurt worker productivity \u2013 and the reason may surprise managers&nbsp;&nbsp;theconversation.com",
+          "pub_date": "Wed, 12 Aug 2026 12:40:22 GMT"
+        },
+        {
+          "title": "\u2018Talk to My A.I. Twin\u2019: Busy Executives Have a New Productivity Hack - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fZnBYemx0U1pIYUJQSk1WSm1sdThzLWNxcnJmaUNqMDFSajVISUtSXzJBTWFtSW9PY0JjcUVZSjRSaTZwblhuYWg3NUM1Xy1MVmxpSWtHSUJzRmlGZjA1VHBHczEwbkl5UmswVW1qVi00Q0Z3NUtZeHZDb0lEQQ?oc=5",
+          "source": "The New York Times",
+          "snippet": "\u2018Talk to My A.I. Twin\u2019: Busy Executives Have a New Productivity Hack&nbsp;&nbsp;The New York Times",
+          "pub_date": "Wed, 05 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Everything we know about how biggest Wall Street banks are using AI - Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZG9Pa3NsYUhnbUplaklxOFIyRkV4dGNYQy05ZHRweXNqT0VabnAwTjYtMWhJdkZRTzVta3ZMTEQ5V3ZfTTNHRGhJY0liY3JmbWxfZFpvTW96NEJPUGQ4UHFUQ3FyTTFzbkdoSnkxb284di1oTHBsVTJzRmViWjZ2SDNRNUZibnhpbmlLbU5ZOTduRlZIT3NLMy1UVHl0Zw?oc=5",
+          "source": "Business Insider",
+          "snippet": "Everything we know about how biggest Wall Street banks are using AI&nbsp;&nbsp;Business Insider",
+          "pub_date": "Sat, 15 Aug 2026 10:25:00 GMT"
+        }
+      ],
+      "scraped_at": "2026-08-18"
     },
     {
       "chapter": 9,
       "title": "How Could You Be Successful and Not Have It?",
       "sub": "Imposter Syndrome & Leadership Psychology",
       "authors": "Samantha Frost, Caleb Hawkins & Rafa Loyo",
-      "articles": [],
-      "scraped_at": "2026-08-17"
+      "articles": [
+        {
+          "title": "Six Ways to Overcome Impostor Syndrome in a New Leadership Role - Seattle University",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTHlqVjJWbmVSRkRPWnNTLU05TjNYZmVlelFGYUNIYmg1TXlHRmpjUmMtYWx6OEtzSjJIdVNmbGtidllGQzZXZU1kZS1ZTmxONm1JWko3MVdTVjlvczl0MTN4eF91aURLN05SUU5UMUNrbXlBU09kSTczZGItUzNfczZKMUlOZnJqX3hFNXZ6LWV3YVB5SzF3eUZZY1VVajBJWG5tRFZiSDhhT3NaVXppVkYtWDlRZUJOTVNLbVk1WQ?oc=5",
+          "source": "Seattle University",
+          "snippet": "Six Ways to Overcome Impostor Syndrome in a New Leadership Role&nbsp;&nbsp;Seattle University",
+          "pub_date": "Mon, 27 Oct 2025 19:23:03 GMT"
+        },
+        {
+          "title": "Why impostor syndrome follows high achievers all the way to the top - Forbes Australia",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQkd2QVlTbWR6eUREcW93NXVvQm1FMXVjTWd0MFVvNGU4WGNUeFozUnhBNmhDdjlhMENwM1ZucE1xV3RGdVZHaWhkWlNaRHVMQVhwV2dKNHg2dVdTOHM3RFg0TDBJdHh6WEc2dWpNdklMVGdIMnNDVW9mWlMtdk9NZDduLWtFZWFDWVUtWmUxVE40bkFwZ2w0RV9JdERmc05sV0VWT0k2WmhlR0o2ZEo0RlR2U0FBUnpHZWpGYUJOU3Y?oc=5",
+          "source": "Forbes Australia",
+          "snippet": "Why impostor syndrome follows high achievers all the way to the top&nbsp;&nbsp;Forbes Australia",
+          "pub_date": "Fri, 19 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Learning What Leadership Really Looks Like with Mark McDermott - Little Black Book | LBBOnline",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pR2pramo5UE13YkEwOWFvM2pVWEs0VGItV29VdjFaSmFJNE0zS2RYWGFUQnA2M0FJM1VYZ0phU2tscmlkM3N3WTFlWHh3a29FU0JLUktZd0VaaDZYVWI5aEpJZS1HV1lfYWNr?oc=5",
+          "source": "Little Black Book | LBBOnline",
+          "snippet": "Learning What Leadership Really Looks Like with Mark McDermott&nbsp;&nbsp;Little Black Book | LBBOnline",
+          "pub_date": "Thu, 18 Jun 2026 07:00:00 GMT"
+        }
+      ],
+      "scraped_at": "2026-08-18"
     },
     {
       "chapter": 10,
       "title": "Coming Up for Air",
       "sub": "Life Planning & Work-Life Design",
       "authors": "Samantha Frost, Jonathan & Katherine Slain",
-      "articles": [],
-      "scraped_at": "2026-08-17"
+      "articles": [
+        {
+          "title": "HPU Student Entrepreneurs Earn $30,000 in Business Plan Competition - High Point University",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDVfMnhZS3JndXJ4eV9iV3M2ZlA1bUxsMXZvVWlRVkdKLUlyVkRPRUtWakxPTmdLUk5zS05pelQxbEtONV8tYUhOM2Z3cHVMN3BsWDduUy02cWFaR2Y0S2RhNmtUU1pYZDFHa1FtMl92cjFsd2VtOXBQMFNtajZ4V3V4dkJhRzlqSmt0SzdqS2sxdU4yQmlCb2hiM1FGWlBqeFZQMF9LbEQ?oc=5",
+          "source": "High Point University",
+          "snippet": "HPU Student Entrepreneurs Earn $30,000 in Business Plan Competition&nbsp;&nbsp;High Point University",
+          "pub_date": "Thu, 16 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "The data says founders would do it again. Even in this economy. - Shopify",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZTUEtUXQ2MWtsQm5BY3hOaFNjTmxjUk5BRnJmWHhMM0tGMDhiTjZJcmhrNU1sQW1TamJsbjZtaUs5VVc0Z1hvWmZwZnNhUUFSRXhCM1EwR0QxcEV6d2xkRWZR?oc=5",
+          "source": "Shopify",
+          "snippet": "The data says founders would do it again. Even in this economy.&nbsp;&nbsp;Shopify",
+          "pub_date": "Mon, 20 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Famous Entrepreneurs Who Failed Before They Succeeded - Business.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmdxNDBsTFBIaEpvcTFDTkFIcXc2TWZvYVgtWWlkSW1qa0dsSTNXT3JKUmpPU2xfc1dFa3QxNHNBZk05M2FibGpxMmdTUjNVVWhReGpuUWN0MXBhSmtWTVZ4WkVfbTV4UFdiUmNpRERXdEpEanJmUVJocWZacWFzM2Y3RzhqV01SNXFiZHZDaTRVUWQyR1U5WC1iOVAtakY4REJzaVJMOTZFVy1f?oc=5",
+          "source": "Business.com",
+          "snippet": "Famous Entrepreneurs Who Failed Before They Succeeded&nbsp;&nbsp;Business.com",
+          "pub_date": "Tue, 10 Feb 2026 08:00:00 GMT"
+        }
+      ],
+      "scraped_at": "2026-08-18"
     }
   ]
 }
