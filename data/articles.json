@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T18:29:02.524454+00:00",
+  "generated_at": "2026-09-01T15:47:40.441684+00:00",
   "chapters": [
     {
       "chapter": 1,
@@ -26,10 +26,10 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYVhzWHYzT1VheXhTVGVNSHgtQlFMMHFPZHFoUmxYQTJ2SllrZG91d2trSW1UTHdBdmlhNVB6Q2FZeDVUSnRkWm1qaFRaN3ZDR2JvXzdtbkkwVF9rbXBwZ3QtWFp3ME92aXVESVRrY1RVUF9HWnp0ZUNJYktpN180aGx2OURxdm4wc0Z6UU1CeFdhVTFrLTloQ05wLWgwVThrNjZkZXBIMWNHcUkzc2tv?oc=5",
           "source": "Stanford Graduate School of Business",
           "snippet": "What Executives Need to Understand Before Scaling AI Across the Organization&nbsp;&nbsp;Stanford Graduate School of Business",
-          "pub_date": "Tue, 04 Aug 2026 17:23:05 GMT"
+          "pub_date": "Tue, 04 Aug 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-08-31"
+      "scraped_at": "2026-09-01"
     },
     {
       "chapter": 2,
@@ -59,7 +59,7 @@
           "pub_date": "Fri, 03 Jul 2026 02:20:32 GMT"
         }
       ],
-      "scraped_at": "2026-08-31"
+      "scraped_at": "2026-09-01"
     },
     {
       "chapter": 3,
@@ -75,21 +75,21 @@
           "pub_date": "Sun, 30 Aug 2026 15:32:05 GMT"
         },
         {
+          "title": "Why Leadership Teams Fail At Strategy Execution And How To Fix It - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXpNczJQdVBKTWlEV0dsby1FaEFGUVg5X1B3Zk9qUGI2bDJMSUxydGhRdURFUUdERXhBRmNzUndTVXhITTREMzMxdk9faE5rUldabk9ld2p2dHdfeXJjVEpMckJ6dFZNckFkTkk5ZmJ5MHRVSm5iSXo2WGlwc0NoeTBvcUYxTF9pbUNmaDB4LUdlNk9pMll0Y01BRTNVYzJObzRrV3pCN19scHYtdThYcHJVUVFYbjFMbkE?oc=5",
+          "source": "Forbes",
+          "snippet": "Why Leadership Teams Fail At Strategy Execution And How To Fix It&nbsp;&nbsp;Forbes",
+          "pub_date": "Tue, 04 Nov 2025 08:00:00 GMT"
+        },
+        {
           "title": "Wrike Now Offers a Strategic Portfolio Management Solution to Bridge Strategy and Execution, Enabling Organizations to Plan and Deliver True Transformation - Business Wire",
           "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOQWJ3elhwY2E1ZHFBalM5VHpoTEkxRHYyUFhMZVpYcmpvcTJoa3MyakZIRlhVdTRKNnZRNGZRajFSREFZRGRrQ2hlV2xJNExJSGFYd1B1Yy03d1BCRkdLWWx0cGtXaEdLbnNhc2lBTHc3Q2ZCb3ZRbkt3a0xGRWZaZlRxNTgzVjZnZXVDZy1SdFZlLTl3c2tERjQyRmR5YTF4WnhPVmJBbEM0QU1ydWlaRHhCUWJLd080M18wN0ZRMXlURWRDdjFaUElMWE5vVGZRc3lCRjdGNWVQblRONGRJSk50VGFaelgyNU1jcmozTDZGY0QwdndOZGRuaGZPdndhaWNfeFFqcldKMDRXdHdEODNEeEt4UUJ3XzNzLWhZMFZGdm81SEZSRFlVdXNjN3ZHV0djSE93?oc=5",
           "source": "Business Wire",
           "snippet": "Wrike Now Offers a Strategic Portfolio Management Solution to Bridge Strategy and Execution, Enabling Organizations to Plan and Deliver True Transformation&nbsp;&nbsp;Business Wire",
           "pub_date": "Mon, 13 Jul 2026 07:00:00 GMT"
-        },
-        {
-          "title": "Faraday Future Announces $45 Million New Financing; Plans to Hold Annual Meeting of Stockholders on May 22 to Seek Approval of Key Proposals Designed to Accelerate EAI Strategy Execution and Protect Stockholder Interests - Business Wire",
-          "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOQXZhRDBWUFRSNWE5UWZPVU1zbkdwNTZOVHpzTWw3M1ZpRTZXS2ZLd09wcWdvc2VNUjRpanl0cy0xQjg2SDVzREFOV1J3b0NicnROdWFOWktTamhOVDFmSHFBUmZiV21TUlg2QmNXZi1TdE4yeENvYUJSUjFCX0otNmtMalVDUERzYWFzVml1WWdIOGZVWUJlSEtUZGJDRE9mNmhRVjN2MDlIMzA3Wmo3RGRIR0JKVkxJbmc1TGlFZjB5R19BdHJuLWNsLVE1bk5NQ244NXkxZ0FVdURaUjlES3lBLWUwamRRa1ZGeUc1dDdoa1VzUkRDcmFFVTVMZXlqdWVhN2tIYWtIM0NsbS1KWUpLSWJCWWpfbWZ3YXpSOEtndVNhTmplMk1xbWhHaUh6RTlxTlNwLXM1OGs2dkNKUDhaVXdqQktjZ3BWUWlsM0RwRll1OHVoZ1RlZ0FWM1M4bkFTVVpfeks4bm1WcWctZWdGV05hQzZfZGVKaklIV1ZOb2xrRmpoZF9hVEdOUkk?oc=5",
-          "source": "Business Wire",
-          "snippet": "Faraday Future Announces $45 Million New Financing; Plans to Hold Annual Meeting of Stockholders on May 22 to Seek Approval of Key Proposals Designed to Accelerate EAI Strategy Execution and Protect S",
-          "pub_date": "Fri, 17 Apr 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-08-31"
+      "scraped_at": "2026-09-01"
     },
     {
       "chapter": 4,
@@ -119,7 +119,7 @@
           "pub_date": "Fri, 05 Jun 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-08-31"
+      "scraped_at": "2026-09-01"
     },
     {
       "chapter": 5,
@@ -128,18 +128,18 @@
       "authors": "Kayli Simpson & Yasmin West",
       "articles": [
         {
-          "title": "Ulta\u2019s CMO on blending brand building and omnichannel marketing - Marketing Dive",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRlFnSEozTXJJdnl5aWFJQTFGR0tkcnhrUnUyOTNZNlIwcHZiLWFnbm0tQ0FWZEZCTWZvdUFQeEFvQkIwOHdpMmZBR3I5WmNjRmFYb0xJMGhQWmJHYUdWUVdyWndOWTYwR1ZQQ2E4V1dMV2NrT0hpRzNaU1VKdUdoZHMwSFB4SlhYTkZKZ2hDdEdsSkJ6TW91UTZTWlNGaGVmcUE?oc=5",
-          "source": "Marketing Dive",
-          "snippet": "Ulta\u2019s CMO on blending brand building and omnichannel marketing&nbsp;&nbsp;Marketing Dive",
-          "pub_date": "Tue, 30 Jun 2026 07:00:00 GMT"
-        },
-        {
           "title": "Kiran Mazumdar-Shaw on Building Biocon\u2019s Fearless Work Culture - Storyboard18",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYTdDOURwODhPWlZ2OUR3QXgzZWFuRWV3YjBudWQ3NldWS2hIeWdrUzMxWDNZWUV0TFg0dW5WNWNJX3Z4ZE9BazVVby1OTjE1YzVwVF9pNXBycGozQnFoVExRUDA1SU00VmNVNHppTGlUX2hFbDNvZDQtdFBFOXZuMURRQWFQbEh6akp5N0toaTdSS2xtb1V6ZEwxMkQ0SzZYckRTT2x0dmJJNTF5ZDVKNFdleGtKWTQweW9FNGhoRWptOWc?oc=5",
           "source": "Storyboard18",
           "snippet": "Kiran Mazumdar-Shaw on Building Biocon\u2019s Fearless Work Culture&nbsp;&nbsp;Storyboard18",
           "pub_date": "Fri, 28 Aug 2026 07:30:00 GMT"
+        },
+        {
+          "title": "Ulta\u2019s CMO on blending brand building and omnichannel marketing - Marketing Dive",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRlFnSEozTXJJdnl5aWFJQTFGR0tkcnhrUnUyOTNZNlIwcHZiLWFnbm0tQ0FWZEZCTWZvdUFQeEFvQkIwOHdpMmZBR3I5WmNjRmFYb0xJMGhQWmJHYUdWUVdyWndOWTYwR1ZQQ2E4V1dMV2NrT0hpRzNaU1VKdUdoZHMwSFB4SlhYTkZKZ2hDdEdsSkJ6TW91UTZTWlNGaGVmcUE?oc=5",
+          "source": "Marketing Dive",
+          "snippet": "Ulta\u2019s CMO on blending brand building and omnichannel marketing&nbsp;&nbsp;Marketing Dive",
+          "pub_date": "Tue, 30 Jun 2026 07:00:00 GMT"
         },
         {
           "title": "Why JBL is building marketing around culture not campaigns - Brand Innovators",
@@ -149,7 +149,7 @@
           "pub_date": "Wed, 08 Apr 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-08-31"
+      "scraped_at": "2026-09-01"
     },
     {
       "chapter": 6,
@@ -179,7 +179,7 @@
           "pub_date": "Fri, 01 May 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-08-31"
+      "scraped_at": "2026-09-01"
     },
     {
       "chapter": 7,
@@ -209,7 +209,7 @@
           "pub_date": "Thu, 13 Nov 2025 08:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-08-31"
+      "scraped_at": "2026-09-01"
     },
     {
       "chapter": 8,
@@ -239,7 +239,7 @@
           "pub_date": "Mon, 25 May 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-08-31"
+      "scraped_at": "2026-09-01"
     },
     {
       "chapter": 9,
@@ -269,7 +269,7 @@
           "pub_date": "Thu, 18 Jun 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-08-31"
+      "scraped_at": "2026-09-01"
     },
     {
       "chapter": 10,
@@ -285,21 +285,21 @@
           "pub_date": "Wed, 12 Aug 2026 07:00:00 GMT"
         },
         {
-          "title": "20 Must-Read Books for Entrepreneurs This Year - U.S. Chamber of Commerce",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Gb1llUjNSOVpIdVZveks2YmtaRmwtUms2aXJzc3JqZWVTckZaS3MtMkFKWDQ1NkItWmN5Y1ZrUjNyZHRYOC03aFF1WXQydUVqdmJXRTB3X3VzakRFbnhDd0hueHFhcTRadi1SOXRqV2VGUQ?oc=5",
-          "source": "U.S. Chamber of Commerce",
-          "snippet": "20 Must-Read Books for Entrepreneurs This Year&nbsp;&nbsp;U.S. Chamber of Commerce",
-          "pub_date": "Fri, 07 Aug 2026 07:00:00 GMT"
-        },
-        {
           "title": "Morgan Stanley on life after selling your business: a roadmap for entrepreneurs - Fortune",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdnZpWG94aDF5el9jOUtxNWhVYlFXZ3FKejZHQkJEOTVVSmN2VE1COEtTb3lkTnJ1VENGTVoxWGUzOHhYdlJ4QUV6bW9IajBVTEQ2cm5vUWRST3pCcWlxXzNzNHNMQlRmSURudzZZbFNuWkx2YUZWakN5ME1mcVU0Rm9XcFdMOXQzNFo4?oc=5",
           "source": "Fortune",
           "snippet": "Morgan Stanley on life after selling your business: a roadmap for entrepreneurs&nbsp;&nbsp;Fortune",
           "pub_date": "Fri, 26 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "HPU Student Entrepreneurs Earn $30,000 in Business Plan Competition - High Point University",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDVfMnhZS3JndXJ4eV9iV3M2ZlA1bUxsMXZvVWlRVkdKLUlyVkRPRUtWakxPTmdLUk5zS05pelQxbEtONV8tYUhOM2Z3cHVMN3BsWDduUy02cWFaR2Y0S2RhNmtUU1pYZDFHa1FtMl92cjFsd2VtOXBQMFNtajZ4V3V4dkJhRzlqSmt0SzdqS2sxdU4yQmlCb2hiM1FGWlBqeFZQMF9LbEQ?oc=5",
+          "source": "High Point University",
+          "snippet": "HPU Student Entrepreneurs Earn $30,000 in Business Plan Competition&nbsp;&nbsp;High Point University",
+          "pub_date": "Thu, 16 Apr 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-08-31"
+      "scraped_at": "2026-09-01"
     }
   ]
 }
