@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T16:53:49.410050+00:00",
+  "generated_at": "2026-09-08T15:42:09.679180+00:00",
   "chapters": [
     {
       "chapter": 1,
@@ -7,6 +7,13 @@
       "sub": "Leadership & Scaling",
       "authors": "Katherine Slain",
       "articles": [
+        {
+          "title": "What Executives Need to Understand Before Scaling AI Across the Organization - Stanford Graduate School of Business",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYVhzWHYzT1VheXhTVGVNSHgtQlFMMHFPZHFoUmxYQTJ2SllrZG91d2trSW1UTHdBdmlhNVB6Q2FZeDVUSnRkWm1qaFRaN3ZDR2JvXzdtbkkwVF9rbXBwZ3QtWFp3ME92aXVESVRrY1RVUF9HWnp0ZUNJYktpN180aGx2OURxdm4wc0Z6UU1CeFdhVTFrLTloQ05wLWgwVThrNjZkZXBIMWNHcUkzc2tv?oc=5",
+          "source": "Stanford Graduate School of Business",
+          "snippet": "What Executives Need to Understand Before Scaling AI Across the Organization&nbsp;&nbsp;Stanford Graduate School of Business",
+          "pub_date": "Tue, 04 Aug 2026 07:00:00 GMT"
+        },
         {
           "title": "Cyrille Bessi\u00e8re: The Executive Who Knows How to Scale Companies - citybiz",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNak50bU0tdnhPUUd3VElGLXhLcGNJRFpQcFhjMzdxWjFFYVk2Q0kwTWFybW4zQ29UWm1WY1NaeVJlakI4STJyZUxYWUpvdFlHZU1yenE0WjhKWTRXeXhKRVRFMVRnS0JkeU1teDlmTnltQWVMOERuaWVOOE5EM2JfbWRCajJYLUlIbnItMVRvLWxPX3ljNHY5SVFtSkp1OXRwaDc5Mg?oc=5",
@@ -20,16 +27,9 @@
           "source": "globenewswire.com",
           "snippet": "Alpha Compute Strengthens Executive Team To Scale Global Infrastructure Business&nbsp;&nbsp;globenewswire.com",
           "pub_date": "Mon, 17 Aug 2026 07:00:00 GMT"
-        },
-        {
-          "title": "What Executives Need to Understand Before Scaling AI Across the Organization - Stanford Graduate School of Business",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYVhzWHYzT1VheXhTVGVNSHgtQlFMMHFPZHFoUmxYQTJ2SllrZG91d2trSW1UTHdBdmlhNVB6Q2FZeDVUSnRkWm1qaFRaN3ZDR2JvXzdtbkkwVF9rbXBwZ3QtWFp3ME92aXVESVRrY1RVUF9HWnp0ZUNJYktpN180aGx2OURxdm4wc0Z6UU1CeFdhVTFrLTloQ05wLWgwVThrNjZkZXBIMWNHcUkzc2tv?oc=5",
-          "source": "Stanford Graduate School of Business",
-          "snippet": "What Executives Need to Understand Before Scaling AI Across the Organization&nbsp;&nbsp;Stanford Graduate School of Business",
-          "pub_date": "Tue, 04 Aug 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-07"
+      "scraped_at": "2026-09-08"
     },
     {
       "chapter": 2,
@@ -59,7 +59,7 @@
           "pub_date": "Mon, 15 Jun 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-07"
+      "scraped_at": "2026-09-08"
     },
     {
       "chapter": 3,
@@ -68,11 +68,11 @@
       "authors": "Rafa Loyo & Jim Randall",
       "articles": [
         {
-          "title": "CED to execute ambitious $4.64M growth strategy - St Vincent Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV256M2kxclZuRzR3RFdGOThVNUNEVkxfTHlIc0RuRVJxT2R5c2FLYVdYUV9OVEtxT2VkVHItcElzbjRXUWFHMzYxR0pONTkwMF9jSEI0aURqNE1YcUZXalBXb1NGemZ0Z0VrWDltSGNiZHN2cEd5YWUzMk5VZm9pUnNJbUc?oc=5",
-          "source": "St Vincent Times",
-          "snippet": "CED to execute ambitious $4.64M growth strategy&nbsp;&nbsp;St Vincent Times",
-          "pub_date": "Sun, 30 Aug 2026 15:32:05 GMT"
+          "title": "Why Leadership Teams Fail At Strategy Execution And How To Fix It - forbes.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXpNczJQdVBKTWlEV0dsby1FaEFGUVg5X1B3Zk9qUGI2bDJMSUxydGhRdURFUUdERXhBRmNzUndTVXhITTREMzMxdk9faE5rUldabk9ld2p2dHdfeXJjVEpMckJ6dFZNckFkTkk5ZmJ5MHRVSm5iSXo2WGlwc0NoeTBvcUYxTF9pbUNmaDB4LUdlNk9pMll0Y01BRTNVYzJObzRrV3pCN19scHYtdThYcHJVUVFYbjFMbkE?oc=5",
+          "source": "forbes.com",
+          "snippet": "Why Leadership Teams Fail At Strategy Execution And How To Fix It&nbsp;&nbsp;forbes.com",
+          "pub_date": "Tue, 04 Nov 2025 08:00:00 GMT"
         },
         {
           "title": "Wrike Now Offers a Strategic Portfolio Management Solution to Bridge Strategy and Execution, Enabling Organizations to Plan and Deliver True Transformation - Business Wire",
@@ -82,14 +82,14 @@
           "pub_date": "Mon, 13 Jul 2026 07:00:00 GMT"
         },
         {
-          "title": "Faraday Future Announces $45 Million New Financing; Plans to Hold Annual Meeting of Stockholders on May 22 to Seek Approval of Key Proposals Designed to Accelerate EAI Strategy Execution and Protect Stockholder Interests - Business Wire",
-          "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxOQXZhRDBWUFRSNWE5UWZPVU1zbkdwNTZOVHpzTWw3M1ZpRTZXS2ZLd09wcWdvc2VNUjRpanl0cy0xQjg2SDVzREFOV1J3b0NicnROdWFOWktTamhOVDFmSHFBUmZiV21TUlg2QmNXZi1TdE4yeENvYUJSUjFCX0otNmtMalVDUERzYWFzVml1WWdIOGZVWUJlSEtUZGJDRE9mNmhRVjN2MDlIMzA3Wmo3RGRIR0JKVkxJbmc1TGlFZjB5R19BdHJuLWNsLVE1bk5NQ244NXkxZ0FVdURaUjlES3lBLWUwamRRa1ZGeUc1dDdoa1VzUkRDcmFFVTVMZXlqdWVhN2tIYWtIM0NsbS1KWUpLSWJCWWpfbWZ3YXpSOEtndVNhTmplMk1xbWhHaUh6RTlxTlNwLXM1OGs2dkNKUDhaVXdqQktjZ3BWUWlsM0RwRll1OHVoZ1RlZ0FWM1M4bkFTVVpfeks4bm1WcWctZWdGV05hQzZfZGVKaklIV1ZOb2xrRmpoZF9hVEdOUkk?oc=5",
-          "source": "Business Wire",
-          "snippet": "Faraday Future Announces $45 Million New Financing; Plans to Hold Annual Meeting of Stockholders on May 22 to Seek Approval of Key Proposals Designed to Accelerate EAI Strategy Execution and Protect S",
-          "pub_date": "Fri, 17 Apr 2026 07:00:00 GMT"
+          "title": "CED to execute ambitious $4.64M growth strategy - St Vincent Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV256M2kxclZuRzR3RFdGOThVNUNEVkxfTHlIc0RuRVJxT2R5c2FLYVdYUV9OVEtxT2VkVHItcElzbjRXUWFHMzYxR0pONTkwMF9jSEI0aURqNE1YcUZXalBXb1NGemZ0Z0VrWDltSGNiZHN2cEd5YWUzMk5VZm9pUnNJbUc?oc=5",
+          "source": "St Vincent Times",
+          "snippet": "CED to execute ambitious $4.64M growth strategy&nbsp;&nbsp;St Vincent Times",
+          "pub_date": "Sun, 30 Aug 2026 15:32:05 GMT"
         }
       ],
-      "scraped_at": "2026-09-07"
+      "scraped_at": "2026-09-08"
     },
     {
       "chapter": 4,
@@ -119,7 +119,7 @@
           "pub_date": "Fri, 05 Jun 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-07"
+      "scraped_at": "2026-09-08"
     },
     {
       "chapter": 5,
@@ -135,21 +135,21 @@
           "pub_date": "Tue, 30 Jun 2026 07:00:00 GMT"
         },
         {
-          "title": "Why JBL is building marketing around culture not campaigns - brand-innovators.com",
+          "title": "Why JBL is building marketing around culture not campaigns - Brand Innovators",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXpYamE0dkF6MWVkcEkwUHlnSHk5bUtIbmV4ZTlDNEk3MEpURWZDdUo5b1Q4aTMtZkIzUy1scXU3VEJUREY2Vks0NjFGV0s2QXYtejBPMm93NlRrSC00MHRSdlpQcnJqeW00akp4eFRLeTZwRGxOV1BEQmR0eEpoVXB0cFpPaUhVeTBtU3E3WGxfZw?oc=5",
-          "source": "brand-innovators.com",
-          "snippet": "Why JBL is building marketing around culture not campaigns&nbsp;&nbsp;brand-innovators.com",
+          "source": "Brand Innovators",
+          "snippet": "Why JBL is building marketing around culture not campaigns&nbsp;&nbsp;Brand Innovators",
           "pub_date": "Wed, 08 Apr 2026 07:00:00 GMT"
         },
         {
-          "title": "Why Brand and Performance Marketing Work Better Together - inc.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX1FBN0ZhSE5NZHZ2eWV4OE5uSlFwYUh5aFpoLWNpWWo4cno3eW51eDMxUDNUcjZ6S3o3QXZIUEYtUDFCcnJrRmdYakktNnVGeTZKZFZWdm5ULVY5U0tUSUUwLW9ja2V6WngwcVVlZ1otU0VnZk4tc0pBbGREckt3SmVVOVIyMHZpLWlmT2pyQkgwVDBmZUM1c2RYamFpeEN2c2FfbnF5VUc0X1JEX2dz?oc=5",
-          "source": "inc.com",
-          "snippet": "Why Brand and Performance Marketing Work Better Together&nbsp;&nbsp;inc.com",
-          "pub_date": "Thu, 08 Jan 2026 08:00:00 GMT"
+          "title": "Why Culture Is a Business Investment, Not a Brand Expense - AdvisorHub",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT2tNUkIwa2VtZC1VVnphVU5JWG81aXVpaEM0VzdfT29FZ3NKUEVvNm9Pdk5wVjRCNUxPNG1ZTkxvTVF0QWxTYVE4VjliYkFCemRWUDl4clU4cVEydVAxSndDeTF6eU5YazRYOFZraFd6U29GVHdzZE9VNmw5ZzllUHRqR29wdkJlX2lrLU5MUnc2SzJLSVhYcmhR?oc=5",
+          "source": "AdvisorHub",
+          "snippet": "Why Culture Is a Business Investment, Not a Brand Expense&nbsp;&nbsp;AdvisorHub",
+          "pub_date": "Tue, 24 Mar 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-07"
+      "scraped_at": "2026-09-08"
     },
     {
       "chapter": 6,
@@ -158,17 +158,17 @@
       "authors": "Caleb Hawkins, Darla Klein & Yasmin West",
       "articles": [
         {
-          "title": "Precision Over Scale: The New Rules of Hiring in 2026 - SHRM",
+          "title": "Precision Over Scale: The New Rules of Hiring in 2026 - shrm.org",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRFVYR0VscXJpMmVqV2dwazJDTkstVDJTNG9uTlZlWHJPVkFqQ0MzZTRQSUYwUDZweWw2dE52THZKSnhBTzQtb1g5UUYzbmJTbjFJcXlVYno2ZzU4aE0yNVRwN2RIN05xTWJVWnZQejVyY2xRNmJ2SF83QmVHel9GYmdWTEdEMWZLMVk5OThMNTF0TmdKR1F4bG84cnZRZ0FU?oc=5",
-          "source": "SHRM",
-          "snippet": "Precision Over Scale: The New Rules of Hiring in 2026&nbsp;&nbsp;SHRM",
+          "source": "shrm.org",
+          "snippet": "Precision Over Scale: The New Rules of Hiring in 2026&nbsp;&nbsp;shrm.org",
           "pub_date": "Wed, 25 Feb 2026 08:00:00 GMT"
         },
         {
-          "title": "WorkWave Names Melinda Vedder as Chief Human Resources Officer - Pest Control Technology",
+          "title": "WorkWave Names Melinda Vedder as Chief Human Resources Officer - pctonline.com",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS1F5THVoSVJYOUJrRW9iYnYyUHNaYnlwdW9XY09NbHkzMVFtNjNYMmVYcnBieGYtamt6Yzk0SkRmSDZGakx1Ymt0T0Nya1hlWGY3OHhtUWFDRF9TU1FRd0lIX05kajU2QlBqbURiNXhQRjhJblktN2tjYmtmM29XZ3gycUtWZFZRZF9Ib2k2ZXR2cHkzaFg4dENXUzZURDA?oc=5",
-          "source": "Pest Control Technology",
-          "snippet": "WorkWave Names Melinda Vedder as Chief Human Resources Officer&nbsp;&nbsp;Pest Control Technology",
+          "source": "pctonline.com",
+          "snippet": "WorkWave Names Melinda Vedder as Chief Human Resources Officer&nbsp;&nbsp;pctonline.com",
           "pub_date": "Tue, 21 Apr 2026 07:00:00 GMT"
         },
         {
@@ -179,7 +179,7 @@
           "pub_date": "Mon, 01 Jun 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-07"
+      "scraped_at": "2026-09-08"
     },
     {
       "chapter": 7,
@@ -209,7 +209,7 @@
           "pub_date": "Tue, 07 Apr 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-07"
+      "scraped_at": "2026-09-08"
     },
     {
       "chapter": 8,
@@ -218,18 +218,11 @@
       "authors": "Hudson Shank & Jonathan Slain",
       "articles": [
         {
-          "title": "90% of executives say AI hasn\u2019t boosted productivity. Some are still cutting jobs - Fortune",
+          "title": "90% of executives say AI hasn\u2019t boosted productivity. Some are still cutting jobs - fortune.com",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LZWF5Vkc3Wk9DVVd5aE83ZGVhbWMyb3U3MW1kcHljOHdwcjdjTmt1SmU5bFVRblVaZGJsRndNRS1fWExxc3IyZDBJcnlxZHhYVUFhV1pBSzVRS0R1RVJlNVYxM0pzRXZKcG96RExTdTVlMnhBWDNMUlVuUGM?oc=5",
-          "source": "Fortune",
-          "snippet": "90% of executives say AI hasn\u2019t boosted productivity. Some are still cutting jobs&nbsp;&nbsp;Fortune",
+          "source": "fortune.com",
+          "snippet": "90% of executives say AI hasn\u2019t boosted productivity. Some are still cutting jobs&nbsp;&nbsp;fortune.com",
           "pub_date": "Sat, 22 Aug 2026 07:00:00 GMT"
-        },
-        {
-          "title": "AI gains should fund growth rather than facilitate job cuts, says executive - Cyprus Mail",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa0hNS0QzUzg1enVLUkNFOXJXZkl3eGxtTUV1UnVfcF9xZjIyS1lzczFFclVvdHYtREhnWnRUdVN4enFfTkhFY19hMEdkdnp5em0xM2I0NnpwMkExUTJONjVRbDZYLUthRHlEX0hqdDdNM0ZycWFkT2Jha0p2TVBXMmZBdmdqWnZMdGM5N1F0T2V0VGJVZFhmUUprT3M0MUZjOGFRUHhHRmtwUDVnT1E?oc=5",
-          "source": "Cyprus Mail",
-          "snippet": "AI gains should fund growth rather than facilitate job cuts, says executive&nbsp;&nbsp;Cyprus Mail",
-          "pub_date": "Mon, 07 Sep 2026 05:00:00 GMT"
         },
         {
           "title": "90 Percent of Execs Say Oops, AI Didn\u2019t Help Productivity, So Layoffs Will Continue - Futurism",
@@ -237,9 +230,16 @@
           "source": "Futurism",
           "snippet": "90 Percent of Execs Say Oops, AI Didn\u2019t Help Productivity, So Layoffs Will Continue&nbsp;&nbsp;Futurism",
           "pub_date": "Tue, 25 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "\u2018Talk to My A.I. Twin\u2019: Busy Executives Have a New Productivity Hack - nytimes.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fZnBYemx0U1pIYUJQSk1WSm1sdThzLWNxcnJmaUNqMDFSajVISUtSXzJBTWFtSW9PY0JjcUVZSjRSaTZwblhuYWg3NUM1Xy1MVmxpSWtHSUJzRmlGZjA1VHBHczEwbkl5UmswVW1qVi00Q0Z3NUtZeHZDb0lEQQ?oc=5",
+          "source": "nytimes.com",
+          "snippet": "\u2018Talk to My A.I. Twin\u2019: Busy Executives Have a New Productivity Hack&nbsp;&nbsp;nytimes.com",
+          "pub_date": "Wed, 05 Aug 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-07"
+      "scraped_at": "2026-09-08"
     },
     {
       "chapter": 9,
@@ -248,10 +248,10 @@
       "authors": "Samantha Frost, Caleb Hawkins & Rafa Loyo",
       "articles": [
         {
-          "title": "Six Ways to Overcome Impostor Syndrome in a New Leadership Role - seattleu.edu",
+          "title": "Six Ways to Overcome Impostor Syndrome in a New Leadership Role - Seattle University",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTHlqVjJWbmVSRkRPWnNTLU05TjNYZmVlelFGYUNIYmg1TXlHRmpjUmMtYWx6OEtzSjJIdVNmbGtidllGQzZXZU1kZS1ZTmxONm1JWko3MVdTVjlvczl0MTN4eF91aURLN05SUU5UMUNrbXlBU09kSTczZGItUzNfczZKMUlOZnJqX3hFNXZ6LWV3YVB5SzF3eUZZY1VVajBJWG5tRFZiSDhhT3NaVXppVkYtWDlRZUJOTVNLbVk1WQ?oc=5",
-          "source": "seattleu.edu",
-          "snippet": "Six Ways to Overcome Impostor Syndrome in a New Leadership Role&nbsp;&nbsp;seattleu.edu",
+          "source": "Seattle University",
+          "snippet": "Six Ways to Overcome Impostor Syndrome in a New Leadership Role&nbsp;&nbsp;Seattle University",
           "pub_date": "Mon, 27 Oct 2025 19:23:03 GMT"
         },
         {
@@ -269,7 +269,7 @@
           "pub_date": "Thu, 18 Jun 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-07"
+      "scraped_at": "2026-09-08"
     },
     {
       "chapter": 10,
@@ -278,13 +278,6 @@
       "authors": "Samantha Frost, Jonathan & Katherine Slain",
       "articles": [
         {
-          "title": "Every Founder Plans for Growth, But Almost None Plan for the Exit. Here's What I Wish I'd Understood Sooner. - entrepreneur.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ1IwcXAwLW0wOUR3UTROejNURE9ORVB1NmdRRi1Ccm4wbjdRa2Rrcy05R3h0OTJkT0xrV2paVENfblRqRHVsZFVKZHJ2cDFTalhCcWpVc2J6YlBkeDNBMm1fUWE3dmRzY2ZtRkduR3lvQnFRVDFJMnNtTloyd0xSUlhFNDg2WmxZNFl1TzhuNEU4WUpB?oc=5",
-          "source": "entrepreneur.com",
-          "snippet": "Every Founder Plans for Growth, But Almost None Plan for the Exit. Here's What I Wish I'd Understood Sooner.&nbsp;&nbsp;entrepreneur.com",
-          "pub_date": "Wed, 12 Aug 2026 07:00:00 GMT"
-        },
-        {
           "title": "Anesthesiologist-turned-entrepreneur expands Generations AdventurePlex in Mishawaka - WSBT",
           "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOeUtKc1BJRERuQ0dJQ3c3dUVlRWtZX0p0cHRsbGpicDhYVEhIS3BIdkliVWRBYVpsWDdMREZuWTJKN1NUNjkzbHg4SmZidzJ1amwyQUo2azEySUlmRFFMTlAtQ0Q3QnFsdjdhWE1RRnRiM19OMjRTRVlzbk5kSlFubkRlTThhaGl6WlY5YldIU3pJa1p4aUZ6UnVocGUwZmMyLWZ4TUZrVGxRX1p6dm9IZzI2M3F4bU0taGhGWklRXzNrbk5WNUtMQ05qSjYweU5uNmw2ejBySUdMdTh4WlVOZURhMi1ZYmFDUVc2X0lPTnp3TXFXcFh5TEE0UkZqUzFHVGtLVnF3NWxNMzQ?oc=5",
           "source": "WSBT",
@@ -292,14 +285,21 @@
           "pub_date": "Sun, 23 Aug 2026 07:00:00 GMT"
         },
         {
-          "title": "HPU Student Entrepreneurs Earn $30,000 in Business Plan Competition - High Point University",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDVfMnhZS3JndXJ4eV9iV3M2ZlA1bUxsMXZvVWlRVkdKLUlyVkRPRUtWakxPTmdLUk5zS05pelQxbEtONV8tYUhOM2Z3cHVMN3BsWDduUy02cWFaR2Y0S2RhNmtUU1pYZDFHa1FtMl92cjFsd2VtOXBQMFNtajZ4V3V4dkJhRzlqSmt0SzdqS2sxdU4yQmlCb2hiM1FGWlBqeFZQMF9LbEQ?oc=5",
-          "source": "High Point University",
-          "snippet": "HPU Student Entrepreneurs Earn $30,000 in Business Plan Competition&nbsp;&nbsp;High Point University",
-          "pub_date": "Thu, 16 Apr 2026 07:00:00 GMT"
+          "title": "Every Founder Plans for Growth, But Almost None Plan for the Exit. Here's What I Wish I'd Understood Sooner. - entrepreneur.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ1IwcXAwLW0wOUR3UTROejNURE9ORVB1NmdRRi1Ccm4wbjdRa2Rrcy05R3h0OTJkT0xrV2paVENfblRqRHVsZFVKZHJ2cDFTalhCcWpVc2J6YlBkeDNBMm1fUWE3dmRzY2ZtRkduR3lvQnFRVDFJMnNtTloyd0xSUlhFNDg2WmxZNFl1TzhuNEU4WUpB?oc=5",
+          "source": "entrepreneur.com",
+          "snippet": "Every Founder Plans for Growth, But Almost None Plan for the Exit. Here's What I Wish I'd Understood Sooner.&nbsp;&nbsp;entrepreneur.com",
+          "pub_date": "Wed, 12 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Morgan Stanley on life after selling your business: a roadmap for entrepreneurs - fortune.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdnZpWG94aDF5el9jOUtxNWhVYlFXZ3FKejZHQkJEOTVVSmN2VE1COEtTb3lkTnJ1VENGTVoxWGUzOHhYdlJ4QUV6bW9IajBVTEQ2cm5vUWRST3pCcWlxXzNzNHNMQlRmSURudzZZbFNuWkx2YUZWakN5ME1mcVU0Rm9XcFdMOXQzNFo4?oc=5",
+          "source": "fortune.com",
+          "snippet": "Morgan Stanley on life after selling your business: a roadmap for entrepreneurs&nbsp;&nbsp;fortune.com",
+          "pub_date": "Fri, 26 Jun 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-07"
+      "scraped_at": "2026-09-08"
     }
   ]
 }
