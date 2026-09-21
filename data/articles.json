@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:30:14.619103+00:00",
+  "generated_at": "2026-09-21T17:29:11.703824+00:00",
   "chapters": [
     {
       "chapter": 1,
@@ -7,6 +7,13 @@
       "sub": "Leadership & Scaling",
       "authors": "Katherine Slain",
       "articles": [
+        {
+          "title": "OpenLight Adds Former GlobalFoundries Silicon Photonics Leader Kevin Soukup and Semiconductor Veteran Kirk Ouellette to Executive Team - 01net",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVEJPeUNXYi12clRXa3ZObThfamoyMllidE95ODAycV9LR0Q2NG9RV0x3MzlyU2k1eURoalFjTnlZZ0NyeWZUdXVvaXpRbWxyczB0UDJtSHNjY2t0VGllODk3ZmVNY0ZwaEd6RmtWQTdwV2hkQTNVSmZZMjFBUVdRQ0cyWlBTZGw5RkdBV3FCbjlSSXpYRTlaRGFwLTllRjBVWjVHSG1wTDlJSEM2RnpmM3JSbHdWSGZoQmRlaWdlZVNhdURBckl5dDZjZ2ZGUHR6blFuZl9lMUZtZ0pRQlN0MUVlMUJsbmNQbXpWcA?oc=5",
+          "source": "01net",
+          "snippet": "OpenLight Adds Former GlobalFoundries Silicon Photonics Leader Kevin Soukup and Semiconductor Veteran Kirk Ouellette to Executive Team&nbsp;&nbsp;01net",
+          "pub_date": "Mon, 21 Sep 2026 09:00:00 GMT"
+        },
         {
           "title": "CleanCapital Reshapes Executive Team to Scale Solar and Storage Platform - citybiz",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWJYVV83U0lvX2xxQWtKRUtiVE1lUERRd1pEN2MyU1BodHItU2tJVzJyOV9mSXRjM0M1TFhMMjdYamFoWDVYU2Nwdy1iQjRTSjFqR0FfWWdLNGRqZTBFbFJBUkxtQ21GLWQ1V082elZrcV8wV2ZjZ3VkM3lSSUdMM2ZDSUtqVnZaQ0R1anpQMllSU1JLUk1tWE01dENROWlSQlJNNk1lUkVJcmZLbWZkZQ?oc=5",
@@ -20,16 +27,9 @@
           "source": "Business Wire",
           "snippet": "Concentric AI Strengthens Executive Leadership Team to Support Growing Global Demand for AI and Data Security Governance Solutions&nbsp;&nbsp;Business Wire",
           "pub_date": "Wed, 09 Sep 2026 12:00:00 GMT"
-        },
-        {
-          "title": "What Executives Need to Understand Before Scaling AI Across the Organization - gsb.stanford.edu",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYVhzWHYzT1VheXhTVGVNSHgtQlFMMHFPZHFoUmxYQTJ2SllrZG91d2trSW1UTHdBdmlhNVB6Q2FZeDVUSnRkWm1qaFRaN3ZDR2JvXzdtbkkwVF9rbXBwZ3QtWFp3ME92aXVESVRrY1RVUF9HWnp0ZUNJYktpN180aGx2OURxdm4wc0Z6UU1CeFdhVTFrLTloQ05wLWgwVThrNjZkZXBIMWNHcUkzc2tv?oc=5",
-          "source": "gsb.stanford.edu",
-          "snippet": "What Executives Need to Understand Before Scaling AI Across the Organization&nbsp;&nbsp;gsb.stanford.edu",
-          "pub_date": "Tue, 04 Aug 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-18"
+      "scraped_at": "2026-09-21"
     },
     {
       "chapter": 2,
@@ -45,21 +45,21 @@
           "pub_date": "Wed, 12 Aug 2026 07:00:00 GMT"
         },
         {
-          "title": "Business Exit Strategies - privatebank.jpmorgan.com",
+          "title": "Business Exit Strategies - J.P. Morgan Private Bank",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalJUT0c3NEFPTndZX08zeGN0dXVFOEJVcmVLRml0QUNjb2xXU3Nxd2ZjOW1mUVUtc0F6SDZ0M056b2Rpd21ZZWF6aVBpOHZESjRiMEtKYk13Sm52VTJJTzV5ZzhFVTE5LVVtcVN4aVpiUzJYUUEtclFONlM4S0NzS3owaFRDT3p6Z2NoZlhjSUh1QnhsWTkyT3pKQkJZR3YxWnZHSHpHTDQ3MEtSRDdBb1JDTVJrb1U?oc=5",
-          "source": "privatebank.jpmorgan.com",
-          "snippet": "Business Exit Strategies&nbsp;&nbsp;privatebank.jpmorgan.com",
+          "source": "J.P. Morgan Private Bank",
+          "snippet": "Business Exit Strategies&nbsp;&nbsp;J.P. Morgan Private Bank",
           "pub_date": "Fri, 03 Jul 2026 02:20:32 GMT"
         },
         {
-          "title": "The Essential Elements Of Successful Exit Planning - forbes.com",
+          "title": "The Essential Elements Of Successful Exit Planning - Forbes",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQjFIYXhibGVtZGsyVmtwMGZpTjdobTVlcEJOMURid0JybUZzRjlzc212dU85c29LdEFYMXJDRU1vNzYtVXZIZzFhZVU4T3RpdzZ5VnR2bkZ2ZXJPRG83d1hiTFJ4UF85WHR5QnNJc0wzdEdqS0xsQXdFVi1JeG0zSGxYY3ZtX1ZUYkxWaDRpcE9sTENEVlNuN1pKTkxzZmRyOGc?oc=5",
-          "source": "forbes.com",
-          "snippet": "The Essential Elements Of Successful Exit Planning&nbsp;&nbsp;forbes.com",
+          "source": "Forbes",
+          "snippet": "The Essential Elements Of Successful Exit Planning&nbsp;&nbsp;Forbes",
           "pub_date": "Sun, 18 Jan 2026 08:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-18"
+      "scraped_at": "2026-09-21"
     },
     {
       "chapter": 3,
@@ -68,6 +68,13 @@
       "authors": "Rafa Loyo & Jim Randall",
       "articles": [
         {
+          "title": "Ipsos reaffirms strategic plans under Kelly Beaver - Research Live",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZmZ3SmRCWE5TY013cGVTeE9TRExGQkhSeWh2NHlBc1R2THlWMExKT3VpN3ozcF9RV3RhMElDQi1NN1JrRUxZRm5WT1o5bGFOT182clZrRkdxQUN3UldmLVVROERpbmVoRm9nNEtHQ0tPOTRNZ0RBM1NFczRwM1pYMG90WlBqSU9VX0g0LW1tZ0FUUGxJZm4wS2wwTy1OM3VkZU1lajlZUQ?oc=5",
+          "source": "Research Live",
+          "snippet": "Ipsos reaffirms strategic plans under Kelly Beaver&nbsp;&nbsp;Research Live",
+          "pub_date": "Tue, 15 Sep 2026 12:36:48 GMT"
+        },
+        {
           "title": "Wrike Now Offers a Strategic Portfolio Management Solution to Bridge Strategy and Execution, Enabling Organizations to Plan and Deliver True Transformation - Business Wire",
           "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOQWJ3elhwY2E1ZHFBalM5VHpoTEkxRHYyUFhMZVpYcmpvcTJoa3MyakZIRlhVdTRKNnZRNGZRajFSREFZRGRrQ2hlV2xJNExJSGFYd1B1Yy03d1BCRkdLWWx0cGtXaEdLbnNhc2lBTHc3Q2ZCb3ZRbkt3a0xGRWZaZlRxNTgzVjZnZXVDZy1SdFZlLTl3c2tERjQyRmR5YTF4WnhPVmJBbEM0QU1ydWlaRHhCUWJLd080M18wN0ZRMXlURWRDdjFaUElMWE5vVGZRc3lCRjdGNWVQblRONGRJSk50VGFaelgyNU1jcmozTDZGY0QwdndOZGRuaGZPdndhaWNfeFFqcldKMDRXdHdEODNEeEt4UUJ3XzNzLWhZMFZGdm81SEZSRFlVdXNjN3ZHV0djSE93?oc=5",
           "source": "Business Wire",
@@ -75,21 +82,14 @@
           "pub_date": "Tue, 14 Jul 2026 07:00:00 GMT"
         },
         {
-          "title": "Why Leadership Teams Fail At Strategy Execution And How To Fix It - forbes.com",
+          "title": "Why Leadership Teams Fail At Strategy Execution And How To Fix It - Forbes",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXpNczJQdVBKTWlEV0dsby1FaEFGUVg5X1B3Zk9qUGI2bDJMSUxydGhRdURFUUdERXhBRmNzUndTVXhITTREMzMxdk9faE5rUldabk9ld2p2dHdfeXJjVEpMckJ6dFZNckFkTkk5ZmJ5MHRVSm5iSXo2WGlwc0NoeTBvcUYxTF9pbUNmaDB4LUdlNk9pMll0Y01BRTNVYzJObzRrV3pCN19scHYtdThYcHJVUVFYbjFMbkE?oc=5",
-          "source": "forbes.com",
-          "snippet": "Why Leadership Teams Fail At Strategy Execution And How To Fix It&nbsp;&nbsp;forbes.com",
+          "source": "Forbes",
+          "snippet": "Why Leadership Teams Fail At Strategy Execution And How To Fix It&nbsp;&nbsp;Forbes",
           "pub_date": "Tue, 04 Nov 2025 08:00:00 GMT"
-        },
-        {
-          "title": "BTS: \u2018Improvisation is an essential part of strategy execution\u2019 - Consultancy.eu",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZW1vR0xxMlZYR3cxckhGWGRlQkVJRG1QSnVwSnQ0N3R4Y21KZmJxMEc5eVNlemV3UlhnU3h5QXhjcTh5QjRrS3ZpSmlsM2tYckRHc3JFUEtpbVctS2pBcHpVcDZZT3Ntb1BPc0FjVDJYbHR5ekc4RG5tTG1NUWlYcmJRTWE1RnhlNFppTktxV1NCNkVwdEl3czhHeXBWbWvSAaQBQVVfeXFMT29OeXZLSUxwakJCUnV0azBHTGdubjAtXzlzamJ3RHJSRzJqMVkxOFg5N0NObElobEVBbG9zcUw1RUwyZ0t4Y0Q0QXE0ZHdCNG1lZG9sNDdFeXNmdHF5SktybmZMRjcxSGNPNWMzeHU4a0hfck85RFZ5NG1DelNqUi1xbGMzX01sS1QwSGdISHVHMTFhUDR0aVFjUWF3QU5Kd2hLbGs?oc=5",
-          "source": "Consultancy.eu",
-          "snippet": "BTS: \u2018Improvisation is an essential part of strategy execution\u2019&nbsp;&nbsp;Consultancy.eu",
-          "pub_date": "Thu, 22 Jan 2026 08:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-18"
+      "scraped_at": "2026-09-21"
     },
     {
       "chapter": 4,
@@ -97,6 +97,13 @@
       "sub": "Sales Strategy",
       "authors": "Deb & Brandon",
       "articles": [
+        {
+          "title": "AI Time Savings Won\u2019t Drive Revenue Unless CSOs Intervene - Gartner",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83YmJZYVNxUUtqV1lJanRha3hGWnFtdjJYSm5FWURzTUFrVm1uTDB2R1VRWklWVlM4cVhURDNTMVFxVmw0Ql9YZUZrdndhcC1JWFRZczVJRmxlR1REQmVvMg?oc=5",
+          "source": "Gartner",
+          "snippet": "AI Time Savings Won\u2019t Drive Revenue Unless CSOs Intervene&nbsp;&nbsp;Gartner",
+          "pub_date": "Fri, 19 Jun 2026 09:39:20 GMT"
+        },
         {
           "title": "The surprising economics of B2B growth: The new survival threshold\u2014and what it takes to thrive - McKinsey & Company",
           "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSF9ESENPR051cXUxeXhTRWdnZlNlSnVFb09xUE9tcHVhYmZwVUJSSnhnVFVuZHl5YXp1UDZseHBVaEFwTW04TFBSYUZFczVpUUJWRzhKVDd6b05ycDd6emR0bFlhbUhDUlhKakRnVGVyYTNoRjk0Ti1wZDR0RUd6cmZldHdfWDFLU3VjWHBib1NPVlY4NmRqZEdkajg4WVZOWVljaVZVVmRPdDVXcXB3a1dYSlZrSHM1MUxXS0pjWGRtdTcweHVNXy04a01fcVNza1E5TzctSGhyMkVwSEFXenRQcnVUSUdLd3VqbGszLWZtUVNKQ2phZk13ckNIbC1f?oc=5",
@@ -110,16 +117,9 @@
           "source": "abasto.com",
           "snippet": "B2B Sales Strategy Now Demands AI, Personalization to Survive&nbsp;&nbsp;abasto.com",
           "pub_date": "Mon, 08 Jun 2026 07:00:00 GMT"
-        },
-        {
-          "title": "From Lead Gen to Revenue Marketing - iCrossing",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pYTVHb29rajNwLWZldXJWUGg1bUxlYXUyNHluV1BCcUQ2UVJLcm9qeEEyYUJfX1VSYUJ4NWZaT241NjZzclIyLVZQQV94N3JfUFBsWUY5QmZfWWdYdjdFRHo1UkRmY3lBb05RRTNGNWxfUzRVYmpfeA?oc=5",
-          "source": "iCrossing",
-          "snippet": "From Lead Gen to Revenue Marketing&nbsp;&nbsp;iCrossing",
-          "pub_date": "Fri, 27 Mar 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-18"
+      "scraped_at": "2026-09-21"
     },
     {
       "chapter": 5,
@@ -128,11 +128,18 @@
       "authors": "Kayli Simpson & Yasmin West",
       "articles": [
         {
-          "title": "Ulta\u2019s CMO on blending brand building and omnichannel marketing - marketingdive.com",
+          "title": "Ulta\u2019s CMO on blending brand building and omnichannel marketing - Marketing Dive",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRlFnSEozTXJJdnl5aWFJQTFGR0tkcnhrUnUyOTNZNlIwcHZiLWFnbm0tQ0FWZEZCTWZvdUFQeEFvQkIwOHdpMmZBR3I5WmNjRmFYb0xJMGhQWmJHYUdWUVdyWndOWTYwR1ZQQ2E4V1dMV2NrT0hpRzNaU1VKdUdoZHMwSFB4SlhYTkZKZ2hDdEdsSkJ6TW91UTZTWlNGaGVmcUE?oc=5",
-          "source": "marketingdive.com",
-          "snippet": "Ulta\u2019s CMO on blending brand building and omnichannel marketing&nbsp;&nbsp;marketingdive.com",
+          "source": "Marketing Dive",
+          "snippet": "Ulta\u2019s CMO on blending brand building and omnichannel marketing&nbsp;&nbsp;Marketing Dive",
           "pub_date": "Tue, 30 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Why JBL is building marketing around culture not campaigns - brand-innovators.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXpYamE0dkF6MWVkcEkwUHlnSHk5bUtIbmV4ZTlDNEk3MEpURWZDdUo5b1Q4aTMtZkIzUy1scXU3VEJUREY2Vks0NjFGV0s2QXYtejBPMm93NlRrSC00MHRSdlpQcnJqeW00akp4eFRLeTZwRGxOV1BEQmR0eEpoVXB0cFpPaUhVeTBtU3E3WGxfZw?oc=5",
+          "source": "brand-innovators.com",
+          "snippet": "Why JBL is building marketing around culture not campaigns&nbsp;&nbsp;brand-innovators.com",
+          "pub_date": "Wed, 08 Apr 2026 07:00:00 GMT"
         },
         {
           "title": "Big Pharma\u2019s Big Brand: Inside Eli Lilly\u2019s marketing culture - Fierce Pharma",
@@ -140,16 +147,9 @@
           "source": "Fierce Pharma",
           "snippet": "Big Pharma\u2019s Big Brand: Inside Eli Lilly\u2019s marketing culture&nbsp;&nbsp;Fierce Pharma",
           "pub_date": "Mon, 22 Jun 2026 07:00:00 GMT"
-        },
-        {
-          "title": "The Cannes Lions 2026 Creative Brand Lions shortlist features 10 contenders showing how brands are turning creativity, culture, technology and operating systems into sustainable growth. - Roastbrief US",
-          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNTlFUaHp5QlNXRHFhbDQ4NzFkYkhUdG9fcDBOQzA0TktsdWpZcjdaWG01Q1lBazU4c2QzTFpJU19ObGllZTlyRW1DTnJIOEU3cDkwY1NJQ2Y5cUZoc21OdGo5MV94c19XZkFXakxyOVZ5OThxS1A3dzdCOUxNZlI3ckJzcEt3OGNaYUJqWGhNZ3VFSmFRM2FZbjh5WTdjZ2c0LW16dnZNTTEta0UtYWFHSGRhU3FHZnBFOGszMlZWMUtzcVBtWm1hZWsxNGNSazJnNTBKRlZVTXZrZ0hTNVluX2FDa2duVF85UFE1RGowUEg5NkE2NVN2ZE5CUHUtQWl6OHJPbnB1VlI2X1pZWkh1WkpweFJac3phdFFlQ0VoNHI3NzQ1ckpPQXE4QjlqZw?oc=5",
-          "source": "Roastbrief US",
-          "snippet": "The Cannes Lions 2026 Creative Brand Lions shortlist features 10 contenders showing how brands are turning creativity, culture, technology and operating systems into sustainable growth.&nbsp;&nbsp;Roa",
-          "pub_date": "Sat, 20 Jun 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-18"
+      "scraped_at": "2026-09-21"
     },
     {
       "chapter": 6,
@@ -158,18 +158,18 @@
       "authors": "Caleb Hawkins, Darla Klein & Yasmin West",
       "articles": [
         {
-          "title": "Ram Chaurasia Appointed Senior Director \u2013 Talent Acquisition at Sagility - CXO Digitalpulse",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPamxQUGdHc2pWVE1RRDNlQXpybjRCbWxVTXNZajJwanc0eHlmR0M2RmNndEhtNnB3NHNLQnVIai1ZLWhCVkFFZU1wdElkbnphWXpSQmNld0RXRlNDWmE0QnJSMmRpSVlLcE5mQU9LVkVuMDdSV1Roaml5Z0tPVGRqb2RLeFEyMmdTRUlYbU5pUHd5QURGaVJlcmpxZ2tFMGNGMGNCeDh3?oc=5",
-          "source": "CXO Digitalpulse",
-          "snippet": "Ram Chaurasia Appointed Senior Director \u2013 Talent Acquisition at Sagility&nbsp;&nbsp;CXO Digitalpulse",
-          "pub_date": "Mon, 14 Sep 2026 06:52:00 GMT"
-        },
-        {
           "title": "Precision Over Scale: The New Rules of Hiring in 2026 - SHRM",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRFVYR0VscXJpMmVqV2dwazJDTkstVDJTNG9uTlZlWHJPVkFqQ0MzZTRQSUYwUDZweWw2dE52THZKSnhBTzQtb1g5UUYzbmJTbjFJcXlVYno2ZzU4aE0yNVRwN2RIN05xTWJVWnZQejVyY2xRNmJ2SF83QmVHel9GYmdWTEdEMWZLMVk5OThMNTF0TmdKR1F4bG84cnZRZ0FU?oc=5",
           "source": "SHRM",
           "snippet": "Precision Over Scale: The New Rules of Hiring in 2026&nbsp;&nbsp;SHRM",
           "pub_date": "Wed, 25 Feb 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Cognizant (CTSH) Selects Oracle (ORCL) Fusion Cloud Recruiting to Scale Global Talent Acquisition - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYjVkTXhZazZ5NG5PbGVJUTd0RkI5STBHb1Vuc3RJT3VSeVFiTjk3Qm9MU3Nhb3Vwa1pXSXR4SXVHWjhuMUhSTkY3RkVTOFNVV1NpYVZPNGZQNGY4YlJ4Q095VHpBMlZ1bEZacWdOMEItYzRlT0NZaDIwMVhwNHYzLVJybVRTbHRVYlIybGc3OWRVQ09QdFJ0dlVFZ1plaE0?oc=5",
+          "source": "Yahoo Finance",
+          "snippet": "Cognizant (CTSH) Selects Oracle (ORCL) Fusion Cloud Recruiting to Scale Global Talent Acquisition&nbsp;&nbsp;Yahoo Finance",
+          "pub_date": "Tue, 30 Jun 2026 07:00:00 GMT"
         },
         {
           "title": "WorkWave Names Melinda Vedder as Chief Human Resources Officer - Pest Control Technology",
@@ -179,7 +179,7 @@
           "pub_date": "Tue, 21 Apr 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-18"
+      "scraped_at": "2026-09-21"
     },
     {
       "chapter": 7,
@@ -188,6 +188,13 @@
       "authors": "H\u00e9ctor Arias, Matt Radicelli & Jim Randall",
       "articles": [
         {
+          "title": "14 Tools to Track KPIs for Your Business - Business.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWNPSTVTUDVYYURoVkZKa0ItNEtQbmJqWlNJTlIzUVZqclAxMHFaajNobC1JbGNkZGZVajN6MWJLT1pJcXktVG10VG8zUUljdU43NU5WR1cyNDB4QkxONlJkb3hJR2FfNzdGZHd1VWhPbTktdU1vdTEzamFWY2ZFVDNKUFIwRG91ZDdWU1UyN2twNFpLd1JjU3EzTUpjdw?oc=5",
+          "source": "Business.com",
+          "snippet": "14 Tools to Track KPIs for Your Business&nbsp;&nbsp;Business.com",
+          "pub_date": "Thu, 03 Sep 2026 07:00:00 GMT"
+        },
+        {
           "title": "30 Financial Metrics and KPIs to Measure Success in 2026 - Oracle NetSuite",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcThuZllxNkVka0dpOV9QdHZQM2RiU0tfMGVIR05tdW9ZN1AtYngwQ1d4WDFSb3ZNSUxKNHFCSUR4aC1lR1g2ZWYzWFE0NWF1WmVpejAxOW9VRFdJa01yLUFKa1hvbjNGQnR6a2hZcVVtQzgwRXNCdXVGbjhfNWR2eWpTSlFyRk5zLVZ3MnJvMU14ZjA?oc=5",
           "source": "Oracle NetSuite",
@@ -195,21 +202,14 @@
           "pub_date": "Thu, 16 Apr 2026 07:00:00 GMT"
         },
         {
-          "title": "The KPIs to Help Manufacturers Improve Company Performance - claconnect.com",
+          "title": "The KPIs to Help Manufacturers Improve Company Performance - CliftonLarsonAllen (CLA)",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc3hGVVVxVnMwVEpLcmxaNWJzaURJbERjczZaSDhlcnhvOFlHX1VZU0tETkctQjFqRVhZVkNtcFNoUWtfSmRhSmU5N3pYc25IVzlfTEs5TjFZWk1RTmhZd2JzSkpPSXVmQndRRHRBM29CaDBoWnVWRXcxMnBhWkcwT3dmWTAwSDFSeS1hYzFtRUNtd05nWE9PX25nbzRfc2ZzSjVFVURMY0hMRkdVMmtOdjVOYUluUXJIcEE?oc=5",
-          "source": "claconnect.com",
-          "snippet": "The KPIs to Help Manufacturers Improve Company Performance&nbsp;&nbsp;claconnect.com",
+          "source": "CliftonLarsonAllen (CLA)",
+          "snippet": "The KPIs to Help Manufacturers Improve Company Performance&nbsp;&nbsp;CliftonLarsonAllen (CLA)",
           "pub_date": "Thu, 13 Nov 2025 08:00:00 GMT"
-        },
-        {
-          "title": "10 business-critical KPIs for your direct sales business - Epixel MLM Software",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14MFNCRHFMdW1qZnJIbVpwcFhuMm5NXzZYWkY3bG9oNUdPWlZVQjF1cmdHWUpSUnhYTklSY3pFRDd0aWhNNW5OR084UEl0cWJsVFBXeFhIbVhjU0d4LWlLSlBzX1J5NFE?oc=5",
-          "source": "Epixel MLM Software",
-          "snippet": "10 business-critical KPIs for your direct sales business&nbsp;&nbsp;Epixel MLM Software",
-          "pub_date": "Tue, 07 Apr 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-18"
+      "scraped_at": "2026-09-21"
     },
     {
       "chapter": 8,
@@ -217,6 +217,13 @@
       "sub": "AI in Business",
       "authors": "Hudson Shank & Jonathan Slain",
       "articles": [
+        {
+          "title": "90 Percent of Execs Say Oops, AI Didn\u2019t Help Productivity, So Layoffs Will Continue - Futurism",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcWFiV2U3cXZkVS0zbmgzWDNUX0hXclBjZUprQXhNclNpblpTeGlDV3NEVHNvRlRKSlVnYUdtMHZTSEo3S2ZOSURGREhBeFFLTzNPRWhUS2ZENlptd1k5dFMzT09KbzFfamRHVjBHWTN5YlJJZUlSRjlsZWVqMDFBRFNESW4zb2hwZlVtSTkxNE5tNWpSdEdua1FIZlo?oc=5",
+          "source": "Futurism",
+          "snippet": "90 Percent of Execs Say Oops, AI Didn\u2019t Help Productivity, So Layoffs Will Continue&nbsp;&nbsp;Futurism",
+          "pub_date": "Tue, 25 Aug 2026 07:00:00 GMT"
+        },
         {
           "title": "90% of executives say AI hasn\u2019t boosted productivity. Some are still cutting jobs - Fortune",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LZWF5Vkc3Wk9DVVd5aE83ZGVhbWMyb3U3MW1kcHljOHdwcjdjTmt1SmU5bFVRblVaZGJsRndNRS1fWExxc3IyZDBJcnlxZHhYVUFhV1pBSzVRS0R1RVJlNVYxM0pzRXZKcG96RExTdTVlMnhBWDNMUlVuUGM?oc=5",
@@ -230,16 +237,9 @@
           "source": "The New York Times",
           "snippet": "\u2018Talk to My A.I. Twin\u2019: Busy Executives Have a New Productivity Hack&nbsp;&nbsp;The New York Times",
           "pub_date": "Wed, 05 Aug 2026 07:00:00 GMT"
-        },
-        {
-          "title": "AI's productivity promise remains elusive for 90% executives, study finds - Business Standard",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUy01NWFwLU1KdEFUVHpXSzd4N09jdzYtN2V4ZVBpSGtGZ3lIMkR6YUhoc0pFSzlEeG9RYXdaMGlHN3hFRnA3OThYVnlSMS1jaUR3NTFhS0tmQ25KYmEyVDRySVBvR2RvUVhxOF82OWV3bG5nMVRZdzE5ZllxaVMwMUJUNzlONjNJRGp3YzVaNEM4Q0xQTHN4T0VtWVFVUEl3Z25VVVFKNV91WXhtZlZSVlNDX2RGa3BjVWE5am1tZl92MldxeHd5bmlhWG1NT18xcXExU2Q1ZHNSY2dzNUlV0gHkAUFVX3lxTE1ucWRwbHVldWFrWVJfYWFIMEhnU3YtN2wyT1ZuOVFPektIVWp0WEphUHc5cHRPQmszd00tZVZxbkNIZEZNWThpdVVKNHJOWHdCZjdMcVpZZ1VsSVVTU3AtdWVFTDJyUzJLOWpidmNBVnp2RzBvNmNFU2FDUGlMOEpvOU9EYVJkcWxraWZJWDE2QkprWHA4ckFldmZXbEctMUVpN2V4eXdJcFJDYmQ1Q0pyZGZSLUoteElpcFUzcW8zT0I1c2x5QXk0LWlzSnlEb3pvTVlfbDdKR0J6Y1E3ZDF6SmlSeg?oc=5",
-          "source": "Business Standard",
-          "snippet": "AI's productivity promise remains elusive for 90% executives, study finds&nbsp;&nbsp;Business Standard",
-          "pub_date": "Tue, 25 Aug 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-18"
+      "scraped_at": "2026-09-21"
     },
     {
       "chapter": 9,
@@ -247,13 +247,6 @@
       "sub": "Imposter Syndrome & Leadership Psychology",
       "authors": "Samantha Frost, Caleb Hawkins & Rafa Loyo",
       "articles": [
-        {
-          "title": "Six Ways to Overcome Impostor Syndrome in a New Leadership Role - Seattle University",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTHlqVjJWbmVSRkRPWnNTLU05TjNYZmVlelFGYUNIYmg1TXlHRmpjUmMtYWx6OEtzSjJIdVNmbGtidllGQzZXZU1kZS1ZTmxONm1JWko3MVdTVjlvczl0MTN4eF91aURLN05SUU5UMUNrbXlBU09kSTczZGItUzNfczZKMUlOZnJqX3hFNXZ6LWV3YVB5SzF3eUZZY1VVajBJWG5tRFZiSDhhT3NaVXppVkYtWDlRZUJOTVNLbVk1WQ?oc=5",
-          "source": "Seattle University",
-          "snippet": "Six Ways to Overcome Impostor Syndrome in a New Leadership Role&nbsp;&nbsp;Seattle University",
-          "pub_date": "Mon, 27 Oct 2025 19:23:03 GMT"
-        },
         {
           "title": "Decoding imposter syndrome: Turning self-doubt into executive presence - Bona Magazine",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNEhubDdpNGlqNHM4SmszNi1JYU1vN2ZxOTVjNi05LXFyNnpVSGVlVzVsVl9QVGEwWXVqYzJJSkVNdXpPTkFIdzZJX1BlUkRPUi1SS1Z2MXp6NEkzcEhwZ2hsTnE0VG5MNG1tb2JOQ3hoMXJlaFozUVZILW5LUzIzR2twMGhIbzhybkJrR2ZCYXdodHFYZFNILS0xbEJIT2FCWEpMOE5QUU96Tnc0?oc=5",
@@ -267,9 +260,16 @@
           "source": "Forbes Australia",
           "snippet": "Why impostor syndrome follows high achievers all the way to the top&nbsp;&nbsp;Forbes Australia",
           "pub_date": "Fri, 19 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Six Ways to Overcome Impostor Syndrome in a New Leadership Role - Seattle University",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTHlqVjJWbmVSRkRPWnNTLU05TjNYZmVlelFGYUNIYmg1TXlHRmpjUmMtYWx6OEtzSjJIdVNmbGtidllGQzZXZU1kZS1ZTmxONm1JWko3MVdTVjlvczl0MTN4eF91aURLN05SUU5UMUNrbXlBU09kSTczZGItUzNfczZKMUlOZnJqX3hFNXZ6LWV3YVB5SzF3eUZZY1VVajBJWG5tRFZiSDhhT3NaVXppVkYtWDlRZUJOTVNLbVk1WQ?oc=5",
+          "source": "Seattle University",
+          "snippet": "Six Ways to Overcome Impostor Syndrome in a New Leadership Role&nbsp;&nbsp;Seattle University",
+          "pub_date": "Mon, 27 Oct 2025 19:23:03 GMT"
         }
       ],
-      "scraped_at": "2026-09-18"
+      "scraped_at": "2026-09-21"
     },
     {
       "chapter": 10,
@@ -285,21 +285,21 @@
           "pub_date": "Wed, 12 Aug 2026 07:00:00 GMT"
         },
         {
+          "title": "Morgan Stanley on life after selling your business: a roadmap for entrepreneurs - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdnZpWG94aDF5el9jOUtxNWhVYlFXZ3FKejZHQkJEOTVVSmN2VE1COEtTb3lkTnJ1VENGTVoxWGUzOHhYdlJ4QUV6bW9IajBVTEQ2cm5vUWRST3pCcWlxXzNzNHNMQlRmSURudzZZbFNuWkx2YUZWakN5ME1mcVU0Rm9XcFdMOXQzNFo4?oc=5",
+          "source": "Fortune",
+          "snippet": "Morgan Stanley on life after selling your business: a roadmap for entrepreneurs&nbsp;&nbsp;Fortune",
+          "pub_date": "Fri, 26 Jun 2026 07:00:00 GMT"
+        },
+        {
           "title": "HPU Student Entrepreneurs Earn $30,000 in Business Plan Competition - High Point University",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDVfMnhZS3JndXJ4eV9iV3M2ZlA1bUxsMXZvVWlRVkdKLUlyVkRPRUtWakxPTmdLUk5zS05pelQxbEtONV8tYUhOM2Z3cHVMN3BsWDduUy02cWFaR2Y0S2RhNmtUU1pYZDFHa1FtMl92cjFsd2VtOXBQMFNtajZ4V3V4dkJhRzlqSmt0SzdqS2sxdU4yQmlCb2hiM1FGWlBqeFZQMF9LbEQ?oc=5",
           "source": "High Point University",
           "snippet": "HPU Student Entrepreneurs Earn $30,000 in Business Plan Competition&nbsp;&nbsp;High Point University",
           "pub_date": "Thu, 16 Apr 2026 07:00:00 GMT"
-        },
-        {
-          "title": "600 Entrepreneurs Gather in Santa Monica for Founders Club - Santa Monica Daily Press",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXNhNEJheEJOS3hBZkRxSjNPRk8xaGVNV0trX0pDTWxWQnJNczF6anRac3ctaHdwNkNnQ2hZMFBVU3NmUXNlMjhpY2R3N204UDNvamxnWDBwU2hhV1Nwc08wLWhGaTkwMnRjdjItSldrSXB3WkZsUXFab3hVR2plYmFUTHhycUt6ZUVKaTFCOF91QWJGeGtEazA3MklDaEltdzNqMDF2OXBlSXpMYkJXSlpBSQ?oc=5",
-          "source": "Santa Monica Daily Press",
-          "snippet": "600 Entrepreneurs Gather in Santa Monica for Founders Club&nbsp;&nbsp;Santa Monica Daily Press",
-          "pub_date": "Sat, 28 Feb 2026 08:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-18"
+      "scraped_at": "2026-09-21"
     }
   ]
 }
