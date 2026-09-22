@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T17:29:11.703824+00:00",
+  "generated_at": "2026-09-22T15:59:15.396658+00:00",
   "chapters": [
     {
       "chapter": 1,
@@ -7,13 +7,6 @@
       "sub": "Leadership & Scaling",
       "authors": "Katherine Slain",
       "articles": [
-        {
-          "title": "OpenLight Adds Former GlobalFoundries Silicon Photonics Leader Kevin Soukup and Semiconductor Veteran Kirk Ouellette to Executive Team - 01net",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVEJPeUNXYi12clRXa3ZObThfamoyMllidE95ODAycV9LR0Q2NG9RV0x3MzlyU2k1eURoalFjTnlZZ0NyeWZUdXVvaXpRbWxyczB0UDJtSHNjY2t0VGllODk3ZmVNY0ZwaEd6RmtWQTdwV2hkQTNVSmZZMjFBUVdRQ0cyWlBTZGw5RkdBV3FCbjlSSXpYRTlaRGFwLTllRjBVWjVHSG1wTDlJSEM2RnpmM3JSbHdWSGZoQmRlaWdlZVNhdURBckl5dDZjZ2ZGUHR6blFuZl9lMUZtZ0pRQlN0MUVlMUJsbmNQbXpWcA?oc=5",
-          "source": "01net",
-          "snippet": "OpenLight Adds Former GlobalFoundries Silicon Photonics Leader Kevin Soukup and Semiconductor Veteran Kirk Ouellette to Executive Team&nbsp;&nbsp;01net",
-          "pub_date": "Mon, 21 Sep 2026 09:00:00 GMT"
-        },
         {
           "title": "CleanCapital Reshapes Executive Team to Scale Solar and Storage Platform - citybiz",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWWJYVV83U0lvX2xxQWtKRUtiVE1lUERRd1pEN2MyU1BodHItU2tJVzJyOV9mSXRjM0M1TFhMMjdYamFoWDVYU2Nwdy1iQjRTSjFqR0FfWWdLNGRqZTBFbFJBUkxtQ21GLWQ1V082elZrcV8wV2ZjZ3VkM3lSSUdMM2ZDSUtqVnZaQ0R1anpQMllSU1JLUk1tWE01dENROWlSQlJNNk1lUkVJcmZLbWZkZQ?oc=5",
@@ -27,9 +20,16 @@
           "source": "Business Wire",
           "snippet": "Concentric AI Strengthens Executive Leadership Team to Support Growing Global Demand for AI and Data Security Governance Solutions&nbsp;&nbsp;Business Wire",
           "pub_date": "Wed, 09 Sep 2026 12:00:00 GMT"
+        },
+        {
+          "title": "What Executives Need to Understand Before Scaling AI Across the Organization - Stanford Graduate School of Business",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYVhzWHYzT1VheXhTVGVNSHgtQlFMMHFPZHFoUmxYQTJ2SllrZG91d2trSW1UTHdBdmlhNVB6Q2FZeDVUSnRkWm1qaFRaN3ZDR2JvXzdtbkkwVF9rbXBwZ3QtWFp3ME92aXVESVRrY1RVUF9HWnp0ZUNJYktpN180aGx2OURxdm4wc0Z6UU1CeFdhVTFrLTloQ05wLWgwVThrNjZkZXBIMWNHcUkzc2tv?oc=5",
+          "source": "Stanford Graduate School of Business",
+          "snippet": "What Executives Need to Understand Before Scaling AI Across the Organization&nbsp;&nbsp;Stanford Graduate School of Business",
+          "pub_date": "Tue, 04 Aug 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-21"
+      "scraped_at": "2026-09-22"
     },
     {
       "chapter": 2,
@@ -38,18 +38,18 @@
       "authors": "Paul Belair & George Hohman",
       "articles": [
         {
-          "title": "Every Founder Plans for Growth, But Almost None Plan for the Exit. Here's What I Wish I'd Understood Sooner. - entrepreneur.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ1IwcXAwLW0wOUR3UTROejNURE9ORVB1NmdRRi1Ccm4wbjdRa2Rrcy05R3h0OTJkT0xrV2paVENfblRqRHVsZFVKZHJ2cDFTalhCcWpVc2J6YlBkeDNBMm1fUWE3dmRzY2ZtRkduR3lvQnFRVDFJMnNtTloyd0xSUlhFNDg2WmxZNFl1TzhuNEU4WUpB?oc=5",
-          "source": "entrepreneur.com",
-          "snippet": "Every Founder Plans for Growth, But Almost None Plan for the Exit. Here's What I Wish I'd Understood Sooner.&nbsp;&nbsp;entrepreneur.com",
-          "pub_date": "Wed, 12 Aug 2026 07:00:00 GMT"
-        },
-        {
           "title": "Business Exit Strategies - J.P. Morgan Private Bank",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalJUT0c3NEFPTndZX08zeGN0dXVFOEJVcmVLRml0QUNjb2xXU3Nxd2ZjOW1mUVUtc0F6SDZ0M056b2Rpd21ZZWF6aVBpOHZESjRiMEtKYk13Sm52VTJJTzV5ZzhFVTE5LVVtcVN4aVpiUzJYUUEtclFONlM4S0NzS3owaFRDT3p6Z2NoZlhjSUh1QnhsWTkyT3pKQkJZR3YxWnZHSHpHTDQ3MEtSRDdBb1JDTVJrb1U?oc=5",
           "source": "J.P. Morgan Private Bank",
           "snippet": "Business Exit Strategies&nbsp;&nbsp;J.P. Morgan Private Bank",
           "pub_date": "Fri, 03 Jul 2026 02:20:32 GMT"
+        },
+        {
+          "title": "Why You Need an Exit Plan Long Before You're Ready to Sell - entrepreneur.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM1NnNE5WNExrN0g3ckJYdWc4NFRfUnFxZ1RqWkNqZjVkYWFSLVJWUVBtUXM1MjRRMVNUZEVoVFlaTW1POXR1aUc1UEN5Vm4xcklGcy0tam5lUXJULVRaTnpESUkyWGF1TWlxcl95U1lPa0tmY1g1YW5ibmVLQk9nd25kcENfUVJyb1ZnRU1kQm9Jd09aZHRSLU02djVuYW1SMEd0cXhZUjNwVXhkbUE1NDRB?oc=5",
+          "source": "entrepreneur.com",
+          "snippet": "Why You Need an Exit Plan Long Before You're Ready to Sell&nbsp;&nbsp;entrepreneur.com",
+          "pub_date": "Wed, 11 Mar 2026 07:00:00 GMT"
         },
         {
           "title": "The Essential Elements Of Successful Exit Planning - Forbes",
@@ -59,7 +59,7 @@
           "pub_date": "Sun, 18 Jan 2026 08:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-21"
+      "scraped_at": "2026-09-22"
     },
     {
       "chapter": 3,
@@ -68,10 +68,10 @@
       "authors": "Rafa Loyo & Jim Randall",
       "articles": [
         {
-          "title": "Ipsos reaffirms strategic plans under Kelly Beaver - Research Live",
+          "title": "Ipsos reaffirms strategic plans under Kelly Beaver - research-live.com",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZmZ3SmRCWE5TY013cGVTeE9TRExGQkhSeWh2NHlBc1R2THlWMExKT3VpN3ozcF9RV3RhMElDQi1NN1JrRUxZRm5WT1o5bGFOT182clZrRkdxQUN3UldmLVVROERpbmVoRm9nNEtHQ0tPOTRNZ0RBM1NFczRwM1pYMG90WlBqSU9VX0g0LW1tZ0FUUGxJZm4wS2wwTy1OM3VkZU1lajlZUQ?oc=5",
-          "source": "Research Live",
-          "snippet": "Ipsos reaffirms strategic plans under Kelly Beaver&nbsp;&nbsp;Research Live",
+          "source": "research-live.com",
+          "snippet": "Ipsos reaffirms strategic plans under Kelly Beaver&nbsp;&nbsp;research-live.com",
           "pub_date": "Tue, 15 Sep 2026 12:36:48 GMT"
         },
         {
@@ -89,7 +89,7 @@
           "pub_date": "Tue, 04 Nov 2025 08:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-21"
+      "scraped_at": "2026-09-22"
     },
     {
       "chapter": 4,
@@ -119,7 +119,7 @@
           "pub_date": "Mon, 08 Jun 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-21"
+      "scraped_at": "2026-09-22"
     },
     {
       "chapter": 5,
@@ -135,10 +135,10 @@
           "pub_date": "Tue, 30 Jun 2026 07:00:00 GMT"
         },
         {
-          "title": "Why JBL is building marketing around culture not campaigns - brand-innovators.com",
+          "title": "Why JBL is building marketing around culture not campaigns - Brand Innovators",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXpYamE0dkF6MWVkcEkwUHlnSHk5bUtIbmV4ZTlDNEk3MEpURWZDdUo5b1Q4aTMtZkIzUy1scXU3VEJUREY2Vks0NjFGV0s2QXYtejBPMm93NlRrSC00MHRSdlpQcnJqeW00akp4eFRLeTZwRGxOV1BEQmR0eEpoVXB0cFpPaUhVeTBtU3E3WGxfZw?oc=5",
-          "source": "brand-innovators.com",
-          "snippet": "Why JBL is building marketing around culture not campaigns&nbsp;&nbsp;brand-innovators.com",
+          "source": "Brand Innovators",
+          "snippet": "Why JBL is building marketing around culture not campaigns&nbsp;&nbsp;Brand Innovators",
           "pub_date": "Wed, 08 Apr 2026 07:00:00 GMT"
         },
         {
@@ -149,7 +149,7 @@
           "pub_date": "Mon, 22 Jun 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-21"
+      "scraped_at": "2026-09-22"
     },
     {
       "chapter": 6,
@@ -179,7 +179,7 @@
           "pub_date": "Tue, 21 Apr 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-21"
+      "scraped_at": "2026-09-22"
     },
     {
       "chapter": 7,
@@ -209,7 +209,7 @@
           "pub_date": "Thu, 13 Nov 2025 08:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-21"
+      "scraped_at": "2026-09-22"
     },
     {
       "chapter": 8,
@@ -218,11 +218,11 @@
       "authors": "Hudson Shank & Jonathan Slain",
       "articles": [
         {
-          "title": "90 Percent of Execs Say Oops, AI Didn\u2019t Help Productivity, So Layoffs Will Continue - Futurism",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcWFiV2U3cXZkVS0zbmgzWDNUX0hXclBjZUprQXhNclNpblpTeGlDV3NEVHNvRlRKSlVnYUdtMHZTSEo3S2ZOSURGREhBeFFLTzNPRWhUS2ZENlptd1k5dFMzT09KbzFfamRHVjBHWTN5YlJJZUlSRjlsZWVqMDFBRFNESW4zb2hwZlVtSTkxNE5tNWpSdEdua1FIZlo?oc=5",
-          "source": "Futurism",
-          "snippet": "90 Percent of Execs Say Oops, AI Didn\u2019t Help Productivity, So Layoffs Will Continue&nbsp;&nbsp;Futurism",
-          "pub_date": "Tue, 25 Aug 2026 07:00:00 GMT"
+          "title": "\u2018Talk to My A.I. Twin\u2019: Busy Executives Have a New Productivity Hack - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fZnBYemx0U1pIYUJQSk1WSm1sdThzLWNxcnJmaUNqMDFSajVISUtSXzJBTWFtSW9PY0JjcUVZSjRSaTZwblhuYWg3NUM1Xy1MVmxpSWtHSUJzRmlGZjA1VHBHczEwbkl5UmswVW1qVi00Q0Z3NUtZeHZDb0lEQQ?oc=5",
+          "source": "The New York Times",
+          "snippet": "\u2018Talk to My A.I. Twin\u2019: Busy Executives Have a New Productivity Hack&nbsp;&nbsp;The New York Times",
+          "pub_date": "Wed, 05 Aug 2026 07:00:00 GMT"
         },
         {
           "title": "90% of executives say AI hasn\u2019t boosted productivity. Some are still cutting jobs - Fortune",
@@ -232,14 +232,14 @@
           "pub_date": "Sat, 22 Aug 2026 07:00:00 GMT"
         },
         {
-          "title": "\u2018Talk to My A.I. Twin\u2019: Busy Executives Have a New Productivity Hack - The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fZnBYemx0U1pIYUJQSk1WSm1sdThzLWNxcnJmaUNqMDFSajVISUtSXzJBTWFtSW9PY0JjcUVZSjRSaTZwblhuYWg3NUM1Xy1MVmxpSWtHSUJzRmlGZjA1VHBHczEwbkl5UmswVW1qVi00Q0Z3NUtZeHZDb0lEQQ?oc=5",
-          "source": "The New York Times",
-          "snippet": "\u2018Talk to My A.I. Twin\u2019: Busy Executives Have a New Productivity Hack&nbsp;&nbsp;The New York Times",
-          "pub_date": "Wed, 05 Aug 2026 07:00:00 GMT"
+          "title": "90 Percent of Execs Say Oops, AI Didn\u2019t Help Productivity, So Layoffs Will Continue - Futurism",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcWFiV2U3cXZkVS0zbmgzWDNUX0hXclBjZUprQXhNclNpblpTeGlDV3NEVHNvRlRKSlVnYUdtMHZTSEo3S2ZOSURGREhBeFFLTzNPRWhUS2ZENlptd1k5dFMzT09KbzFfamRHVjBHWTN5YlJJZUlSRjlsZWVqMDFBRFNESW4zb2hwZlVtSTkxNE5tNWpSdEdua1FIZlo?oc=5",
+          "source": "Futurism",
+          "snippet": "90 Percent of Execs Say Oops, AI Didn\u2019t Help Productivity, So Layoffs Will Continue&nbsp;&nbsp;Futurism",
+          "pub_date": "Tue, 25 Aug 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-21"
+      "scraped_at": "2026-09-22"
     },
     {
       "chapter": 9,
@@ -269,7 +269,7 @@
           "pub_date": "Mon, 27 Oct 2025 19:23:03 GMT"
         }
       ],
-      "scraped_at": "2026-09-21"
+      "scraped_at": "2026-09-22"
     },
     {
       "chapter": 10,
@@ -278,11 +278,11 @@
       "authors": "Samantha Frost, Jonathan & Katherine Slain",
       "articles": [
         {
-          "title": "Every Founder Plans for Growth, But Almost None Plan for the Exit. Here's What I Wish I'd Understood Sooner. - entrepreneur.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ1IwcXAwLW0wOUR3UTROejNURE9ORVB1NmdRRi1Ccm4wbjdRa2Rrcy05R3h0OTJkT0xrV2paVENfblRqRHVsZFVKZHJ2cDFTalhCcWpVc2J6YlBkeDNBMm1fUWE3dmRzY2ZtRkduR3lvQnFRVDFJMnNtTloyd0xSUlhFNDg2WmxZNFl1TzhuNEU4WUpB?oc=5",
-          "source": "entrepreneur.com",
-          "snippet": "Every Founder Plans for Growth, But Almost None Plan for the Exit. Here's What I Wish I'd Understood Sooner.&nbsp;&nbsp;entrepreneur.com",
-          "pub_date": "Wed, 12 Aug 2026 07:00:00 GMT"
+          "title": "HPU Student Entrepreneurs Earn $30,000 in Business Plan Competition - High Point University",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDVfMnhZS3JndXJ4eV9iV3M2ZlA1bUxsMXZvVWlRVkdKLUlyVkRPRUtWakxPTmdLUk5zS05pelQxbEtONV8tYUhOM2Z3cHVMN3BsWDduUy02cWFaR2Y0S2RhNmtUU1pYZDFHa1FtMl92cjFsd2VtOXBQMFNtajZ4V3V4dkJhRzlqSmt0SzdqS2sxdU4yQmlCb2hiM1FGWlBqeFZQMF9LbEQ?oc=5",
+          "source": "High Point University",
+          "snippet": "HPU Student Entrepreneurs Earn $30,000 in Business Plan Competition&nbsp;&nbsp;High Point University",
+          "pub_date": "Thu, 16 Apr 2026 07:00:00 GMT"
         },
         {
           "title": "Morgan Stanley on life after selling your business: a roadmap for entrepreneurs - Fortune",
@@ -292,14 +292,14 @@
           "pub_date": "Fri, 26 Jun 2026 07:00:00 GMT"
         },
         {
-          "title": "HPU Student Entrepreneurs Earn $30,000 in Business Plan Competition - High Point University",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDVfMnhZS3JndXJ4eV9iV3M2ZlA1bUxsMXZvVWlRVkdKLUlyVkRPRUtWakxPTmdLUk5zS05pelQxbEtONV8tYUhOM2Z3cHVMN3BsWDduUy02cWFaR2Y0S2RhNmtUU1pYZDFHa1FtMl92cjFsd2VtOXBQMFNtajZ4V3V4dkJhRzlqSmt0SzdqS2sxdU4yQmlCb2hiM1FGWlBqeFZQMF9LbEQ?oc=5",
-          "source": "High Point University",
-          "snippet": "HPU Student Entrepreneurs Earn $30,000 in Business Plan Competition&nbsp;&nbsp;High Point University",
-          "pub_date": "Thu, 16 Apr 2026 07:00:00 GMT"
+          "title": "75% of Founders Regret Selling Their Business Within a Year \u2014 Here's How to Walk Away With More Than Just Money - entrepreneur.com",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZ3AyQ1laMWg4RFBmUUNfa1RsZXh0YUdxLXAyOEhlVlFiZzBkM1M2azVCbmtYUHpOZkh5SlpibFUxWmtsOGpEUkRHaHhhZEtEODJQUF8tN1RadUhUd1FBaVA1akZlSTRrRHB1cnZuMExrQ1YtNXVUQnl5cERTVVctY1pfRjZWcHhhNmtYOG1VRHZ0UEFfb1U5Wlh3TzBHd3c4V0RObWE4bmhlaTdGcGFQaDJ2LWRPQVJ0SUk5SHBLQlhnQTE2Rmtya2JySHlKb0RScEhLTExhN000NzdBaXo5UWNPelJuWDVmbGQ4RA?oc=5",
+          "source": "entrepreneur.com",
+          "snippet": "75% of Founders Regret Selling Their Business Within a Year \u2014 Here's How to Walk Away With More Than Just Money&nbsp;&nbsp;entrepreneur.com",
+          "pub_date": "Thu, 30 Jul 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-09-21"
+      "scraped_at": "2026-09-22"
     }
   ]
 }
