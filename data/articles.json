@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:48:39.695012+00:00",
+  "generated_at": "2026-10-19T17:59:43.077552+00:00",
   "chapters": [
     {
       "chapter": 1,
@@ -29,7 +29,7 @@
           "pub_date": "Thu, 01 Oct 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-10-16"
+      "scraped_at": "2026-10-19"
     },
     {
       "chapter": 2,
@@ -37,13 +37,6 @@
       "sub": "M&A & Business Valuation",
       "authors": "Paul Belair & George Hohman",
       "articles": [
-        {
-          "title": "Every Founder Plans for Growth, But Almost None Plan for the Exit. Here's What I Wish I'd Understood Sooner. - Entrepreneur",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ1IwcXAwLW0wOUR3UTROejNURE9ORVB1NmdRRi1Ccm4wbjdRa2Rrcy05R3h0OTJkT0xrV2paVENfblRqRHVsZFVKZHJ2cDFTalhCcWpVc2J6YlBkeDNBMm1fUWE3dmRzY2ZtRkduR3lvQnFRVDFJMnNtTloyd0xSUlhFNDg2WmxZNFl1TzhuNEU4WUpB?oc=5",
-          "source": "Entrepreneur",
-          "snippet": "Every Founder Plans for Growth, But Almost None Plan for the Exit. Here's What I Wish I'd Understood Sooner.&nbsp;&nbsp;Entrepreneur",
-          "pub_date": "Wed, 12 Aug 2026 07:00:00 GMT"
-        },
         {
           "title": "Business Exit Strategies - J.P. Morgan Private Bank",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOalJUT0c3NEFPTndZX08zeGN0dXVFOEJVcmVLRml0QUNjb2xXU3Nxd2ZjOW1mUVUtc0F6SDZ0M056b2Rpd21ZZWF6aVBpOHZESjRiMEtKYk13Sm52VTJJTzV5ZzhFVTE5LVVtcVN4aVpiUzJYUUEtclFONlM4S0NzS3owaFRDT3p6Z2NoZlhjSUh1QnhsWTkyT3pKQkJZR3YxWnZHSHpHTDQ3MEtSRDdBb1JDTVJrb1U?oc=5",
@@ -57,9 +50,16 @@
           "source": "24-7PressRelease.com",
           "snippet": "Exit Planning Institute Austin Chapter hosts Business Owner Round Table on growth strategies for area entrepreneurs&nbsp;&nbsp;24-7PressRelease.com",
           "pub_date": "Wed, 19 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Many entrepreneurs are ready to pass the torch, but few are prepared. - BDC.ca",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS0lsdHVTMG5lenVwbDhBTXFBX2hUZnRhengxbWhrLU5LV210b2o3bFBvT3N5YllmMjVlYXJtcmxSS3ZZZFY5SlhibXVuZWxOMnRaUjVpbHhjUWhJc1V2TEljR05KdlZQaGY3elk0azk5OW9fY3RCQzBaaERqb2tEWFZPRUhYb1JuYkZqNjB2OW1Mb1NCbUNZQk85QmxjakhzRFhWR2huQ3A?oc=5",
+          "source": "BDC.ca",
+          "snippet": "Many entrepreneurs are ready to pass the torch, but few are prepared.&nbsp;&nbsp;BDC.ca",
+          "pub_date": "Wed, 12 Aug 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-10-16"
+      "scraped_at": "2026-10-19"
     },
     {
       "chapter": 3,
@@ -68,18 +68,18 @@
       "authors": "Rafa Loyo & Jim Randall",
       "articles": [
         {
+          "title": "ZenaTech Completes Acquisition of ESM Software, Adding Strategy Execution and Compliance Software to its Enterprise SaaS Division, with Revenue from Government, Healthcare and Financial Services Customers - Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOOGJvcFM0UWpqdHZ0OHBPNU9rcGlaTXo0Q2EzMm1DNUdtVTN0UWxyek1haTRvbE1Qa1lLSzVUa2lkc3gzRVJMaE1RU0V1S0kwaEQwamhZLWZVS3VKeEU0aHYyUEQ3ZWdWeE83cDBsNlZiTmNVMzdRT0xDSklrSk9Ta0R1cmFIZ2pkOU13TmxRQlYtTC1GUFB0eDhDUHlmU3NxS1lFSnl0VGlrRlQxdm81RnVtM3p3T2tFSWNvM1BkWFMyWjdKdXhCRXFPZ0xBZjBWc3hiWndjMHR5RE5Del84NUZlLXh6MmxaY1F2NHhYVGJqM051MXRzblFPb2J4c3UyMUpvQXVTMElEUXNlQzY4NVFRSjlIOHl0SGtkOGtxU2Q2Y1ZxVU9XV1Vtd2tRclhpMmhxbmlZUVlERkdOdUVXOV82ZjJWVUVDWUlMcF9lSUlaVXdFRHZERHVKMF94QXlYYTVsNEZwWk9mNDRCTjF4WUVxVmlLNHoxYnVMZFh4bFM5UQ?oc=5",
+          "source": "Stocktwits",
+          "snippet": "ZenaTech Completes Acquisition of ESM Software, Adding Strategy Execution and Compliance Software to its Enterprise SaaS Division, with Revenue from Government, Healthcare and Financial Services Custo",
+          "pub_date": "Fri, 16 Oct 2026 12:54:36 GMT"
+        },
+        {
           "title": "BILENDI: Half-year 2026 Results: Continued execution of the strategic plan in a challenging market environment - TradingView",
           "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQN3VHUHZ3cUt4WkZYZGdrc2JyZG5qcnd3MjJFQnktazIyaWhRQWJIRzdEU3QxV2pfNzZ5V21LRDNaeDI5S1VpRU12T1RnbEtyWmVWb0VWbnRBLVpYX25QWmFpNUtVYTd4NFJnTl84VVJrTXdoUEV1ekdDM1ZlNlZXRHM1MnI1WTQyRnhWS0RKajJSMEtxY3hUWDdkZ2NrVzlKSDhoV21BYWpzemdqMmMyd1U4ZEg4elZxODFXY1I4SnAxSzhaMXZRRWRJR1IzazBtMW5VV2tYM0hLMDBQWW1WQVF1YVhfVkZoWGJveGQtanRoZWVk?oc=5",
           "source": "TradingView",
           "snippet": "BILENDI: Half-year 2026 Results: Continued execution of the strategic plan in a challenging market environment&nbsp;&nbsp;TradingView",
           "pub_date": "Wed, 07 Oct 2026 15:44:25 GMT"
-        },
-        {
-          "title": "ZenaTech Completes Acquisition of ESM Software, Adding Strategy Execution and Compliance Software to its Enterprise SaaS Division, with Revenue from Government, Healthcare and Financial Services Customers - Stocktwits",
-          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOOGJvcFM0UWpqdHZ0OHBPNU9rcGlaTXo0Q2EzMm1DNUdtVTN0UWxyek1haTRvbE1Qa1lLSzVUa2lkc3gzRVJMaE1RU0V1S0kwaEQwamhZLWZVS3VKeEU0aHYyUEQ3ZWdWeE83cDBsNlZiTmNVMzdRT0xDSklrSk9Ta0R1cmFIZ2pkOU13TmxRQlYtTC1GUFB0eDhDUHlmU3NxS1lFSnl0VGlrRlQxdm81RnVtM3p3T2tFSWNvM1BkWFMyWjdKdXhCRXFPZ0xBZjBWc3hiWndjMHR5RE5Del84NUZlLXh6MmxaY1F2NHhYVGJqM051MXRzblFPb2J4c3UyMUpvQXVTMElEUXNlQzY4NVFRSjlIOHl0SGtkOGtxU2Q2Y1ZxVU9XV1Vtd2tRclhpMmhxbmlZUVlERkdOdUVXOV82ZjJWVUVDWUlMcF9lSUlaVXdFRHZERHVKMF94QXlYYTVsNEZwWk9mNDRCTjF4WUVxVmlLNHoxYnVMZFh4bFM5UQ?oc=5",
-          "source": "Stocktwits",
-          "snippet": "ZenaTech Completes Acquisition of ESM Software, Adding Strategy Execution and Compliance Software to its Enterprise SaaS Division, with Revenue from Government, Healthcare and Financial Services Custo",
-          "pub_date": "Tue, 25 Aug 2026 07:00:00 GMT"
         },
         {
           "title": "Wrike Now Offers a Strategic Portfolio Management Solution to Bridge Strategy and Execution, Enabling Organizations to Plan and Deliver True Transformation - Business Wire",
@@ -89,7 +89,7 @@
           "pub_date": "Tue, 14 Jul 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-10-16"
+      "scraped_at": "2026-10-19"
     },
     {
       "chapter": 4,
@@ -105,21 +105,21 @@
           "pub_date": "Fri, 19 Jun 2026 09:39:20 GMT"
         },
         {
+          "title": "U.S. B2B tech spending hit $35.3 billion in the first half of 2026, and the second half looks different - MarketScale",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0Z6NXRnckhMQl9qUUwxWGo0ekxPY3JsM1pJSEdUZjVNU1FTbDQ3dkJfbkN6RzFpX3M1Vzdncko3V3lwaUppWk1Ecy1DX2JyQjl1YnNFaWhFVFN1bS1IUFhtQUNsYjZUNzZ5UDVsTkFwaHBiRjBxME5jSUhRUmE1NHJmQkFCVFlESTVUajRLR0tsTEY4WmVkSE1HVGcyM242aFJfVUs2dUI3MFJudEtPWGEtZVdjeUgtSXpHRm1YQ0hWNEdxa1hsWEMtdWNxNlp3dHBoa2hmSFh6Uk9JMFdEQzU4ZFlCMjhFUWJURzBreDItazg?oc=5",
+          "source": "MarketScale",
+          "snippet": "U.S. B2B tech spending hit $35.3 billion in the first half of 2026, and the second half looks different&nbsp;&nbsp;MarketScale",
+          "pub_date": "Tue, 18 Aug 2026 07:00:00 GMT"
+        },
+        {
           "title": "The surprising economics of B2B growth: The new survival threshold\u2014and what it takes to thrive - McKinsey & Company",
           "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSF9ESENPR051cXUxeXhTRWdnZlNlSnVFb09xUE9tcHVhYmZwVUJSSnhnVFVuZHl5YXp1UDZseHBVaEFwTW04TFBSYUZFczVpUUJWRzhKVDd6b05ycDd6emR0bFlhbUhDUlhKakRnVGVyYTNoRjk0Ti1wZDR0RUd6cmZldHdfWDFLU3VjWHBib1NPVlY4NmRqZEdkajg4WVZOWVljaVZVVmRPdDVXcXB3a1dYSlZrSHM1MUxXS0pjWGRtdTcweHVNXy04a01fcVNza1E5TzctSGhyMkVwSEFXenRQcnVUSUdLd3VqbGszLWZtUVNKQ2phZk13ckNIbC1f?oc=5",
           "source": "McKinsey & Company",
           "snippet": "The surprising economics of B2B growth: The new survival threshold\u2014and what it takes to thrive&nbsp;&nbsp;McKinsey & Company",
           "pub_date": "Thu, 28 May 2026 07:00:00 GMT"
-        },
-        {
-          "title": "B2B Sales Strategy Now Demands AI, Personalization to Survive - Abasto, Food and Beverage Industry News",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeXlWSGVIUEpjeTZGWVJQMzBJWU1DSl80Y3dVRkZ0eS05QjI3cWo4clgzNXFzRnh1eWp3VWN0T0FPQnl5TnNIcWw4RFVKUTZWSk5fTy1zSk5FSmNtOW80MmN1THVoNjRsZWVZVUNIRGR1UkQxWE9ZZWhGX1A0bkdzVk5BemNDV05DVDR5X2VFNHVXZw?oc=5",
-          "source": "Abasto, Food and Beverage Industry News",
-          "snippet": "B2B Sales Strategy Now Demands AI, Personalization to Survive&nbsp;&nbsp;Abasto, Food and Beverage Industry News",
-          "pub_date": "Mon, 08 Jun 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-10-16"
+      "scraped_at": "2026-10-19"
     },
     {
       "chapter": 5,
@@ -128,11 +128,18 @@
       "authors": "Kayli Simpson & Yasmin West",
       "articles": [
         {
-          "title": "4 Creative and Marketing Leaders on Turning Legacy Brands Into Cultural Icons - ADWEEK",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN1k3VlZwaDBOVjlkVDNuRVY2RjJWQm9sZ1pWTHJpU1FGY29RRkJJMGlNbVFNY1dyWHFkWkl1OXZKRjVjdy1fUm41UGJRczJOSWZsYlQyd21UaUo4QllwN1o5OTNMa1luRVdtenpQSEdsdXNtb1NGY2hiUTRIQTRaWDlrX05jUkNVOFVUcjhURktjUWJTMlo0c05OMlhLdzJOREVIX0pRdDZBU3JrOTVNRWRBY3o0dUFa?oc=5",
+          "title": "Anthropic CEO Dario Amodei spends up to 40% of his time building company culture - Storyboard18",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeVJRNEpLTERIWF9xeFhTVDlKdmRYWDdhdENKbU1ncnd0MlFUMjBRLUZDMm8xUXhtWU5uWk9sYTdHTFl4eW14RW5OWlI5ZzVKQmpvbURfVUQtRFYzRnpPTFJtd1BESkM3UEFvbnJlYlo1bTFsWkJrTnRNSUNyTDMycTBPbXpwYzVaM1pfakcxeHU0bmdCa3VhTW5fdFhqMzcyTXVRbElPQndkbl9HODBvTkdSdXU5b3JMTkN0RTlSR2d4a3h2SjJBbGNlMjVkYTMt0gHWAUFVX3lxTE5xVFJiT05jcE1DWXpRZlBsTU14M1h4ZWhCQWpyMUpXVEJKTFdFZS1sZnVzUW15Zm9fSnFXQjVlYURrOHZTa0VWZlpTMVQzcWdMUlp6Q1Z3blA0S3hYQ1NwT0VPZW9XMGhZOHNnd05idV9pTGNCU0pFbFBaOXJnZkVnd0dnRGtkU0MwcG8tLWh0clVfTEp1UEp5RHBiam1kMlhjTFBRUElJTlFCczNGOWZsOGk3bXIzVEdmMVB2SUZlMG5ZVGNaQXFlZjlZbjNfRkVaRUpOcUE?oc=5",
+          "source": "Storyboard18",
+          "snippet": "Anthropic CEO Dario Amodei spends up to 40% of his time building company culture&nbsp;&nbsp;Storyboard18",
+          "pub_date": "Sun, 18 Oct 2026 08:01:02 GMT"
+        },
+        {
+          "title": "From Heritage to Happy Hour: How Campari Keeps Iconic Brands Moving With Culture - ADWEEK",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOME5NSGZueEQtNEplYmN2bWt2NHBnYWlPNEM3Wm5JYnhlMzNxSGpiRkxhN1NmVVh2UnVFa0dXTG1rNFA3d05RdkRNcUkxcGlaMVRSTklhZDFpVkttRVN1SFFGY2lVRDRncTQ3WXQwYkx3NW55MHdiTGlYVlN0ZXBJa0NtYjVCa21FOFF6eFNFYVZPcVFyTk91OG5rZ2FRX1M0MnNvalZFQW1PVXBUZDJIcmFaSlMtUFJkVFZz?oc=5",
           "source": "ADWEEK",
-          "snippet": "4 Creative and Marketing Leaders on Turning Legacy Brands Into Cultural Icons&nbsp;&nbsp;ADWEEK",
-          "pub_date": "Tue, 13 Oct 2026 20:17:33 GMT"
+          "snippet": "From Heritage to Happy Hour: How Campari Keeps Iconic Brands Moving With Culture&nbsp;&nbsp;ADWEEK",
+          "pub_date": "Tue, 29 Sep 2026 07:00:00 GMT"
         },
         {
           "title": "Ulta\u2019s CMO on blending brand building and omnichannel marketing - Marketing Dive",
@@ -140,16 +147,9 @@
           "source": "Marketing Dive",
           "snippet": "Ulta\u2019s CMO on blending brand building and omnichannel marketing&nbsp;&nbsp;Marketing Dive",
           "pub_date": "Tue, 30 Jun 2026 07:00:00 GMT"
-        },
-        {
-          "title": "Why JBL is building marketing around culture not campaigns - Brand Innovators",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbXpYamE0dkF6MWVkcEkwUHlnSHk5bUtIbmV4ZTlDNEk3MEpURWZDdUo5b1Q4aTMtZkIzUy1scXU3VEJUREY2Vks0NjFGV0s2QXYtejBPMm93NlRrSC00MHRSdlpQcnJqeW00akp4eFRLeTZwRGxOV1BEQmR0eEpoVXB0cFpPaUhVeTBtU3E3WGxfZw?oc=5",
-          "source": "Brand Innovators",
-          "snippet": "Why JBL is building marketing around culture not campaigns&nbsp;&nbsp;Brand Innovators",
-          "pub_date": "Wed, 08 Apr 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-10-16"
+      "scraped_at": "2026-10-19"
     },
     {
       "chapter": 6,
@@ -172,14 +172,14 @@
           "pub_date": "Tue, 30 Jun 2026 07:00:00 GMT"
         },
         {
-          "title": "WorkWave Names Melinda Vedder as Chief Human Resources Officer - PCT magazine.",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS1F5THVoSVJYOUJrRW9iYnYyUHNaYnlwdW9XY09NbHkzMVFtNjNYMmVYcnBieGYtamt6Yzk0SkRmSDZGakx1Ymt0T0Nya1hlWGY3OHhtUWFDRF9TU1FRd0lIX05kajU2QlBqbURiNXhQRjhJblktN2tjYmtmM29XZ3gycUtWZFZRZF9Ib2k2ZXR2cHkzaFg4dENXUzZURDA?oc=5",
-          "source": "PCT magazine.",
-          "snippet": "WorkWave Names Melinda Vedder as Chief Human Resources Officer&nbsp;&nbsp;PCT magazine.",
-          "pub_date": "Tue, 21 Apr 2026 07:00:00 GMT"
+          "title": "Ouster Names Shaluinn Fullove as Chief People Officer to Drive Global Growth and Talent Strategy - Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbUlpS0dERjNHcjRzanBhLW9JUkhXU1RxVERublpWZUlyMzhUb2dsVEFFZXpWbmtuZzFIN1kzRzgzRGlzNkp2RDBidHRZdnJyVWV3QVVTcnhIcWhJOXVpci1JdUxVQ1plZXM3YW96eDE3c1d3WE5lelY3MGJLa2JxTEtUbDg5S3Vsdl83bk1CbW9zUHRZZWFXbzRxZ053bFRrVXZfN01ScjZGVkNfTDQxZUsyUXpfdjE0NkxtY1p5OFA0Q294QWJkbWZueW82TEVIYW5odHowdVdicktHMGRIcE9pLUpOR2Nx?oc=5",
+          "source": "Business Wire",
+          "snippet": "Ouster Names Shaluinn Fullove as Chief People Officer to Drive Global Growth and Talent Strategy&nbsp;&nbsp;Business Wire",
+          "pub_date": "Thu, 23 Jul 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-10-16"
+      "scraped_at": "2026-10-19"
     },
     {
       "chapter": 7,
@@ -195,21 +195,21 @@
           "pub_date": "Thu, 03 Sep 2026 07:00:00 GMT"
         },
         {
-          "title": "30 Financial Metrics and KPIs to Measure Success in 2026 - Oracle NetSuite",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcThuZllxNkVka0dpOV9QdHZQM2RiU0tfMGVIR05tdW9ZN1AtYngwQ1d4WDFSb3ZNSUxKNHFCSUR4aC1lR1g2ZWYzWFE0NWF1WmVpejAxOW9VRFdJa01yLUFKa1hvbjNGQnR6a2hZcVVtQzgwRXNCdXVGbjhfNWR2eWpTSlFyRk5zLVZ3MnJvMU14ZjA?oc=5",
+          "title": "11 Key Hospitality KPIs to Track - Oracle NetSuite",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU1pVUnJhVjRuTWxTYTJPdEhtNE5maTd5VHF3UWVJSXdwVW1jRFFJMXdKMkg3dWEzdmdzdHpaUnA0dWNIRGhYOTUyOGtDaW45LTU1UmllcXNwSVNYM0lUZU9qYi0xWmlMZTZVSWhPUVNaREV5N1RIaDlMSXpzNWI5RXdvbmVNLTdXX2pKcHZtQnpRQzZs?oc=5",
           "source": "Oracle NetSuite",
-          "snippet": "30 Financial Metrics and KPIs to Measure Success in 2026&nbsp;&nbsp;Oracle NetSuite",
-          "pub_date": "Thu, 16 Apr 2026 07:00:00 GMT"
+          "snippet": "11 Key Hospitality KPIs to Track&nbsp;&nbsp;Oracle NetSuite",
+          "pub_date": "Thu, 16 Jul 2026 07:00:00 GMT"
         },
         {
-          "title": "10 business-critical KPIs for your direct sales business - Epixel MLM Software",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14MFNCRHFMdW1qZnJIbVpwcFhuMm5NXzZYWkY3bG9oNUdPWlZVQjF1cmdHWUpSUnhYTklSY3pFRDd0aWhNNW5OR084UEl0cWJsVFBXeFhIbVhjU0d4LWlLSlBzX1J5NFE?oc=5",
-          "source": "Epixel MLM Software",
-          "snippet": "10 business-critical KPIs for your direct sales business&nbsp;&nbsp;Epixel MLM Software",
-          "pub_date": "Tue, 07 Apr 2026 07:00:00 GMT"
+          "title": "Digital Marketing Strategy: 5 Powerful Metrics for Success - Jaro Education",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWUxvbHJXcUg0bVkxU25MYzUtN0tFTTM0dnhYR0NKeWZyRm1wakhkeXQ2LVNyZnJFeTVCZEhraW5ubHhZYjYwbHhiR05zaWlnc2Q2aFcwSFdXLUV1NHpuTWxmTmpfV05CSng4NFI3WF83Y2Qtc1FyUmlsLXdDVm8xdHl6RVRYZjdKSGp2NTlBVzliQVcyR19nRUZQajVEWWdBaGdlWk5n?oc=5",
+          "source": "Jaro Education",
+          "snippet": "Digital Marketing Strategy: 5 Powerful Metrics for Success&nbsp;&nbsp;Jaro Education",
+          "pub_date": "Thu, 27 Aug 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-10-16"
+      "scraped_at": "2026-10-19"
     },
     {
       "chapter": 8,
@@ -218,28 +218,28 @@
       "authors": "Hudson Shank & Jonathan Slain",
       "articles": [
         {
-          "title": "Business Futurist and AI Keynote Speaker: #1 Scott Steinberg - https://www.futuristsspeakers.com/",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbHlsenRucXc1QjlheGhScGZaQlpDU3JPaTNzdnpwd0NHWjNjUTNyeWlHWFlCNWRZM01Ba293bjc5MGhZMWZyZjlXTEZkcXo5c3o4eDBDQWZ4Y2szZld4RzlZdjF0TVBBUVJOMHdoaVpmdDZsdFhZVGd2bHRIXzVOcw?oc=5",
-          "source": "https://www.futuristsspeakers.com/",
-          "snippet": "Business Futurist and AI Keynote Speaker: #1 Scott Steinberg&nbsp;&nbsp;https://www.futuristsspeakers.com/",
-          "pub_date": "Wed, 14 Oct 2026 22:57:24 GMT"
-        },
-        {
           "title": "AI Is Boosting Productivity. But Is It Worth It? - Newsweek",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTDRRdnh1TnMyUXlnVXNKMEVwV0dZVm84YUtwcUhONjVGWkIzRFQ5Z2YweExhVmVOR2dzU0JhYWw5NzJrVkdPN2ppbHotZmY1dGktVEgtY1dOQ3lmN2N6Rkt3b2ZXUjNMTVNTNnpDSkxUUlFMbUxqMXRHWGROZEVXbTB4WC1CRlE?oc=5",
           "source": "Newsweek",
           "snippet": "AI Is Boosting Productivity. But Is It Worth It?&nbsp;&nbsp;Newsweek",
-          "pub_date": "Fri, 09 Oct 2026 17:30:00 GMT"
+          "pub_date": "Fri, 09 Oct 2026 07:00:00 GMT"
         },
         {
-          "title": "AI at work: Why productivity depends on people, processes and leadership - People Matters Global",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMnI0b2t4aEUtNTAyeFVtZVZobUlZYWlmelFXcjc0WTVhSDV1TExkZzdxajNjQ0RFZG53aFBCMG9JNHBXaGFEMjVwVzQ3MXAya3h5eGpBZVUzV0VTeENzT3lfOENuUjdwUTNiY2VPLUM2M2FHVGNIQU43ZjNfU2xwdTZHZE9pRmVYOGtnUjdGZ1JEVlRneW1tOE5JNTNZRnN0QXNFbUZScERqckdMcFZ0aURPZ25DX1RzWHNhRDVSam1IeTI4M1FvRzhiTXFiOHpKUF9RNEs3aGM?oc=5",
-          "source": "People Matters Global",
-          "snippet": "AI at work: Why productivity depends on people, processes and leadership&nbsp;&nbsp;People Matters Global",
-          "pub_date": "Tue, 13 Oct 2026 08:29:12 GMT"
+          "title": "Top AI Time-Saving and Productivity Hacks From 12 CEOs and Bosses - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc010ZUhURC0wVGNKMTdRUWVyTnZFVXRWODBxaVc3MWYyeU52bG1PdHVaTU45aS1mSG13Ulh2eUtmcU5qNXhma2VDLWo0UlpDLWMyU0lZc1ZkcHZzZXVrVXlpNGNObGVxRnVTMlVBc2RQLTk2bWtJaWFmeW1BMlBHNml5SktYdEdaLWJ3VmpYTU55bHB6cVpUVW5LWG1WR2lhRng0SXYwcHdFYXJTanJn?oc=5",
+          "source": "Bloomberg.com",
+          "snippet": "Top AI Time-Saving and Productivity Hacks From 12 CEOs and Bosses&nbsp;&nbsp;Bloomberg.com",
+          "pub_date": "Tue, 12 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "90% of executives say AI hasn\u2019t boosted productivity. Some are still cutting jobs - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LZWF5Vkc3Wk9DVVd5aE83ZGVhbWMyb3U3MW1kcHljOHdwcjdjTmt1SmU5bFVRblVaZGJsRndNRS1fWExxc3IyZDBJcnlxZHhYVUFhV1pBSzVRS0R1RVJlNVYxM0pzRXZKcG96RExTdTVlMnhBWDNMUlVuUGM?oc=5",
+          "source": "Fortune",
+          "snippet": "90% of executives say AI hasn\u2019t boosted productivity. Some are still cutting jobs&nbsp;&nbsp;Fortune",
+          "pub_date": "Sat, 22 Aug 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-10-16"
+      "scraped_at": "2026-10-19"
     },
     {
       "chapter": 9,
@@ -269,7 +269,7 @@
           "pub_date": "Mon, 27 Oct 2025 19:23:03 GMT"
         }
       ],
-      "scraped_at": "2026-10-16"
+      "scraped_at": "2026-10-19"
     },
     {
       "chapter": 10,
@@ -292,14 +292,14 @@
           "pub_date": "Fri, 02 Oct 2026 07:00:00 GMT"
         },
         {
-          "title": "George McReynolds Founder of McReynolds & Company Interviewed on Influential Entrepreneurs Podcast Discussing Fixing The Survivor Jaw - Laurel Leader-Call",
-          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQZzFiSy1EYThUQlFZZ0hMcUstT0N6UkhSVFk3V09mcC1pVFhCNy1fNDZBeHI0X1NlNWs3ejFQMV9GQVB0Z3BBd1hXbFdiNTdfZzJrbkZQLV9hUUlibWZyZlBsVlc3Z3VkWFVYMEFxTkI5VnhsQzEwcUhIOWdJRTVEdjJac2ZZTlNVa0pWazdTUl82OE1XaTBzcko1YnM1dHp3dnl2dDBwY1Z6Umk3ZHRlQ2MtNUR2QXE0OFdBNm1ZMXVSSTRxRXlkR3VmZG96YlhRc3VLZGJFN2h5clJWWnFJSVhRWXp0cmt0MGNIVXl1a0tKb1ViM0VoUTR3NTlPNGJRMEs1TVpleGlnTWllUlVDQ21JQ0xyMjhna2RBMGdsa0dkaXhOd0JwV3RhYWdOUk9HLVhac2xpXzJZSE9DWjBMTk1QRl9GQmpUckQzM1FBNXYxM1VNUWtV?oc=5",
-          "source": "Laurel Leader-Call",
-          "snippet": "George McReynolds Founder of McReynolds & Company Interviewed on Influential Entrepreneurs Podcast Discussing Fixing The Survivor Jaw&nbsp;&nbsp;Laurel Leader-Call",
-          "pub_date": "Sat, 10 Oct 2026 03:55:03 GMT"
+          "title": "HPU Student Entrepreneurs Earn $30,000 in Business Plan Competition - High Point University",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDVfMnhZS3JndXJ4eV9iV3M2ZlA1bUxsMXZvVWlRVkdKLUlyVkRPRUtWakxPTmdLUk5zS05pelQxbEtONV8tYUhOM2Z3cHVMN3BsWDduUy02cWFaR2Y0S2RhNmtUU1pYZDFHa1FtMl92cjFsd2VtOXBQMFNtajZ4V3V4dkJhRzlqSmt0SzdqS2sxdU4yQmlCb2hiM1FGWlBqeFZQMF9LbEQ?oc=5",
+          "source": "High Point University",
+          "snippet": "HPU Student Entrepreneurs Earn $30,000 in Business Plan Competition&nbsp;&nbsp;High Point University",
+          "pub_date": "Thu, 16 Apr 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-10-16"
+      "scraped_at": "2026-10-19"
     }
   ]
 }
