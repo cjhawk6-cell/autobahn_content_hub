@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T18:42:07.367255+00:00",
+  "generated_at": "2026-11-09T21:46:00.902411+00:00",
   "chapters": [
     {
       "chapter": 1,
@@ -29,7 +29,7 @@
           "pub_date": "Mon, 17 Aug 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-11-06"
+      "scraped_at": "2026-11-09"
     },
     {
       "chapter": 2,
@@ -37,6 +37,13 @@
       "sub": "M&A & Business Valuation",
       "authors": "Paul Belair & George Hohman",
       "articles": [
+        {
+          "title": "How to Create an Exit Strategy for Your Business - U.S. Chamber of Commerce",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONERpMjFwUjkzVW8xLTRScUhVWTQ5VUFMS1R5cFY4c2p2eXYzZ3NYc0V0NUlaMmREUXM2N3VSaThYUjhERGNiSmhFTDB5TVBYNEhrOU9WSHRyYThWWUlUY2RYNlVFNkhvVGU4V3h1bXAtVzUwVVh0bG5FOWxmTUNJTTBJYjI?oc=5",
+          "source": "U.S. Chamber of Commerce",
+          "snippet": "How to Create an Exit Strategy for Your Business&nbsp;&nbsp;U.S. Chamber of Commerce",
+          "pub_date": "Tue, 03 Feb 2026 08:00:00 GMT"
+        },
         {
           "title": "Exit strategies: When to sell and not to sell - Silicon Valley Bank",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeXI2ZzYxYnJkdGhyZ1FlaVBlWXQ1RjB4ZnhCRWtFVEpBZ0FPZnB4amFmV2xxVmxJbXRMR0dfeHlmWkw2V0syR3pfdGdMaGJvMDVPQ1FYZUgwaU1wcnRFVkU0aExWQ01yQUJFQTd3Z0NrZG9sR3Q3XzQ5cF9IZEJuWDdsNmZ5dUJjVjZ3NEZqQ2preC1henhFRnV6MWtXRWc?oc=5",
@@ -50,16 +57,9 @@
           "source": "J.P. Morgan Private Bank",
           "snippet": "Business Exit Strategies&nbsp;&nbsp;J.P. Morgan Private Bank",
           "pub_date": "Fri, 03 Jul 2026 02:20:32 GMT"
-        },
-        {
-          "title": "Many entrepreneurs are ready to pass the torch, but few are prepared. - BDC.ca",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS0lsdHVTMG5lenVwbDhBTXFBX2hUZnRhengxbWhrLU5LV210b2o3bFBvT3N5YllmMjVlYXJtcmxSS3ZZZFY5SlhibXVuZWxOMnRaUjVpbHhjUWhJc1V2TEljR05KdlZQaGY3elk0azk5OW9fY3RCQzBaaERqb2tEWFZPRUhYb1JuYkZqNjB2OW1Mb1NCbUNZQk85QmxjakhzRFhWR2huQ3A?oc=5",
-          "source": "BDC.ca",
-          "snippet": "Many entrepreneurs are ready to pass the torch, but few are prepared.&nbsp;&nbsp;BDC.ca",
-          "pub_date": "Wed, 12 Aug 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-11-06"
+      "scraped_at": "2026-11-09"
     },
     {
       "chapter": 3,
@@ -82,14 +82,14 @@
           "pub_date": "Tue, 16 Jan 2024 08:00:00 GMT"
         },
         {
-          "title": "How to establish a plan-execution process to achieve results this year - SmartBrief",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRk8xX0ZPak91anhUdC1rSXY5X2FVMnBhb1J6bUFsT2VVdU5KbXhFNDRRaEdvMkk5M0EwVU5qajdsRHFlOVlINWZDckE3UE1pQ2xHdGFuTzBiSm9BNURLMDV3NnJHWU1zNlRQa1Q3MlREVFFPd2VCUWJtTWk0VTZfRTJDd09WenJMQ0hiQzJlNXpab1VNSVdkbQ?oc=5",
-          "source": "SmartBrief",
-          "snippet": "How to establish a plan-execution process to achieve results this year&nbsp;&nbsp;SmartBrief",
-          "pub_date": "Tue, 12 Feb 2019 08:00:00 GMT"
+          "title": "Strategy Update and 2025 Preliminary Results - WPP",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZEJuV0JzRTk2V2NQZnB0WHdwbE13c2E4WXJjVWROSS1WVDljS3VCU19VZlRKdmliNVI0bHNiN3BrSzhHMGE3ay1ZVmxFblpxWk9wYzZrUEFxbWFGa1lLNDRpaGNKQkw3UXVsaEJzYkVmVDdoTXRXbFZOT3NuVjRrZWE5ZmJ3bU0?oc=5",
+          "source": "WPP",
+          "snippet": "Strategy Update and 2025 Preliminary Results&nbsp;&nbsp;WPP",
+          "pub_date": "Thu, 26 Feb 2026 08:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-11-06"
+      "scraped_at": "2026-11-09"
     },
     {
       "chapter": 4,
@@ -98,6 +98,13 @@
       "authors": "Deb & Brandon",
       "articles": [
         {
+          "title": "B2B Growth Masters\u2019 Formula for Repeatably Capturing New Customers - Bain & Company",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTnFuY29VYUwzZ2FBUUstT3NwOGJncXBFSm03ajFydXhEMUxzOVZRaXE0VndTOEtzX2ZfQUtySjJFX1F3ek1aTXRreFFJLUdyOWY1bWZ3RFZiTGNTNFlIVmtHVURtOW55bzBsVFREVXJudUE4TmhqZUVOSFZLUE5YNE1weU5NV0Rla3hxMW1oZDhTd3ZvR1lUQm9xRm04cFVQNUZBQ19lZnBxMnFBZXJjQVNNV2RWMWJsMmJV?oc=5",
+          "source": "Bain & Company",
+          "snippet": "B2B Growth Masters\u2019 Formula for Repeatably Capturing New Customers&nbsp;&nbsp;Bain & Company",
+          "pub_date": "Mon, 30 Mar 2026 07:00:00 GMT"
+        },
+        {
           "title": "The surprising economics of B2B growth: The new survival threshold\u2014and what it takes to thrive - McKinsey & Company",
           "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSF9ESENPR051cXUxeXhTRWdnZlNlSnVFb09xUE9tcHVhYmZwVUJSSnhnVFVuZHl5YXp1UDZseHBVaEFwTW04TFBSYUZFczVpUUJWRzhKVDd6b05ycDd6emR0bFlhbUhDUlhKakRnVGVyYTNoRjk0Ti1wZDR0RUd6cmZldHdfWDFLU3VjWHBib1NPVlY4NmRqZEdkajg4WVZOWVljaVZVVmRPdDVXcXB3a1dYSlZrSHM1MUxXS0pjWGRtdTcweHVNXy04a01fcVNza1E5TzctSGhyMkVwSEFXenRQcnVUSUdLd3VqbGszLWZtUVNKQ2phZk13ckNIbC1f?oc=5",
           "source": "McKinsey & Company",
@@ -105,21 +112,14 @@
           "pub_date": "Thu, 28 May 2026 07:00:00 GMT"
         },
         {
-          "title": "B2B Sales Strategy Now Demands AI, Personalization to Survive - abasto.com",
+          "title": "B2B Sales Strategy Now Demands AI, Personalization to Survive - Abasto, Food and Beverage Industry News",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeXlWSGVIUEpjeTZGWVJQMzBJWU1DSl80Y3dVRkZ0eS05QjI3cWo4clgzNXFzRnh1eWp3VWN0T0FPQnl5TnNIcWw4RFVKUTZWSk5fTy1zSk5FSmNtOW80MmN1THVoNjRsZWVZVUNIRGR1UkQxWE9ZZWhGX1A0bkdzVk5BemNDV05DVDR5X2VFNHVXZw?oc=5",
-          "source": "abasto.com",
-          "snippet": "B2B Sales Strategy Now Demands AI, Personalization to Survive&nbsp;&nbsp;abasto.com",
+          "source": "Abasto, Food and Beverage Industry News",
+          "snippet": "B2B Sales Strategy Now Demands AI, Personalization to Survive&nbsp;&nbsp;Abasto, Food and Beverage Industry News",
           "pub_date": "Mon, 08 Jun 2026 07:00:00 GMT"
-        },
-        {
-          "title": "The B2B Growth Divide: What Sets Winners Apart - Bain & Company",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaER1TkZ6Z1pHUk54TXNYOTJ1SlllM2EzWkVLSEpVQklOOFl4OXc5V3gwdEowdlFOUmx5V3lJc0hZQ3pjWWswNzZrQ1BsSnJ1c1VYV1k5SXpkU1Z6Z1ZrNFVxUFNzQUM3OFQyX0JsOVRHY3IyeFFyOXhNakJoTkgxQV9qQjRWSlVHNXprN1lDQQ?oc=5",
-          "source": "Bain & Company",
-          "snippet": "The B2B Growth Divide: What Sets Winners Apart&nbsp;&nbsp;Bain & Company",
-          "pub_date": "Wed, 23 Apr 2025 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-11-06"
+      "scraped_at": "2026-11-09"
     },
     {
       "chapter": 5,
@@ -127,6 +127,13 @@
       "sub": "Branding & Marketing",
       "authors": "Kayli Simpson & Yasmin West",
       "articles": [
+        {
+          "title": "Nothing\u2019s brand chief is fed up of \u2018boring and generic\u2019 smartphone ads - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaWpTVjJ2bXJhTGpYSzBtbzcwdUxCVXhndHJBaEZVVFBNQnBxODJPOHBfbWtwTXRNVHN6b19ubEh5bVZxSF96alBYWEhkTElSaWEwY29vaEY3QVJCcTF2NDZPb0JkQmMwLXEyWEZ5ZjhEQWVHWVQzYXEwYWFGWlBudTBIb002aUsyd3U3WXhDc01kUmhrLTc4d0hYR2Rrd0hCNFdrclJPMjVBRkhJU3g0UC1xRC1wX3YzcEt4N211aERwY0Y3dFgyYzFzdmFoV2hLSEVncmFoUmhhbUxhcU5rc3hwY3RVT3N2TzVmWlg5aXR2RE94V2ZN?oc=5",
+          "source": "Fortune",
+          "snippet": "Nothing\u2019s brand chief is fed up of \u2018boring and generic\u2019 smartphone ads&nbsp;&nbsp;Fortune",
+          "pub_date": "Tue, 20 Oct 2026 07:00:00 GMT"
+        },
         {
           "title": "Anthropic CEO Dario Amodei spends up to 40% of his time building company culture - Storyboard18",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeVJRNEpLTERIWF9xeFhTVDlKdmRYWDdhdENKbU1ncnd0MlFUMjBRLUZDMm8xUXhtWU5uWk9sYTdHTFl4eW14RW5OWlI5ZzVKQmpvbURfVUQtRFYzRnpPTFJtd1BESkM3UEFvbnJlYlo1bTFsWkJrTnRNSUNyTDMycTBPbXpwYzVaM1pfakcxeHU0bmdCa3VhTW5fdFhqMzcyTXVRbElPQndkbl9HODBvTkdSdXU5b3JMTkN0RTlSR2d4a3h2SjJBbGNlMjVkYTMt0gHWAUFVX3lxTE5xVFJiT05jcE1DWXpRZlBsTU14M1h4ZWhCQWpyMUpXVEJKTFdFZS1sZnVzUW15Zm9fSnFXQjVlYURrOHZTa0VWZlpTMVQzcWdMUlp6Q1Z3blA0S3hYQ1NwT0VPZW9XMGhZOHNnd05idV9pTGNCU0pFbFBaOXJnZkVnd0dnRGtkU0MwcG8tLWh0clVfTEp1UEp5RHBiam1kMlhjTFBRUElJTlFCczNGOWZsOGk3bXIzVEdmMVB2SUZlMG5ZVGNaQXFlZjlZbjNfRkVaRUpOcUE?oc=5",
@@ -140,16 +147,9 @@
           "source": "ADWEEK",
           "snippet": "From Heritage to Happy Hour: How Campari Keeps Iconic Brands Moving With Culture&nbsp;&nbsp;ADWEEK",
           "pub_date": "Tue, 29 Sep 2026 07:00:00 GMT"
-        },
-        {
-          "title": "Ulta\u2019s CMO on blending brand building and omnichannel marketing - Marketing Dive",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRlFnSEozTXJJdnl5aWFJQTFGR0tkcnhrUnUyOTNZNlIwcHZiLWFnbm0tQ0FWZEZCTWZvdUFQeEFvQkIwOHdpMmZBR3I5WmNjRmFYb0xJMGhQWmJHYUdWUVdyWndOWTYwR1ZQQ2E4V1dMV2NrT0hpRzNaU1VKdUdoZHMwSFB4SlhYTkZKZ2hDdEdsSkJ6TW91UTZTWlNGaGVmcUE?oc=5",
-          "source": "Marketing Dive",
-          "snippet": "Ulta\u2019s CMO on blending brand building and omnichannel marketing&nbsp;&nbsp;Marketing Dive",
-          "pub_date": "Tue, 30 Jun 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-11-06"
+      "scraped_at": "2026-11-09"
     },
     {
       "chapter": 6,
@@ -157,6 +157,13 @@
       "sub": "Talent & People Strategy",
       "authors": "Caleb Hawkins, Darla Klein & Yasmin West",
       "articles": [
+        {
+          "title": "Consulting engagement redesigns talent acquisition to scale at a multinational manufacturer. - Kelly Services",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSzlTLXA0UTh6N0JpeEVZTVBjZnRRWVpvc3JSeldFSFA3bVFUOEZNVldCUWE0MEROeHZlSVhWdW9qVHNYZFlNT293X1hmRW5QdllFQ196RlpIQXdFbUYySGRKN2RQRmNab0N5MklsRjRvVGtkeVpaSmhCNnI4NDh0TlBhRHhKRDJKQnpGMjZrY09ZZFJIb1pZVU5BdURyNlIxRU4yel9DY2dpMzhMb3E1c2kteDhFUzJEbU1JRnhueHJpcjdWUUlPMC1PNNIB2wFBVV95cUxPdFUtRUYtSHhtWm40dzFyUU1jSzBjQnoydXhSZ08xU0M2OUFlb25Od1ZudmV2RUhVUkpPeWREV0xxQTgxTzJDdDRCZk1rS3ZUY2Z5WGhLVGlTa2hCeHRCZ0VQMmktb2pEZG9KenRiVTRCZlRhN1RwN21ocDQ5NF9ZaUhLNXo5MWxBYkQwSlJVMk1aWmU1MXJNbnRtVlpfZFVramdtbVVRQ191R1RFY1BvN0c5Wld2YXRvR0g3RHN2MzdWWkRTc3NEWkVSWWp6Y1hGbnc4bVdXNV9qcG8?oc=5",
+          "source": "Kelly Services",
+          "snippet": "Consulting engagement redesigns talent acquisition to scale at a multinational manufacturer.&nbsp;&nbsp;Kelly Services",
+          "pub_date": "Mon, 26 Oct 2026 07:00:00 GMT"
+        },
         {
           "title": "Workday Leads Talent Acquisition Into the Agentic Era - Workday Blog",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWEx1eXkyai1wcUgzZnZsUkNGSTVmLWV6eTVhWGo5TG5Nem9CUE1neW54UlFCbldsbVZzQnIwZ0lYUXFLSUx2NFNlM3VOY2Y0QlpxRk9aSnJBZ2tNY3Y0MEpaZmw5VDZVM3VJRlo4WjNyd2VSZ0pTQnY4VFduMTZvdlFOZVlBdlE?oc=5",
@@ -170,16 +177,9 @@
           "source": "SHRM",
           "snippet": "Precision Over Scale: The New Rules of Hiring in 2026&nbsp;&nbsp;SHRM",
           "pub_date": "Wed, 25 Feb 2026 08:00:00 GMT"
-        },
-        {
-          "title": "Your HCM Platform Isn\u2019t Managing Talent \u2014 It\u2019s Scaling Hiring Mistakes Across the Business - UC Today",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWjRQeU5RQWw1SlRfNElDUmhDVDFNUDBXeTE1NlJUOVI2TmVTVGY0aVpTVDJXYlh2bm1OWXhFUkFVZFZQT2tfWDQxMFowcm5jWWRLWlpPNFp5bUJyMXlhdnR5NkxXWTBVWGFzTDVDaGVNYnZEVjRxSEVSQW9jVmZzbGVyTjYwSzZBUTd0LWtvWWlyOEk5Qmg5bEduaHRuVTNTdUhqVDhETGFtZw?oc=5",
-          "source": "UC Today",
-          "snippet": "Your HCM Platform Isn\u2019t Managing Talent \u2014 It\u2019s Scaling Hiring Mistakes Across the Business&nbsp;&nbsp;UC Today",
-          "pub_date": "Sat, 22 Aug 2026 05:45:57 GMT"
         }
       ],
-      "scraped_at": "2026-11-06"
+      "scraped_at": "2026-11-09"
     },
     {
       "chapter": 7,
@@ -187,13 +187,6 @@
       "sub": "Metrics & Performance",
       "authors": "H\u00e9ctor Arias, Matt Radicelli & Jim Randall",
       "articles": [
-        {
-          "title": "7 Key Marketing KPIs to Track & How to Measure Them - Harvard Business School Online",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DMEVEdVZHSGZaeG1BQjM0UkFuNHV0WjRlaWVGQ2RZVUhwR05jYk5nVFlGQ0t5TU1NNE5CYXRzTmN6NUxDMEMyQnpqWllWcEdnNjYteUhiQnZOQWc?oc=5",
-          "source": "Harvard Business School Online",
-          "snippet": "7 Key Marketing KPIs to Track & How to Measure Them&nbsp;&nbsp;Harvard Business School Online",
-          "pub_date": "Wed, 21 Oct 2026 07:00:00 GMT"
-        },
         {
           "title": "Social media KPIs: 31 metrics to track in 2026 - Hootsuite Blog",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92dGhtdnRxbFlLRWJYQTVZWVNwcmdlUkVINjYtN1VqRkpqa2FUVXJYYjlubHdUcEtlSEplcnZXOWlMbWRqTE1tU0NGaWZMX1ZQYlRxeUQtb3k?oc=5",
@@ -207,9 +200,16 @@
           "source": "Business.com",
           "snippet": "14 Tools to Track KPIs for Your Business&nbsp;&nbsp;Business.com",
           "pub_date": "Thu, 03 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "title": "30 Financial Metrics and KPIs to Measure Success in 2026 - Oracle NetSuite",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcThuZllxNkVka0dpOV9QdHZQM2RiU0tfMGVIR05tdW9ZN1AtYngwQ1d4WDFSb3ZNSUxKNHFCSUR4aC1lR1g2ZWYzWFE0NWF1WmVpejAxOW9VRFdJa01yLUFKa1hvbjNGQnR6a2hZcVVtQzgwRXNCdXVGbjhfNWR2eWpTSlFyRk5zLVZ3MnJvMU14ZjA?oc=5",
+          "source": "Oracle NetSuite",
+          "snippet": "30 Financial Metrics and KPIs to Measure Success in 2026&nbsp;&nbsp;Oracle NetSuite",
+          "pub_date": "Thu, 16 Apr 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-11-06"
+      "scraped_at": "2026-11-09"
     },
     {
       "chapter": 8,
@@ -218,28 +218,28 @@
       "authors": "Hudson Shank & Jonathan Slain",
       "articles": [
         {
-          "title": "84% global executives say productivity is AI\u2019s top benefit: TCS study - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNHJwMkxZcDFWZTVhQ3NPY2xsSlpiNE5zdURGaUE4OEZZY24zVi1pTzdqUU1Bdld1MEFXUDQzNnRxSUdzT0hyRTZ3RS00UEVyOFIyaEt4UlhXeC1SQm1ubGpMX0VReGFQTTEzT2pVampGVU5uSEMxd24zVk1tNFRFWDVmZURqa2NkUHJieWQwMXJJOWhaUWZmT1hRb1hmejIwY2ZucjlGZ0JGUmsxSkd1S3poMmgtXzNXTm9kS3ROUC1aUQ?oc=5",
-          "source": "TradingView",
-          "snippet": "84% global executives say productivity is AI\u2019s top benefit: TCS study&nbsp;&nbsp;TradingView",
-          "pub_date": "Wed, 04 Nov 2026 16:46:20 GMT"
+          "title": "90% of executives say AI hasn\u2019t boosted productivity. Some are still cutting jobs - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LZWF5Vkc3Wk9DVVd5aE83ZGVhbWMyb3U3MW1kcHljOHdwcjdjTmt1SmU5bFVRblVaZGJsRndNRS1fWExxc3IyZDBJcnlxZHhYVUFhV1pBSzVRS0R1RVJlNVYxM0pzRXZKcG96RExTdTVlMnhBWDNMUlVuUGM?oc=5",
+          "source": "Fortune",
+          "snippet": "90% of executives say AI hasn\u2019t boosted productivity. Some are still cutting jobs&nbsp;&nbsp;Fortune",
+          "pub_date": "Sat, 22 Aug 2026 07:00:00 GMT"
         },
         {
-          "title": "Top AI Statistics And Trends: Updated For 2026 - Forbes",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51MlhETTFQYXI3NWFjUGlRUTdDZHVDMEFSaFdEWHBrZkhyRjY5OWZCcUFEamR4LVozQXQybk5XaW9rOXQxdUVvYVBlMVU0MklrckwxZjN4OHFaWlJmSjF4eHJNSEY?oc=5",
-          "source": "Forbes",
-          "snippet": "Top AI Statistics And Trends: Updated For 2026&nbsp;&nbsp;Forbes",
-          "pub_date": "Mon, 02 Nov 2026 12:22:00 GMT"
+          "title": "Top AI Time-Saving and Productivity Hacks From 12 CEOs and Bosses - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc010ZUhURC0wVGNKMTdRUWVyTnZFVXRWODBxaVc3MWYyeU52bG1PdHVaTU45aS1mSG13Ulh2eUtmcU5qNXhma2VDLWo0UlpDLWMyU0lZc1ZkcHZzZXVrVXlpNGNObGVxRnVTMlVBc2RQLTk2bWtJaWFmeW1BMlBHNml5SktYdEdaLWJ3VmpYTU55bHB6cVpUVW5LWG1WR2lhRng0SXYwcHdFYXJTanJn?oc=5",
+          "source": "Bloomberg.com",
+          "snippet": "Top AI Time-Saving and Productivity Hacks From 12 CEOs and Bosses&nbsp;&nbsp;Bloomberg.com",
+          "pub_date": "Tue, 12 May 2026 07:00:00 GMT"
         },
         {
-          "title": "Singapore CEOs see AI productivity gains but ROI lags - IT Brief Asia",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYnhGcHlxUHVhQVk1b3pqWHJMbjFnNlFvUEx3NWdPRzNwby1jMzNXNlZpVGlTZjVySGlCeExFMjh2VXhGVU95eTBwekhtMTVjSE9ZRmlWdVd0MWh1cEtxTlpzTmFROGtpNTZac0FnbmNGLTJPaEZGX2RuN19KaHUwdG5LeEE0SGM?oc=5",
-          "source": "IT Brief Asia",
-          "snippet": "Singapore CEOs see AI productivity gains but ROI lags&nbsp;&nbsp;IT Brief Asia",
-          "pub_date": "Wed, 04 Nov 2026 03:38:16 GMT"
+          "title": "Global Evidence on Business Use of AI - National Bureau of Economic Research | NBER",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iOC1YSFZUMW1yWGJWaFBaSmFOZVZRUzB0ZFJhTEJnU3NOWWJsRkVQRktFS0p2aHdRNUxPZTJCUThCSHdWcV9lMXVoSWtrc1ZHQUlTWFZSRDJQeXpJQXZFb0QtaDRYeUVIRnlIalprTXBCakpx?oc=5",
+          "source": "National Bureau of Economic Research | NBER",
+          "snippet": "Global Evidence on Business Use of AI&nbsp;&nbsp;National Bureau of Economic Research | NBER",
+          "pub_date": "Mon, 04 May 2026 20:54:28 GMT"
         }
       ],
-      "scraped_at": "2026-11-06"
+      "scraped_at": "2026-11-09"
     },
     {
       "chapter": 9,
@@ -248,11 +248,11 @@
       "authors": "Samantha Frost, Caleb Hawkins & Rafa Loyo",
       "articles": [
         {
-          "title": "Women In Travel Leadership Series, Part 1: Imposter Syndrome - Forbes",
+          "title": "Women Travel Leaders Face Imposter Syndrome, Despite Dominating The Industry - Forbes",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeThKb2JyV0djX2Rjdlg3QmtrWEhGcW00Um9JUmtSU2hpWVotRTJmblZnc2dKMnAyckVFSjc5Z0s5MnRvNFFHZmJuY014amE5MGpYV0NlQ2lZVDk0WmdfV2l1RE90N0xNTGZqUk9sVWpQT1RNTFVwTms4ejJNSUdKTkJQVWV1bUthNzdMNl9ra3Z5TjV1NE5OMU05UktRVXI4N1dNb3ZFU2R6THNmcmxKTUhQNHhmN28?oc=5",
           "source": "Forbes",
-          "snippet": "Women In Travel Leadership Series, Part 1: Imposter Syndrome&nbsp;&nbsp;Forbes",
-          "pub_date": "Sat, 31 Oct 2026 10:45:00 GMT"
+          "snippet": "Women Travel Leaders Face Imposter Syndrome, Despite Dominating The Industry&nbsp;&nbsp;Forbes",
+          "pub_date": "Sat, 31 Oct 2026 07:00:00 GMT"
         },
         {
           "title": "Don\u2019t try to outgrow imposter syndrome. Put it to work. - Campaign US",
@@ -269,7 +269,7 @@
           "pub_date": "Wed, 15 Oct 2025 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-11-06"
+      "scraped_at": "2026-11-09"
     },
     {
       "chapter": 10,
@@ -285,21 +285,21 @@
           "pub_date": "Mon, 22 Jun 2026 07:00:00 GMT"
         },
         {
-          "title": "75% of Founders Regret Selling Their Business Within a Year \u2014 Here's How to Walk Away With More Than Just Money - Entrepreneur",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZ3AyQ1laMWg4RFBmUUNfa1RsZXh0YUdxLXAyOEhlVlFiZzBkM1M2azVCbmtYUHpOZkh5SlpibFUxWmtsOGpEUkRHaHhhZEtEODJQUF8tN1RadUhUd1FBaVA1akZlSTRrRHB1cnZuMExrQ1YtNXVUQnl5cERTVVctY1pfRjZWcHhhNmtYOG1VRHZ0UEFfb1U5Wlh3TzBHd3c4V0RObWE4bmhlaTdGcGFQaDJ2LWRPQVJ0SUk5SHBLQlhnQTE2Rmtya2JySHlKb0RScEhLTExhN000NzdBaXo5UWNPelJuWDVmbGQ4RA?oc=5",
-          "source": "Entrepreneur",
-          "snippet": "75% of Founders Regret Selling Their Business Within a Year \u2014 Here's How to Walk Away With More Than Just Money&nbsp;&nbsp;Entrepreneur",
-          "pub_date": "Thu, 30 Jul 2026 07:00:00 GMT"
+          "title": "Morgan Stanley on life after selling your business: a roadmap for entrepreneurs - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdnZpWG94aDF5el9jOUtxNWhVYlFXZ3FKejZHQkJEOTVVSmN2VE1COEtTb3lkTnJ1VENGTVoxWGUzOHhYdlJ4QUV6bW9IajBVTEQ2cm5vUWRST3pCcWlxXzNzNHNMQlRmSURudzZZbFNuWkx2YUZWakN5ME1mcVU0Rm9XcFdMOXQzNFo4?oc=5",
+          "source": "Fortune",
+          "snippet": "Morgan Stanley on life after selling your business: a roadmap for entrepreneurs&nbsp;&nbsp;Fortune",
+          "pub_date": "Fri, 26 Jun 2026 07:00:00 GMT"
         },
         {
-          "title": "Forget Scaling to Millions\u2014This CEO Says the Real Growth Hack Is Understanding One Customer - Entrepreneur",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdmRBTHVUUzRxVzhnUlQyaUMyYWotNTRhQzVZVXBMNm4zMDJ4MllPTk9XcGJlM1YxTnoteFdESnRMSW5YaXNGODBsSzgtNFd0NV9qZXlOSWV0WlFjT21SRXFRTkZRZFJ2VnRaN3NHMEtlTEIwQWtRTjUxU29TdmFWSzB3b28yenI3aUtFdzNXT2dtRUtvVGRpN0FVeTJMY0xMd2tLNGVPZVJKald2WEI5R1psRWpEX1RHbHlMb1oyWm9KWHNtSmZSVFBxUjBlbGc?oc=5",
-          "source": "Entrepreneur",
-          "snippet": "Forget Scaling to Millions\u2014This CEO Says the Real Growth Hack Is Understanding One Customer&nbsp;&nbsp;Entrepreneur",
-          "pub_date": "Fri, 25 Sep 2026 07:00:00 GMT"
+          "title": "HPU Student Entrepreneurs Earn $30,000 in Business Plan Competition - High Point University",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbDVfMnhZS3JndXJ4eV9iV3M2ZlA1bUxsMXZvVWlRVkdKLUlyVkRPRUtWakxPTmdLUk5zS05pelQxbEtONV8tYUhOM2Z3cHVMN3BsWDduUy02cWFaR2Y0S2RhNmtUU1pYZDFHa1FtMl92cjFsd2VtOXBQMFNtajZ4V3V4dkJhRzlqSmt0SzdqS2sxdU4yQmlCb2hiM1FGWlBqeFZQMF9LbEQ?oc=5",
+          "source": "High Point University",
+          "snippet": "HPU Student Entrepreneurs Earn $30,000 in Business Plan Competition&nbsp;&nbsp;High Point University",
+          "pub_date": "Thu, 16 Apr 2026 07:00:00 GMT"
         }
       ],
-      "scraped_at": "2026-11-06"
+      "scraped_at": "2026-11-09"
     }
   ]
 }
