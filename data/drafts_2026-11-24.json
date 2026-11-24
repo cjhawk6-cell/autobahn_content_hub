@@ -1,0 +1,526 @@
+{
+  "generated_at": "2026-11-24T21:45:14.890738+00:00",
+  "date": "2026-11-24",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Lead Like Lives Depend On It",
+      "sub": "Leadership & Scaling",
+      "authors": "Katherine Slain",
+      "articles": [
+        {
+          "title": "Why Leadership Gets Harder as Companies Grow Fast - Adam Mendler",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRm9kb0FqY0VWYWc4VWtJVEdTQ2VLZ3FwSUZYSDRZNWtBTDlicjFKOXd2TVllbmtWVkNNaEJlRG5taWJ6N25BMmFTb0hxU3dQYk5VbG1kSlhtam1nZmdDMnJYUG5oVk1yRzEySXhjc0NSdDNGOHktb2RsN3FVNGVKVEtaOA?oc=5",
+          "source": "Adam Mendler",
+          "snippet": "Why Leadership Gets Harder as Companies Grow Fast&nbsp;&nbsp;Adam Mendler",
+          "pub_date": "Mon, 16 Mar 2026 07:00:00 GMT"
+        },
+        {
+          "title": "What Executives Need to Understand Before Scaling AI Across the Organization - Stanford Graduate School of Business",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYVhzWHYzT1VheXhTVGVNSHgtQlFMMHFPZHFoUmxYQTJ2SllrZG91d2trSW1UTHdBdmlhNVB6Q2FZeDVUSnRkWm1qaFRaN3ZDR2JvXzdtbkkwVF9rbXBwZ3QtWFp3ME92aXVESVRrY1RVUF9HWnp0ZUNJYktpN180aGx2OURxdm4wc0Z6UU1CeFdhVTFrLTloQ05wLWgwVThrNjZkZXBIMWNHcUkzc2tv?oc=5",
+          "source": "Stanford Graduate School of Business",
+          "snippet": "What Executives Need to Understand Before Scaling AI Across the Organization&nbsp;&nbsp;Stanford Graduate School of Business",
+          "pub_date": "Tue, 04 Aug 2026 17:23:25 GMT"
+        },
+        {
+          "title": "Alpha Compute Strengthens Executive Team To Scale Global Infrastructure Business - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZDJTYWxBenpYdng5X1liMVlMbGhHNmxLYXAxUGhMNEpyWkVwU3pvX2V3aUhXbVZMYXRCV2FGMDVHVFhOdUlMdXMtRVIzMUcxQ3VkTlQxSmlpVlBGZEtYcU1hZ2pLMW05SGxLZ0ZaN09mVFJlNTczRGlOc0dVdW53eEMxdHMzQlZqQjh2elI4ZU1pNFhleTNhZDF4STlqU0I5RDVVT3UyZw?oc=5",
+          "source": "Yahoo Finance",
+          "snippet": "Alpha Compute Strengthens Executive Team To Scale Global Infrastructure Business&nbsp;&nbsp;Yahoo Finance",
+          "pub_date": "Mon, 17 Aug 2026 07:00:00 GMT"
+        }
+      ],
+      "posts": {
+        "post1": {
+          "type": "thought_leadership",
+          "text": "The leadership skills that got your company to $50M will actively work against you at $100M. This is not a motivational warning. It is a structural reality.\n\nAs companies scale fast, the decision-making style that made a founder or executive effective in the early stages becomes a bottleneck. Adam Mendler has written about this directly: leadership difficulty compounds as growth accelerates, and most executives are caught off guard by how quickly their old playbook stops working.\n\nHere is what mid-market leaders need to internalize:\n\nFirst, your instincts were trained on a smaller organization. They are not automatically transferable. Second, the gap between what you decide and what actually gets executed widens dramatically with every layer you add. Third, accountability structures that felt unnecessary at $50M become survival mechanisms at $200M.\n\nLeading at scale is not about working harder or hiring more people. It is about fundamentally rewiring how you operate, communicate, and let go.\n\nWhat is the leadership behavior you have held onto longest that your company has actually outgrown?",
+          "hashtags": [
+            "#Leadership",
+            "#ScalingUp",
+            "#MidMarket"
+          ]
+        },
+        "post2": {
+          "type": "article_reaction",
+          "text": "A recent piece from Stanford Graduate School of Business raises a critical point for executives considering AI adoption at scale: understanding what AI actually requires from leadership before you deploy it broadly is not optional, it is foundational.\n\nAt Autobahn, we work with companies scaling from $50M toward $500M, and the pattern we see repeatedly is this: technology decisions outpace organizational readiness. AI is the most acute version of that problem right now.\n\nBefore you scale AI across your organization, your leadership team needs clear ownership, defined decision rights, and a culture where people are honest about what is not working. Without those things in place, AI does not solve problems. It amplifies them.\n\nIf your leadership infrastructure is not ready, your AI rollout will not be either. Read the Stanford piece and ask yourself what you are actually building on.\n\nhttps://news.google.com/rss/articles/CBMirwFBVV95cUxOYVhzWHYzT1VheXhTVGVNSHgtQlFMMHFPZHFoUmxYQTJ2SllrZG91d2trSW1UTHdBdmlhNVB6Q2FZeDVUSnRkWm1qaFRaN3ZDR2JvXzdtbkkwVF9rbXBwZ3QtWFp3ME92aXVESVRrY1RVUF9HWnp0ZUNJYktpN180aGx2OURxdm4wc0Z6UU1CeFdhVTFrLTloQ05wLWgwVThrNjZkZXBIMWNHcUkzc2tv",
+          "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYVhzWHYzT1VheXhTVGVNSHgtQlFMMHFPZHFoUmxYQTJ2SllrZG91d2trSW1UTHdBdmlhNVB6Q2FZeDVUSnRkWm1qaFRaN3ZDR2JvXzdtbkkwVF9rbXBwZ3QtWFp3ME92aXVESVRrY1RVUF9HWnp0ZUNJYktpN180aGx2OURxdm4wc0Z6UU1CeFdhVTFrLTloQ05wLWgwVThrNjZkZXBIMWNHcUkzc2tv"
+        },
+        "post3": {
+          "type": "book_tie_in",
+          "text": "Leadership gets harder as companies grow. Adam Mendler wrote about it. We built an entire chapter around it.\n\nChapter 1 of Rock Your Business is called Lead Like Lives Depend On It, authored by Katherine Slain. The title is not hyperbole. At the $50M to $500M stage, weak leadership does not just slow growth. It puts the entire organization at risk.\n\nKatherine's work in this chapter confronts something most leadership books avoid: the moment when a leader's identity and their company's needs stop matching. The gap that opens there is where scaling companies get into real trouble.\n\nWe are not going to give away the framework. But if you have ever felt like the company is running faster than your leadership can keep up, this chapter was written for you.\n\nRock Your Business, available soon. Follow us for updates."
+        },
+        "blog_hook": "Most executives assume leadership gets easier as the company matures. The opposite is true. Between $50M and $500M, the speed of growth routinely outpaces the speed of leadership development, and the gap between the two is where companies stall, fracture, or fail. Here is what scaling leaders need to understand before the cracks become crises.",
+        "email_subject": "Your leadership is already behind"
+      },
+      "scraped_at": "2026-11-24"
+    },
+    {
+      "chapter": 2,
+      "title": "Maximize Your Multiple to Achieve Your Exit",
+      "sub": "M&A & Business Valuation",
+      "authors": "Paul Belair & George Hohman",
+      "articles": [
+        {
+          "title": "Every Founder Plans for Growth, But Almost None Plan for the Exit. Here's What I Wish I'd Understood Sooner. - entrepreneur.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ1IwcXAwLW0wOUR3UTROejNURE9ORVB1NmdRRi1Ccm4wbjdRa2Rrcy05R3h0OTJkT0xrV2paVENfblRqRHVsZFVKZHJ2cDFTalhCcWpVc2J6YlBkeDNBMm1fUWE3dmRzY2ZtRkduR3lvQnFRVDFJMnNtTloyd0xSUlhFNDg2WmxZNFl1TzhuNEU4WUpB?oc=5",
+          "source": "entrepreneur.com",
+          "snippet": "Every Founder Plans for Growth, But Almost None Plan for the Exit. Here's What I Wish I'd Understood Sooner.&nbsp;&nbsp;entrepreneur.com",
+          "pub_date": "Wed, 12 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "How to Create an Exit Strategy for Your Business - U.S. Chamber of Commerce",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONERpMjFwUjkzVW8xLTRScUhVWTQ5VUFMS1R5cFY4c2p2eXYzZ3NYc0V0NUlaMmREUXM2N3VSaThYUjhERGNiSmhFTDB5TVBYNEhrOU9WSHRyYThWWUlUY2RYNlVFNkhvVGU4V3h1bXAtVzUwVVh0bG5FOWxmTUNJTTBJYjI?oc=5",
+          "source": "U.S. Chamber of Commerce",
+          "snippet": "How to Create an Exit Strategy for Your Business&nbsp;&nbsp;U.S. Chamber of Commerce",
+          "pub_date": "Tue, 03 Feb 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Exit strategies: When to sell and not to sell - Silicon Valley Bank",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeXI2ZzYxYnJkdGhyZ1FlaVBlWXQ1RjB4ZnhCRWtFVEpBZ0FPZnB4amFmV2xxVmxJbXRMR0dfeHlmWkw2V0syR3pfdGdMaGJvMDVPQ1FYZUgwaU1wcnRFVkU0aExWQ01yQUJFQTd3Z0NrZG9sR3Q3XzQ5cF9IZEJuWDdsNmZ5dUJjVjZ3NEZqQ2preC1henhFRnV6MWtXRWc?oc=5",
+          "source": "Silicon Valley Bank",
+          "snippet": "Exit strategies: When to sell and not to sell&nbsp;&nbsp;Silicon Valley Bank",
+          "pub_date": "Tue, 06 Oct 2026 13:48:39 GMT"
+        }
+      ],
+      "posts": {
+        "post1": {
+          "type": "thought_leadership",
+          "text": "The best time to plan your exit is the day you decide to scale. Not 12 months before you sell.\n\nMost founders treat exit planning as a finish line activity. That mindset costs them millions. A recent Entrepreneur piece reinforced what we see constantly with mid-market companies: growth gets obsessive attention, but the factors that actually drive valuation multiples get almost none.\n\nHere is what leaders running $50M+ businesses need to understand:\n\n1. Your multiple is built over years, not negotiated over months. Buyers pay for predictability, not just revenue.\n\n2. Customer concentration is a silent multiple-killer. If one or two clients represent more than 20% of revenue, sophisticated buyers will reprice that risk immediately.\n\n3. EBITDA quality matters more than EBITDA size. Recurring revenue, clean financials, and documented processes each expand what a buyer will pay.\n\nThe companies that exit on their terms did not get lucky. They built toward a number with intention, years before any letter of intent arrived.\n\nHow many of your current decisions are being made with your exit multiple in mind?",
+          "hashtags": [
+            "#MergersAndAcquisitions",
+            "#BusinessValuation",
+            "#ExitStrategy"
+          ]
+        },
+        "post2": {
+          "type": "article_reaction",
+          "text": "A recent piece from the U.S. Chamber of Commerce walks through the fundamentals of building a business exit strategy, and it is worth a read for any owner thinking about the next chapter.\n\nWhat the article covers well is the range of exit options available. What it cannot cover is how differently those options play out for companies operating at scale.\n\nAt the $50M to $500M level, the stakes on each decision compound fast. Choosing the wrong exit vehicle, the wrong timing, or the wrong advisors does not just affect the final number. It affects your team, your legacy, and whether the business you built survives the transition.\n\nExit planning at this level is a strategic discipline, not a transaction. If you are scaling and have not stress-tested your exit options yet, start now.\n\nRead the full article here: https://news.google.com/rss/articles/CBMihAFBVV95cUxONERpMjFwUjkzVW8xLTRScUhVWTQ5VUFMS1R5cFY4c2p2eXYzZ3NYc0V0NUlaMmREUXM2N3VSaThYUjhERGNiSmhFTDB5TVBYNEhrOU9WSHRyYThWWUlUY2RYNlVFNkhvVGU4V3h1bXAtVzUwVVh0bG5FOWxmTUNJTTBJYjI",
+          "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONERpMjFwUjkzVW8xLTRScUhVWTQ5VUFMS1R5cFY4c2p2eXYzZ3NYc0V0NUlaMmREUXM2N3VSaThYUjhERGNiSmhFTDB5TVBYNEhrOU9WSHRyYThWWUlUY2RYNlVFNkhvVGU4V3h1bXAtVzUwVVh0bG5FOWxmTUNJTTBJYjI"
+        },
+        "post3": {
+          "type": "book_tie_in",
+          "text": "Silicon Valley Bank recently published a piece on exit strategies that asks a sharp question: when is the right time to sell, and when should you hold?\n\nIt is exactly the kind of question Chapter 2 of our upcoming book, Rock Your Business, was written to answer.\n\nThe chapter, titled Maximize Your Multiple to Achieve Your Exit, was authored by Paul Belair and George Hohman. Together they bring deep M&A experience to a problem most scaling companies do not face until it is too late to address it well.\n\nOne thing they make clear: the multiple you receive is not primarily a function of market conditions. It is a function of decisions you made two, three, and five years before you ever sat across from a buyer.\n\nThere is a framework inside this chapter that reframes how mid-market leaders should think about value creation. We will be sharing more soon.\n\nRock Your Business, available soon. Follow us for updates."
+        },
+        "blog_hook": "Most $50M+ founders can tell you their revenue growth rate down to a decimal. Far fewer can tell you what their business would actually sell for today, or why. The gap between those two numbers is not a market problem. It is a planning problem. Here is what separates the companies that exit on their terms from the ones that leave money on the table.",
+        "email_subject": "Your exit multiple is built today, not at close"
+      },
+      "scraped_at": "2026-11-24"
+    },
+    {
+      "chapter": 3,
+      "title": "What We Learned Selling Fish Food and Nike Shoes",
+      "sub": "Strategic Planning & Execution",
+      "authors": "Rafa Loyo & Jim Randall",
+      "articles": [
+        {
+          "title": "Why Leadership Teams Fail At Strategy Execution And How To Fix It - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXpNczJQdVBKTWlEV0dsby1FaEFGUVg5X1B3Zk9qUGI2bDJMSUxydGhRdURFUUdERXhBRmNzUndTVXhITTREMzMxdk9faE5rUldabk9ld2p2dHdfeXJjVEpMckJ6dFZNckFkTkk5ZmJ5MHRVSm5iSXo2WGlwc0NoeTBvcUYxTF9pbUNmaDB4LUdlNk9pMll0Y01BRTNVYzJObzRrV3pCN19scHYtdThYcHJVUVFYbjFMbkE?oc=5",
+          "source": "Forbes",
+          "snippet": "Why Leadership Teams Fail At Strategy Execution And How To Fix It&nbsp;&nbsp;Forbes",
+          "pub_date": "Tue, 04 Nov 2025 08:00:00 GMT"
+        },
+        {
+          "title": "A Manager\u2019s Guide to Successful Strategy Implementation - Harvard Business School Online",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pcmMwWURjZ3NNYXZQOUI4V1Vwalk4TTJORHlsOEZOM2FlZG9ZSmw1LWFGc0RIYzNOcFNZbTkxRFhjWjdTdWkzek04UEhLblBJdWVUaGg2ZEsyeHJKd01YTXV6QXpTb2M?oc=5",
+          "source": "Harvard Business School Online",
+          "snippet": "A Manager\u2019s Guide to Successful Strategy Implementation&nbsp;&nbsp;Harvard Business School Online",
+          "pub_date": "Tue, 16 Jan 2024 08:00:00 GMT"
+        },
+        {
+          "title": "10 simple reasons companies keep failing at strategic execution - MultiBriefs",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaWNsYnhibWVPdkU3YjJIeFZyWTFMOFVqNktDSEljSnZfLU00aHp4R3hKV2lzczlaTFQ5SjQ2MzNyTW10ZmJkVVhXa3lOd21EbkxJeVg4YnZUZ2RTdll3ck1BRkNudVdmNW1NZEV3WXBxS1FEdEd0M3N2QkRuX0FKcTVLM3EyQ3ZuWHEzblZKd3RMMlBJNHVXTHUtbDhLRTctVkNlSnduQjBHMFE5MlFmZUwxanRkbnpVYmJJMUQ1M2k0OUgyR0dud0h6Wmp5aFZVYVJkNWJ2bW5QT3NZMVZyMGx6T2w?oc=5",
+          "source": "MultiBriefs",
+          "snippet": "10 simple reasons companies keep failing at strategic execution&nbsp;&nbsp;MultiBriefs",
+          "pub_date": "Tue, 19 Jan 2021 08:00:00 GMT"
+        }
+      ],
+      "posts": {
+        "post1": {
+          "type": "thought_leadership",
+          "text": "Most strategic plans fail not because the strategy was wrong, but because leadership teams never actually committed to execution.\n\nForbes recently explored why leadership teams consistently fall short on strategy execution. The findings are uncomfortable: the problem is almost never the plan itself.\n\nHere is what leaders scaling past $50M need to hear:\n\n1. A strategy your team cannot recite from memory is not a strategy. It is a document. There is a difference.\n\n2. Accountability without visibility is theater. If your leadership team cannot see progress against priorities in real time, you are managing by hope.\n\n3. Most companies treat annual planning as the destination. The companies that scale treat it as the starting line. Quarterly and monthly rhythm is where plans live or die.\n\nThe gap between a great strategy and a great outcome is almost always an execution problem disguised as a planning problem.\n\nSo here is the question worth sitting with: Does your leadership team know exactly what they are responsible for delivering this quarter, and do they believe the plan is actually achievable?",
+          "hashtags": [
+            "#StrategicPlanning",
+            "#BusinessGrowth",
+            "#ExecutionExcellence"
+          ]
+        },
+        "post2": {
+          "type": "article_reaction",
+          "text": "A recent piece in Harvard Business School Online breaks down what it actually takes for managers to implement strategy successfully. The core message is straightforward: execution requires deliberate structure, not just good intentions.\n\nAt Autobahn, we see this play out constantly with companies scaling from $50M toward $500M. Leadership teams that built the company on instinct suddenly need repeatable systems to get an entire organization moving in one direction. That transition is harder than most expect.\n\nThe companies that make it are not the ones with the most sophisticated strategies. They are the ones that made execution a discipline, not an afterthought.\n\nIf your team is struggling to close the gap between planning and results, this article is worth your time.\n\nhttps://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pcmMwWURjZ3NNYXZQOUI4V1Vwalk4TTJORHlsOEZOM2FlZG9ZSmw1LWFGc0RIYzNOcFNZbTkxRFhjWjdTdWkzek04UEhLblBJdWVUaGg2ZEsyeHJKd01YTXV6QXpTb2M?oc=5",
+          "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pcmMwWURjZ3NNYXZQOUI4V1Vwalk4TTJORHlsOEZOM2FlZG9ZSmw1LWFGc0RIYzNOcFNZbTkxRFhjWjdTdWkzek04UUhLblBJdWVUaGg2ZEsyeHJKd01YTXV6QXpTb2M?oc=5"
+        },
+        "post3": {
+          "type": "book_tie_in",
+          "text": "Strategic planning gets a lot of attention. Execution gets a lot of blame. But what actually connects the two?\n\nIn Chapter 3 of Rock Your Business, titled 'What We Learned Selling Fish Food and Nike Shoes,' authors Rafa Loyo and Jim Randall share what years of operating real businesses taught them about the gap between setting direction and driving results.\n\nOne of the most grounding lessons in this chapter is that the businesses most people overlook, the ones selling everyday products in competitive markets, often execute with more discipline than companies with far more sophisticated strategies.\n\nThe insight is not about what you sell. It is about how rigorously you connect your plan to the people responsible for carrying it out.\n\nThere is a framework in this chapter that will challenge how you think about your own planning process. We will leave it there for now.\n\nRock Your Business, available soon. Follow us for updates."
+        },
+        "blog_hook": "Most leadership teams do not have a strategy problem. They have an execution problem they keep mistaking for a strategy problem. For companies scaling past $50M, that confusion is expensive. The gap between a plan that looks right in a boardroom and one that actually moves an organization is where growth stalls. Here is what it takes to close it.",
+        "email_subject": "Your strategy isn't the problem."
+      },
+      "scraped_at": "2026-11-24"
+    },
+    {
+      "chapter": 4,
+      "title": "Every Day Without a Real Sales Strategy is a Donation",
+      "sub": "Sales Strategy",
+      "authors": "Deb & Brandon",
+      "articles": [
+        {
+          "title": "The surprising economics of B2B growth: The new survival threshold\u2014and what it takes to thrive - McKinsey & Company",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSF9ESENPR051cXUxeXhTRWdnZlNlSnVFb09xUE9tcHVhYmZwVUJSSnhnVFVuZHl5YXp1UDZseHBVaEFwTW04TFBSYUZFczVpUUJWRzhKVDd6b05ycDd6emR0bFlhbUhDUlhKakRnVGVyYTNoRjk0Ti1wZDR0RUd6cmZldHdfWDFLU3VjWHBib1NPVlY4NmRqZEdkajg4WVZOWVljaVZVVmRPdDVXcXB3a1dYSlZrSHM1MUxXS0pjWGRtdTcweHVNXy04a01fcVNza1E5TzctSGhyMkVwSEFXenRQcnVUSUdLd3VqbGszLWZtUVNKQ2phZk13ckNIbC1f?oc=5",
+          "source": "McKinsey & Company",
+          "snippet": "The surprising economics of B2B growth: The new survival threshold\u2014and what it takes to thrive&nbsp;&nbsp;McKinsey & Company",
+          "pub_date": "Thu, 28 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "B2B Growth Masters\u2019 Formula for Repeatably Capturing New Customers - Bain & Company",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTnFuY29VYUwzZ2FBUUstT3NwOGJncXBFSm03ajFydXhEMUxzOVZRaXE0VndTOEtzX2ZfQUtySjJFX1F3ek1aTXRreFFJLUdyOWY1bWZ3RFZiTGNTNFlIVmtHVURtOW55bzBsVFREVXJudUE4TmhqZUVOSFZLUE5YNE1weU5NV0Rla3hxMW1oZDhTd3ZvR1lUQm9xRm04cFVQNUZBQ19lZnBxMnFBZXJjQVNNV2RWMWJsMmJV?oc=5",
+          "source": "Bain & Company",
+          "snippet": "B2B Growth Masters\u2019 Formula for Repeatably Capturing New Customers&nbsp;&nbsp;Bain & Company",
+          "pub_date": "Mon, 30 Mar 2026 07:00:00 GMT"
+        },
+        {
+          "title": "B2B Sales Strategy Now Demands AI, Personalization to Survive - abasto.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeXlWSGVIUEpjeTZGWVJQMzBJWU1DSl80Y3dVRkZ0eS05QjI3cWo4clgzNXFzRnh1eWp3VWN0T0FPQnl5TnNIcWw4RFVKUTZWSk5fTy1zSk5FSmNtOW80MmN1THVoNjRsZWVZVUNIRGR1UkQxWE9ZZWhGX1A0bkdzVk5BemNDV05DVDR5X2VFNHVXZw?oc=5",
+          "source": "abasto.com",
+          "snippet": "B2B Sales Strategy Now Demands AI, Personalization to Survive&nbsp;&nbsp;abasto.com",
+          "pub_date": "Mon, 08 Jun 2026 07:00:00 GMT"
+        }
+      ],
+      "posts": {
+        "post1": {
+          "type": "thought_leadership",
+          "text": "Most $50M+ companies don't have a sales strategy. They have a sales habit.\n\nThere's a difference. A habit is what your team does because it worked before. A strategy is built around where growth actually comes from and why.\n\nMcKinsey recently studied B2B growth economics and found that companies crossing certain revenue thresholds are increasingly separated not by their products, but by how deliberately they pursue and retain the right customers. The gap between growers and flatliner is structural, not circumstantial.\n\nHere's what that means for scaling businesses:\n\n1. Winning on relationships alone stops working around $50M. You need a repeatable system that doesn't depend on your top three reps.\n\n2. Revenue mix matters more than revenue volume. Knowing which customers drive margin versus which drain it is a strategy decision, not a finance decision.\n\n3. Most companies are funding their own mediocrity. Every month without a defined sales strategy is a direct transfer of money to competitors who have one.\n\nWhat does your sales strategy actually say about which customers you are willing to walk away from?",
+          "hashtags": [
+            "#SalesStrategy",
+            "#B2BGrowth",
+            "#ScalingBusiness"
+          ]
+        },
+        "post2": {
+          "type": "article_reaction",
+          "text": "A recent piece from Bain and Company breaks down what separates B2B companies that consistently capture new customers from those that struggle to repeat early wins. The finding is straightforward but uncomfortable: growth masters build systematic, transferable approaches to customer acquisition. Everyone else relies on heroics.\n\nFor companies scaling from $50M toward $500M, this distinction is everything. At smaller revenue levels, a few strong sellers can carry the number. At scale, that model collapses. The companies that make it build processes their entire sales organization can execute, not just their stars.\n\nIf your growth depends on two or three people who cannot be replaced, that is not a strategy. That is a liability.\n\nRead the full Bain piece here and think about which category your team falls into: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTnFuY29VYUwzZ2FBUUstT3NwOGJncXBFSm03ajFydXhEMUxzOVZRaXE0VndTOEtzX2ZfQUtySjJFX1F3ek1aTXRreFFJLUdyOWY1bWZ3RFZiTGNTNFlIVmtHVURtOW55bzBsVFREVXJudUE4TmhqZUVOSFZLUE5YNE1weU5NV0Rla3hxMW1oZDhTd3ZvR1lUQm9xRm04cFVQNUZBQ19lZnBxMnFBZXJjQVNNV2RWMWJsMmJV?oc=5",
+          "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTnFuY29VYUwzZ2FBUUstT3NwOGJncXBFSm03ajFydXhEMUxzOVZRaXE0VndTOEtzX2ZfQUtySjJFX1F3ek1aTXRreFFJLUdyOWY1bWZ3RFZiTGNTNFlIVmtHVURtOW55bzBsVFREVXJudUE4TmhqZUVOSFZLUE5YNE1weU5NV0Rla3hxMW1oZDhTd3ZvR1lUQm9xRm04cFVQNUZBQ19lZnBxMnFBZXJjQVNNV2RWMWJsMmJV?oc=5"
+        },
+        "post3": {
+          "type": "book_tie_in",
+          "text": "New research on B2B sales confirms what Deb and Brandon write about directly in Chapter 4 of Rock Your Business: Every Day Without a Real Sales Strategy is a Donation.\n\nThat title is not a metaphor. It is a math problem.\n\nDeb and Brandon work with companies in the $50M to $500M range and see the same pattern repeatedly. Leadership assumes sales is happening because revenue is coming in. What they don't see is how much more revenue a structured strategy would have produced, and how much margin a drifting one is quietly bleeding out.\n\nChapter 4 lays out how to build a sales strategy that actually scales, not one built around your best rep's personality or last year's lucky quarter. One insight that changes the conversation: defining who you are not selling to is just as important as defining who you are.\n\nRock Your Business, by Jonathan Slain and Katherine Slain, available soon. Follow us for updates."
+        },
+        "blog_hook": "If your company is growing past $50M and your sales strategy is essentially 'keep doing what got us here,' you are not coasting. You are donating. Research from McKinsey and Bain confirms that revenue growth at scale separates cleanly along one line: companies with deliberate, repeatable sales systems versus those running on instinct and institutional memory. Here is what the data says you should change first.",
+        "email_subject": "Your sales strategy is costing you money"
+      },
+      "scraped_at": "2026-11-24"
+    },
+    {
+      "chapter": 5,
+      "title": "What Does Your Marketing Smell Like?",
+      "sub": "Branding & Marketing",
+      "authors": "Kayli Simpson & Yasmin West",
+      "articles": [
+        {
+          "title": "Attention Is Still the Currency: Joe Marchese on Brand Building in the AI Era - ADWEEK",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2NrOVh2MzFiOVJxRzgzajBxbzZNODRLOF9FdmI2Um9HSWZOSlZDWW9BcW83TDUybFdJSFVTTFZUVEZpSG8xeWNqaENTTkEteHJmQldsODhUQ1UwVVZvSGQwbXEycURuX0xNX2RlMFViNkZtNkRlNHFiY0FHbTh6YjNZaHBMZEdQdDJqVG1jMDQ2UUpEelBUU3dOQ2h6VXR0UnRqVjhTMTctUEszSEhUVDZub3BucjQ?oc=5",
+          "source": "ADWEEK",
+          "snippet": "Attention Is Still the Currency: Joe Marchese on Brand Building in the AI Era&nbsp;&nbsp;ADWEEK",
+          "pub_date": "Tue, 17 Nov 2026 14:23:54 GMT"
+        },
+        {
+          "title": "Ulta\u2019s CMO on blending brand building and omnichannel marketing - Marketing Dive",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRlFnSEozTXJJdnl5aWFJQTFGR0tkcnhrUnUyOTNZNlIwcHZiLWFnbm0tQ0FWZEZCTWZvdUFQeEFvQkIwOHdpMmZBR3I5WmNjRmFYb0xJMGhQWmJHYUdWUVdyWndOWTYwR1ZQQ2E4V1dMV2NrT0hpRzNaU1VKdUdoZHMwSFB4SlhYTkZKZ2hDdEdsSkJ6TW91UTZTWlNGaGVmcUE?oc=5",
+          "source": "Marketing Dive",
+          "snippet": "Ulta\u2019s CMO on blending brand building and omnichannel marketing&nbsp;&nbsp;Marketing Dive",
+          "pub_date": "Tue, 30 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Anthropic CEO Dario Amodei spends up to 40% of his time building company culture - Storyboard18",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeVJRNEpLTERIWF9xeFhTVDlKdmRYWDdhdENKbU1ncnd0MlFUMjBRLUZDMm8xUXhtWU5uWk9sYTdHTFl4eW14RW5OWlI5ZzVKQmpvbURfVUQtRFYzRnpPTFJtd1BESkM3UEFvbnJlYlo1bTFsWkJrTnRNSUNyTDMycTBPbXpwYzVaM1pfakcxeHU0bmdCa3VhTW5fdFhqMzcyTXVRbElPQndkbl9HODBvTkdSdXU5b3JMTkN0RTlSR2d4a3h2SjJBbGNlMjVkYTMt0gHWAUFVX3lxTE5xVFJiT05jcE1DWXpRZlBsTU14M1h4ZWhCQWpyMUpXVEJKTFdFZS1sZnVzUW15Zm9fSnFXQjVlYURrOHZTa0VWZlpTMVQzcWdMUlp6Q1Z3blA0S3hYQ1NwT0VPZW9XMGhZOHNnd05idV9pTGNCU0pFbFBaOXJnZkVnd0dnRGtkU0MwcG8tLWh0clVfTEp1UEp5RHBiam1kMlhjTFBRUElJTlFCczNGOWZsOGk3bXIzVEdmMVB2SUZlMG5ZVGNaQXFlZjlZbjNfRkVaRUpOcUE?oc=5",
+          "source": "Storyboard18",
+          "snippet": "Anthropic CEO Dario Amodei spends up to 40% of his time building company culture&nbsp;&nbsp;Storyboard18",
+          "pub_date": "Sun, 18 Oct 2026 07:00:00 GMT"
+        }
+      ],
+      "posts": {
+        "post1": {
+          "type": "thought_leadership",
+          "text": "Your brand is not your logo. It is not your tagline. It is the feeling people get when they interact with your company, and most $50M+ businesses have never stopped to ask what that feeling actually is.\n\nAdweek recently explored how attention remains the defining currency of brand building, even as AI reshapes how companies reach their audiences. The takeaway for scaling companies is sharp: if you are not intentional about your brand, the market will assign one to you.\n\nHere is what that means in practice:\n\nFirst, your brand has a sensory signature. Customers remember how doing business with you felt, not what your deck said. Second, consistency at $50M becomes a structural problem, not a creative one. As you add people and channels, the brand dilutes unless it is operationalized. Third, most companies confuse marketing spend with brand building. They are not the same investment.\n\nThe companies that scale past $500M treat brand as infrastructure, not decoration.\n\nWhat does your brand feel like to a customer who has never met your founding team?",
+          "hashtags": [
+            "#BrandStrategy",
+            "#ScalingUp",
+            "#B2BMarketing"
+          ]
+        },
+        "post2": {
+          "type": "article_reaction",
+          "text": "A recent piece in Marketing Dive profiled Ulta's CMO on how the company blends brand building with omnichannel marketing across every customer touchpoint. It is a masterclass in what happens when brand and demand generation stop competing with each other and start working as one system.\n\nFor companies scaling from $50M to $500M, this is exactly where marketing breaks down. Teams get siloed. The brand says one thing. The sales deck says another. The website says something else entirely.\n\nUlta's approach is a reminder that brand coherence is not a luxury for large companies. It is the engine that makes growth defensible.\n\nIf your marketing channels are not telling the same story, you are not building a brand. You are creating noise.\n\nRead the full piece here: https://news.google.com/rss/articles/CBMiogFBVV95cUxPRlFnSEozTXJJdnl5aWFJQTFGR0tkcnhrUnUyOTNZNlIwcHZiLWFnbm0tQ0FWZEZCTWZvdUFQeEFvQkIwOHdpMmZBR3I5WmNjRmFYb0xJMGhQWmJHYUdWUVdyWndOWTYwR1ZQQ2E4V1dMV2NrT0hpRzNaU1VKdUdoZHMwSFB4SlhYTkZKZ2hDdEdsSkJ6TW91UTZTWlNGaGVmcUE",
+          "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRlFnSEozTXJJdnl5aWFJQTFGR0tkcnhrUnUyOTNZNlIwcHZiLWFnbm0tQ0FWZEZCTWZvdUFQeEFvQkIwOHdpMmZBR3I5WmNjRmFYb0xJMGhQWmJHYUdWUVdyWndOWTYwR1ZQQ2E4V1dMV2NrT0hpRzNaU1VKdUdoZHMwSFB4SlhYTkZKZ2hDdEdsSkJ6TW91UTZTWlNGaGVmcUE"
+        },
+        "post3": {
+          "type": "book_tie_in",
+          "text": "What does your marketing smell like? That is not a trick question. It is the exact framework Kayli Simpson and Yasmin West explore in Chapter 5 of our upcoming book, Rock Your Business: Navigating the Road from $50 Million to $500 Million and Beyond.\n\nThe chapter title is \"What Does Your Marketing Smell Like?\" and it challenges leaders to think about brand the way customers actually experience it, through every sense, every interaction, every touchpoint.\n\nMost companies scaling through growth stages treat marketing as a volume problem. More ads. More content. More channels. Simpson and West argue the real problem is almost always a coherence problem, and they give leaders a concrete way to diagnose it before it costs them market position.\n\nIf your marketing is loud but forgettable, this chapter is for you.\n\nRock Your Business -- available soon. Follow us for updates."
+        },
+        "blog_hook": "Most growing companies think their brand problem is a budget problem. It is not. It is a coherence problem. By the time a company hits $50M, its brand has usually been built by accident, assembled from decks, campaigns, and hiring decisions that were never designed to tell one clear story. Here is what that is costing you, and how to fix it before you scale the chaos.",
+        "email_subject": "What does your brand actually smell like?"
+      },
+      "scraped_at": "2026-11-24"
+    },
+    {
+      "chapter": 6,
+      "title": "The Talent Engine",
+      "sub": "Talent & People Strategy",
+      "authors": "Caleb Hawkins, Darla Klein & Yasmin West",
+      "articles": [
+        {
+          "title": "Precision Over Scale: The New Rules of Hiring in 2026 - SHRM",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRFVYR0VscXJpMmVqV2dwazJDTkstVDJTNG9uTlZlWHJPVkFqQ0MzZTRQSUYwUDZweWw2dE52THZKSnhBTzQtb1g5UUYzbmJTbjFJcXlVYno2ZzU4aE0yNVRwN2RIN05xTWJVWnZQejVyY2xRNmJ2SF83QmVHel9GYmdWTEdEMWZLMVk5OThMNTF0TmdKR1F4bG84cnZRZ0FU?oc=5",
+          "source": "SHRM",
+          "snippet": "Precision Over Scale: The New Rules of Hiring in 2026&nbsp;&nbsp;SHRM",
+          "pub_date": "Wed, 25 Feb 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Cognizant (CTSH) Selects Oracle (ORCL) Fusion Cloud Recruiting to Scale Global Talent Acquisition - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYjVkTXhZazZ5NG5PbGVJUTd0RkI5STBHb1Vuc3RJT3VSeVFiTjk3Qm9MU3Nhb3Vwa1pXSXR4SXVHWjhuMUhSTkY3RkVTOFNVV1NpYVZPNGZQNGY4YlJ4Q095VHpBMlZ1bEZacWdOMEItYzRlT0NZaDIwMVhwNHYzLVJybVRTbHRVYlIybGc3OWRVQ09QdFJ0dlVFZ1plaE0?oc=5",
+          "source": "Yahoo Finance",
+          "snippet": "Cognizant (CTSH) Selects Oracle (ORCL) Fusion Cloud Recruiting to Scale Global Talent Acquisition&nbsp;&nbsp;Yahoo Finance",
+          "pub_date": "Tue, 30 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "WorkWave Names Melinda Vedder as Chief Human Resources Officer - Pest Control Technology",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS1F5THVoSVJYOUJrRW9iYnYyUHNaYnlwdW9XY09NbHkzMVFtNjNYMmVYcnBieGYtamt6Yzk0SkRmSDZGakx1Ymt0T0Nya1hlWGY3OHhtUWFDRF9TU1FRd0lIX05kajU2QlBqbURiNXhQRjhJblktN2tjYmtmM29XZ3gycUtWZFZRZF9Ib2k2ZXR2cHkzaFg4dENXUzZURDA?oc=5",
+          "source": "Pest Control Technology",
+          "snippet": "WorkWave Names Melinda Vedder as Chief Human Resources Officer&nbsp;&nbsp;Pest Control Technology",
+          "pub_date": "Tue, 21 Apr 2026 07:00:00 GMT"
+        }
+      ],
+      "posts": {
+        "post1": {
+          "type": "thought_leadership",
+          "text": "Hiring more people is not a growth strategy. It is a cost problem disguised as ambition.\n\nSHRM's latest research on hiring trends makes this clear: the companies pulling ahead in 2026 are not the ones casting the widest nets. They are the ones getting surgical about exactly who they need, when, and why.\n\nFor leaders scaling past $50M, this shift has real implications.\n\nFirst, headcount growth and revenue growth are not the same equation. Precision in hiring means defining the role's output before you post it, not after the first bad hire costs you six figures.\n\nSecond, your talent bar has to rise as your revenue does. The person who was right for your $20M company may be actively holding back your $100M one.\n\nThird, slow hiring with clarity beats fast hiring with hope every single time. Speed without standards is just organized chaos.\n\nThe companies that scale well are not trying to outstaff the competition. They are trying to outthink them.\n\nSo here is the question worth sitting with: Is your current hiring process built for the company you are today, or the one you are trying to become?",
+          "hashtags": [
+            "#TalentStrategy",
+            "#ScalingBusiness",
+            "#LeadershipDevelopment"
+          ]
+        },
+        "post2": {
+          "type": "article_reaction",
+          "text": "A recent piece in SHRM, covering new hiring rules for 2026, reinforces something we see constantly with scaling companies: the talent acquisition playbook that worked at $20M starts breaking things at $100M.\n\nWhen you are growing fast, it is tempting to hire at volume and sort it out later. The problem is that later becomes never, and the wrong people in key seats become the ceiling on your growth.\n\nAt Autobahn, we work with companies navigating exactly this transition. The leaders who scale successfully are the ones who treat hiring as a strategic function, not an administrative one. They define what winning looks like in the role before the first resume lands.\n\nIf your hiring process has not kept pace with your revenue, it is worth a hard look.\n\nRead the full SHRM piece here and think about where your own process has gaps: https://news.google.com/rss/articles/CBMioAFBVV95cUxPRFVYR0VscXJpMmVqV2dwazJDTkstVDJTNG9uTlZlWHJPVkFqQ0MzZTRQSUYwUDZweWw2dE52THZKSnhBTzQtb1g5UUYzbmJTbjFJcXlVYno2ZzU4aE0yNVRwN2RIN05xTWJVWnZQejVyY2xRNmJ2SF83QmVHel9GYmdWTEdEMWZLMVk5OThMNTF0TmdKR1F4bG84cnZRZ0FU?oc=5",
+          "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRFVYR0VscXJpMmVqV2dwazJDTkstVDJTNG9uTlZlWHJPVkFqQ0MzZTRQSUYwUDZweWw2dE52THZKSnhBTzQtb1g5UUYzbmJTbjFJcXlVYno2ZzU4aE0yNVRwN2RIN05xTWJVWnZQejVyY2xRNmJ2SF83QmVHel9GYmdWTEdEMWZLMVk5OThMNTF0TmdKR1F4bG84cnZRZ0FU?oc=5"
+        },
+        "post3": {
+          "type": "book_tie_in",
+          "text": "WorkWave just named a new Chief Human Resources Officer. That is not a footnote. For a scaling company, that decision signals something much bigger about where the organization is headed and whether it is building the people infrastructure to support that journey.\n\nChapter 6 of Rock Your Business, called The Talent Engine, tackles this directly. Authors Caleb Hawkins, Darla Klein, and Yasmin West lay out what it actually takes to build a people strategy that can carry a company from $50M toward $500M and beyond.\n\nOne thing they make clear: talent leadership is not support function work at this stage. It is core to the operating model. The question is not whether you need strong people leadership. It is whether yours is positioned to drive growth or just manage it.\n\nThere is a framework in this chapter that changes how you think about that distinction entirely.\n\nRock Your Business -- available soon. Follow us for updates."
+        },
+        "blog_hook": "Most companies scale their revenue before they scale their talent strategy, and that gap is exactly where growth stalls. The hiring approach that carried you to $50M is not built to get you to $500M. The leaders who figure that out early stop treating talent as a function and start treating it as infrastructure. Here is what that shift actually looks like in practice.",
+        "email_subject": "Your hiring process has a ceiling"
+      },
+      "scraped_at": "2026-11-24"
+    },
+    {
+      "chapter": 7,
+      "title": "Death by KPIs",
+      "sub": "Metrics & Performance",
+      "authors": "H\u00e9ctor Arias, Matt Radicelli & Jim Randall",
+      "articles": [
+        {
+          "title": "33 Real Estate Metrics to Track in 2026 - Oracle NetSuite",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTjh6TUJWZy14dnBWaFphckdRRThpd0NUeGhDcUlxMGFzTF9UYjdkbmZZRFNNdFZUal92d0ZQekY0VFpJYU0yR1RqLTNpdXFuQllrVmR0Vi0xQ2xONXgtNVFOM3RLQXNkZEhzY1NXV0ZOSDRNbzFCbF84ZFY1OG1UOFE0SXpGWDc4a2tpWGJfR0YtV2tYVTNXZg?oc=5",
+          "source": "Oracle NetSuite",
+          "snippet": "33 Real Estate Metrics to Track in 2026&nbsp;&nbsp;Oracle NetSuite",
+          "pub_date": "Thu, 12 Nov 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Social media KPIs: 31 metrics to track in 2026 - Hootsuite Blog",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92dGhtdnRxbFlLRWJYQTVZWVNwcmdlUkVINjYtN1VqRkpqa2FUVXJYYjlubHdUcEtlSEplcnZXOWlMbWRqTE1tU0NGaWZMX1ZQYlRxeUQtb3k?oc=5",
+          "source": "Hootsuite Blog",
+          "snippet": "Social media KPIs: 31 metrics to track in 2026&nbsp;&nbsp;Hootsuite Blog",
+          "pub_date": "Tue, 20 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "14 Tools to Track KPIs for Your Business - Business.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWNPSTVTUDVYYURoVkZKa0ItNEtQbmJqWlNJTlIzUVZqclAxMHFaajNobC1JbGNkZGZVajN6MWJLT1pJcXktVG10VG8zUUljdU43NU5WR1cyNDB4QkxONlJkb3hJR2FfNzdGZHd1VWhPbTktdU1vdTEzamFWY2ZFVDNKUFIwRG91ZDdWU1UyN2twNFpLd1JjU3EzTUpjdw?oc=5",
+          "source": "Business.com",
+          "snippet": "14 Tools to Track KPIs for Your Business&nbsp;&nbsp;Business.com",
+          "pub_date": "Thu, 03 Sep 2026 07:00:00 GMT"
+        }
+      ],
+      "posts": {
+        "post1": {
+          "type": "thought_leadership",
+          "text": "More metrics will not save your business. They will bury it.\n\nMost leadership teams at the $50M+ level have too many KPIs, not too few. And the irony is that adding more dashboards is usually a response to feeling out of control. It feels productive. It is not.\n\nHere is what actually works at scale:\n\nFirst, track fewer numbers with more discipline. A recent analysis from Business.com highlights that companies now have access to over a dozen dedicated KPI tools. The problem is not access to data. The problem is knowing which numbers actually drive decisions.\n\nSecond, your KPIs should create accountability, not just reporting. If a number shows up in a meeting but nobody owns the outcome, it is decoration.\n\nThird, the right metric depends on your growth stage. What you measured at $20M is probably the wrong thing to measure at $100M.\n\nLeaders who scale successfully are ruthless editors of their own dashboards.\n\nWhat is one metric your team tracks that nobody actually acts on?",
+          "hashtags": [
+            "#ScalingBusiness",
+            "#KPIs",
+            "#Leadership"
+          ]
+        },
+        "post2": {
+          "type": "article_reaction",
+          "text": "A recent piece in Business.com outlines 14 tools companies can use to track KPIs. It is a solid resource, and the tool variety reflects how much the market for performance tracking has matured.\n\nBut here is what the article cannot tell you: which three numbers your business actually needs to watch right now.\n\nFor companies scaling past $50M, the technology is rarely the bottleneck. The bottleneck is leadership alignment around what matters. We see it constantly. Executives are looking at different dashboards and calling different things success.\n\nBefore you add another tool, audit your existing metrics. Ask your leadership team to independently list the five numbers that define company health. Then compare answers.\n\nThe gaps will tell you everything.\n\nRead the full article here: https://news.google.com/rss/articles/CBMingFBVV95cUxQcWNPSTVTUDVYYURoVkZKa0ItNEtQbmJqWlNJTlIzUVZqclAxMHFaajNobC1JbGNkZGZVajN6MWJLT1pJcXktVG10VG8zUUljdU43NU5WR1cyNDB4QkxONlJkb3hJR2FfNzdGZHd1VWhPbTktdU1vdTEzamFWY2ZFVDNKUFIwRG91ZDdWU1UyN2twNFpLd1JjU3EzTUpjdw?oc=5",
+          "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWNPSTVTUDVYYURoVkZKa0ItNEtQbmJqWlNJTlIzUVZqclAxMHFaajNobC1JbGNkZGZVajN6MWJLT1pJcXktVG10VG8zUUljdU43NU5WR1cyNDB4QkxONlJkb3hJR2FfNzdGZHd1VWhPbTktdU1vdTEzamFWY2ZFVDNKUFIwRG91ZDdWU1UyN2twNFpLd1JjU3EzTUpjdw?oc=5"
+        },
+        "post3": {
+          "type": "book_tie_in",
+          "text": "There is a chapter in our upcoming book that we named \"Death by KPIs.\"\n\nThat title was not an accident.\n\nIn Chapter 7 of Rock Your Business: Navigating the Road from $50 Million to $500 Million and Beyond, authors H\u00e9ctor Arias, Matt Radicelli, and Jim Randall tackle one of the most common and most avoidable traps in scaling companies. Leaders add metrics because they want visibility. But past a certain point, the volume of data stops creating clarity and starts creating noise.\n\nOne insight from the chapter that reshapes how leadership teams operate: not every KPI deserves a seat in your weekly meeting. Some belong on a dashboard. Only a few belong in a conversation.\n\nKnowing the difference is a competitive advantage.\n\nRock Your Business -- available soon. Follow us for updates."
+        },
+        "blog_hook": "Most growing companies do not have a data problem. They have a discipline problem. By the time a business hits $50M in revenue, its leaders are often drowning in dashboards while starving for real insight. The metrics that helped you survive early growth can quietly become the ones that slow your next stage. Here is what to cut, what to keep, and why fewer numbers drive faster decisions.",
+        "email_subject": "Are your KPIs killing your momentum?"
+      },
+      "scraped_at": "2026-11-24"
+    },
+    {
+      "chapter": 8,
+      "title": "The Third Monitor Theory",
+      "sub": "AI in Business",
+      "authors": "Hudson Shank & Jonathan Slain",
+      "articles": [
+        {
+          "title": "90% of executives say AI hasn\u2019t boosted productivity. Some are still cutting jobs - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LZWF5Vkc3Wk9DVVd5aE83ZGVhbWMyb3U3MW1kcHljOHdwcjdjTmt1SmU5bFVRblVaZGJsRndNRS1fWExxc3IyZDBJcnlxZHhYVUFhV1pBSzVRS0R1RVJlNVYxM0pzRXZKcG96RExTdTVlMnhBWDNMUlVuUGM?oc=5",
+          "source": "Fortune",
+          "snippet": "90% of executives say AI hasn\u2019t boosted productivity. Some are still cutting jobs&nbsp;&nbsp;Fortune",
+          "pub_date": "Sat, 22 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Top AI Time-Saving and Productivity Hacks From 12 CEOs and Bosses - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc010ZUhURC0wVGNKMTdRUWVyTnZFVXRWODBxaVc3MWYyeU52bG1PdHVaTU45aS1mSG13Ulh2eUtmcU5qNXhma2VDLWo0UlpDLWMyU0lZc1ZkcHZzZXVrVXlpNGNObGVxRnVTMlVBc2RQLTk2bWtJaWFmeW1BMlBHNml5SktYdEdaLWJ3VmpYTU55bHB6cVpUVW5LWG1WR2lhRng0SXYwcHdFYXJTanJn?oc=5",
+          "source": "Bloomberg.com",
+          "snippet": "Top AI Time-Saving and Productivity Hacks From 12 CEOs and Bosses&nbsp;&nbsp;Bloomberg.com",
+          "pub_date": "Tue, 12 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Global Evidence on Business Use of AI - National Bureau of Economic Research | NBER",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iOC1YSFZUMW1yWGJWaFBaSmFOZVZRUzB0ZFJhTEJnU3NOWWJsRkVQRktFS0p2aHdRNUxPZTJCUThCSHdWcV9lMXVoSWtrc1ZHQUlTWFZSRDJQeXpJQXZFb0QtaDRYeUVIRnlIalprTXBCakpx?oc=5",
+          "source": "National Bureau of Economic Research | NBER",
+          "snippet": "Global Evidence on Business Use of AI&nbsp;&nbsp;National Bureau of Economic Research | NBER",
+          "pub_date": "Mon, 04 May 2026 20:54:28 GMT"
+        }
+      ],
+      "posts": {
+        "post1": {
+          "type": "thought_leadership",
+          "text": "Most companies are using AI wrong, and the data proves it.\n\nA recent Fortune survey found that nine out of ten executives say AI has not moved the needle on productivity. That number should stop every business leader in their tracks. Not because AI is a failure, but because the problem is not the tool. It is how the tool gets deployed.\n\nHere is what leaders scaling past $50M need to understand:\n\n1. AI does not fix broken workflows. It accelerates them, good or bad. If your processes are messy, AI makes the mess faster.\n\n2. Adoption without accountability is theater. If your team is not measured on how they use AI, most will not use it meaningfully.\n\n3. The productivity gap is a strategy gap. Companies seeing real returns treat AI as a business decision, not an IT project.\n\nThe executives winning with AI are not the ones who bought the most tools. They are the ones who changed how work gets done around those tools.\n\nSo the real question is: does your leadership team have a strategy for AI, or just a subscription?",
+          "hashtags": [
+            "AIStrategy",
+            "ScalingBusiness",
+            "ExecutiveLeadership"
+          ]
+        },
+        "post2": {
+          "type": "article_reaction",
+          "text": "A recent piece in Bloomberg laid out how twelve CEOs and senior leaders are actually saving time with AI, and the patterns are worth paying attention to.\n\nWhat stood out is that the executives getting real value are not using AI for everything. They are surgical about it. They pick high-frequency, low-creativity tasks and they build repeatable habits around AI assistance.\n\nFor companies in the $50M to $500M range, that discipline matters even more. You do not have the slack that a Fortune 500 has to absorb failed experiments. Every hour your leadership team wastes on the wrong AI use case is an hour not spent on growth.\n\nAt Autobahn, we work with scaling companies to build AI habits that actually stick and connect directly to revenue and operational outcomes.\n\nRead the Bloomberg piece here and think about which of your routines are ready for this kind of upgrade: https://news.google.com/rss/articles/CBMirwFBVV95cUxNc010ZUhURC0wVGNKMTdRUWVyTnZFVXRWODBxaVc3MWYyeU52bG1PdHVaTU45aS1mSG13Ulh2eUtmcU5qNXhma2VDLWo0UlpDLWMyU0lZc1ZkcHZzZXVrVXlpNGNObGVxRnVTMlVBc2RQLTk2bWtJaWFmeW1BMlBHNml5SktYdEdaLWJ3VmpYTU55bHB6cVpUVW5LWG1WR2lhRng0SXYwcHdFYXJTanJn",
+          "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc010ZUhURC0wVGNKMTdRUWVyTnZFVXRWODBxaVc3MWYyeU52bG1PdHVaTU45aS1mSG13Ulh2eUtmcU5qNXhma2VDLWo0UlpDLWMyU0lZc1ZkcHZzZXVrVXlpNGNObGVxRnVTMlVBc2RQLTk2bWtJaWFmeW1BMlBHNml5SktYdEdaLWJ3VmpYTU55bHB6cVpUVW5LWG1WR2lhRng0SXYwcHdFYXJTanJn"
+        },
+        "post3": {
+          "type": "book_tie_in",
+          "text": "Nine out of ten executives say AI has not improved productivity. That finding from Fortune is striking, but it is not surprising to us.\n\nIn Chapter 8 of Rock Your Business, titled The Third Monitor Theory, Hudson Shank and Jonathan Slain dig into exactly why that gap exists and what scaling companies need to do differently.\n\nThe chapter introduces a framework built around how leaders at high-growth companies should physically and strategically integrate AI into their daily decision-making. The insight is deceptively simple, but the execution is where most leadership teams fall short.\n\nIf your company is somewhere between $50M and $500M, you cannot afford to treat AI as an experiment that lives in one department. The Third Monitor Theory shows you how to make it a leadership habit that drives the whole business forward.\n\nRock Your Business, available soon. Follow us for updates."
+        },
+        "blog_hook": "Nine out of ten executives say AI has not boosted productivity, yet companies are still cutting jobs to fund AI investments. Something does not add up. For businesses scaling from $50M to $500M, the AI productivity gap is not a technology problem. It is a leadership and strategy problem. Here is what the data actually tells us, and what high-growth companies are doing about it.",
+        "email_subject": "Why AI isn't paying off yet"
+      },
+      "scraped_at": "2026-11-24"
+    },
+    {
+      "chapter": 9,
+      "title": "How Could You Be Successful and Not Have It?",
+      "sub": "Imposter Syndrome & Leadership Psychology",
+      "authors": "Samantha Frost, Caleb Hawkins & Rafa Loyo",
+      "articles": [
+        {
+          "title": "Redirect imposter syndrome into self-assurance - SmartBrief",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcWlSQ3p1c1lWT2t6OUJ2Qk82ZkdWUDJ3d2dZYUNnT3IxaFY5RDdENHk2QW9jV2tFcE85SUp6aE13SGtMajJGY2x3YW9DSUZSd0ttdkZSSmZFOTNnT3J1QmlITndrOTVjQ0ZDR0FqUnlueHVHWnhNWHJpTlFNcDdWQ3pzQm01em93NVE?oc=5",
+          "source": "SmartBrief",
+          "snippet": "Redirect imposter syndrome into self-assurance&nbsp;&nbsp;SmartBrief",
+          "pub_date": "Mon, 23 Nov 2026 21:15:50 GMT"
+        },
+        {
+          "title": "Women Travel Leaders Face Imposter Syndrome, Despite Dominating The Industry - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeThKb2JyV0djX2Rjdlg3QmtrWEhGcW00Um9JUmtSU2hpWVotRTJmblZnc2dKMnAyckVFSjc5Z0s5MnRvNFFHZmJuY014amE5MGpYV0NlQ2lZVDk0WmdfV2l1RE90N0xNTGZqUk9sVWpQT1RNTFVwTms4ejJNSUdKTkJQVWV1bUthNzdMNl9ra3Z5TjV1NE5OMU05UktRVXI4N1dNb3ZFU2R6THNmcmxKTUhQNHhmN28?oc=5",
+          "source": "Forbes",
+          "snippet": "Women Travel Leaders Face Imposter Syndrome, Despite Dominating The Industry&nbsp;&nbsp;Forbes",
+          "pub_date": "Sat, 31 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Six Ways to Overcome Impostor Syndrome in a New Leadership Role - Seattle University",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTHlqVjJWbmVSRkRPWnNTLU05TjNYZmVlelFGYUNIYmg1TXlHRmpjUmMtYWx6OEtzSjJIdVNmbGtidllGQzZXZU1kZS1ZTmxONm1JWko3MVdTVjlvczl0MTN4eF91aURLN05SUU5UMUNrbXlBU09kSTczZGItUzNfczZKMUlOZnJqX3hFNXZ6LWV3YVB5SzF3eUZZY1VVajBJWG5tRFZiSDhhT3NaVXppVkYtWDlRZUJOTVNLbVk1WQ?oc=5",
+          "source": "Seattle University",
+          "snippet": "Six Ways to Overcome Impostor Syndrome in a New Leadership Role&nbsp;&nbsp;Seattle University",
+          "pub_date": "Wed, 15 Oct 2025 07:00:00 GMT"
+        }
+      ],
+      "posts": {
+        "post1": {
+          "type": "thought_leadership",
+          "text": "The most dangerous leaders in a scaling company are not the ones who lack confidence. They are the ones who have never questioned whether they deserve to be in the room.\n\nImposter syndrome gets treated like a problem to fix. But at the $50M to $500M stage, the leaders who feel it most acutely are often the ones paying closest attention to how much harder the job has actually gotten. Their self-doubt is calibrated, not irrational.\n\nRecent reporting from SmartBrief confirms what we see in our client work: the goal is not to eliminate that internal tension but to redirect it toward sharper decision-making and more intentional leadership.\n\nThree things high-growth leaders should know about this:\n\nFirst, imposter syndrome intensifies at inflection points, not failure points. Second, it shows up most in leaders who were promoted based on past performance rather than prepared for a new scale of complexity. Third, naming it inside your leadership team reduces its power over your culture.\n\nSo here is the real question: Are you confusing self-doubt with incompetence, or is it actually just proof you are growing?",
+          "hashtags": [
+            "#Leadership",
+            "#ScalingUp",
+            "#ExecutiveDevelopment"
+          ]
+        },
+        "post2": {
+          "type": "article_reaction",
+          "text": "A recent piece in Forbes highlighted something worth pausing on: women who are actively dominating the travel industry still report widespread imposter syndrome among its top leaders.\n\nThat is not a gender story. That is a scaling story.\n\nWhen companies grow fast, the complexity of leadership outpaces most people's mental model of what they signed up for. The title stays the same. The job triples in difficulty. That gap is where imposter syndrome takes root, regardless of track record or industry tenure.\n\nAt Autobahn, we work with leaders navigating exactly that gap. The ones who scale well are not the ones who silence the doubt. They are the ones who build structures, teams, and habits that make the doubt irrelevant.\n\nRead the Forbes piece here and think about where this might be showing up in your own organization.\n\nhttps://news.google.com/rss/articles/CBMitwFBVV95cUxOeThKb2JyV0djX2Rjdlg3QmtrWEhGcW00Um9JUmtSU2hpWVotRTJmblZnc2dKMnAyckVFSjc5Z0s1MnRvNFFHZmJuQ014amE5MGpYV0NlQ2lZVDk0WmdfV2l1RE90N0xNTGZqUk9sVWpQT1RNTFVwTms4ejJNSUdKTkJQVWV1bUthNzdMNl9ra3Z5TjV1NE5OMU05UktRVXI4N1dNb3ZFU2R6THNmcmxKTUhQNHhmN28",
+          "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeThKb2JyV0djX2Rjdlg3QmtrWEhGcW00Um9JUmtSU2hpWVotRTJmblZnc2dKMnAyckVFSjc5Z0s1MnRvNFFHZmJuQ014amE5MGpYV0NlQ2lZVDk0WmdfV2l1RE90N0xNTGZqUk9sVWpQT1RNTFVwTms4ejJNSUdKTkJQVWV1bUthNzdMNl9ra3Z5TjV1NE5OMU05UktRVXI4N1dNb3ZFU2R6THNmcmxKTUhQNHhmN28"
+        },
+        "post3": {
+          "type": "book_tie_in",
+          "text": "Imposter syndrome does not go away when your company hits $50M. For many leaders, that is exactly when it gets louder.\n\nChapter 9 of Rock Your Business, titled 'How Could You Be Successful and Not Have It?', tackles this head-on. Co-authored by Samantha Frost, Caleb Hawkins, and Rafa Loyo, the chapter reframes imposter syndrome not as a character flaw but as a predictable leadership experience at the growth stage most companies find hardest to navigate.\n\nOne of the sharpest insights in the chapter: the feeling is not a signal that you are the wrong person for the role. It is often a signal that you are finally taking the role seriously enough.\n\nThere is a framework inside for what to do with that signal. We will let you discover it for yourself.\n\nRock Your Business, available soon. Follow us for updates."
+        },
+        "blog_hook": "Every leader scaling past $50M has felt it: the creeping suspicion that this next level is the one where they finally get found out. Imposter syndrome is not a personal weakness. At the growth stage, it is practically a job requirement. The question is whether it sharpens your leadership or quietly undermines it. Here is what the research and the real work tell us.",
+        "email_subject": "The doubt you feel might be working for you"
+      },
+      "scraped_at": "2026-11-24"
+    },
+    {
+      "chapter": 10,
+      "title": "Coming Up for Air",
+      "sub": "Life Planning & Work-Life Design",
+      "authors": "Samantha Frost, Jonathan & Katherine Slain",
+      "articles": [
+        {
+          "title": "Slain Baltimore tech entrepreneur Pava LaPere credited as co-author of new book - The Baltimore Banner",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYS15LTd2bW1yNkU3OHFiYVZ6S3ludm9uVXQxc0o3ZzZKeGQ2TXBiVEZlNE9YUzc5dVhYMzZVRW1ZeWtnNk5XcEsta08yVFRIdXlHNGlSUVVxSF9pNi1Va0doSWNiY3hIRlRSN3I4Vl92MG9Ia0JZVFNYeWFsUTZNdHBoNmFlWmJzemE2ak00YXZXeEtFbFBDcjdn?oc=5",
+          "source": "The Baltimore Banner",
+          "snippet": "Slain Baltimore tech entrepreneur Pava LaPere credited as co-author of new book&nbsp;&nbsp;The Baltimore Banner",
+          "pub_date": "Tue, 24 Nov 2026 10:30:00 GMT"
+        },
+        {
+          "title": "Life after selling a business: wealth planning questions for entrepreneurs - Deutsche Bank Wealth Management",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQnVGcTRaaEZIeWFJZXg4cVRYZmFWZ291RHhfWm1Veml1bDN5ekUyYXlIck1jcWxoLWpSRHVYV1ZWX0UzQVEzc09tRDBsYnQwaHBhamdYQ2pwVkdfd2szYU5zQXNwVENqVjY3a183ZVJoa1ZlVVZTUHJwRzA2NUx1QmsyUGU2cVhfSkJRRGplUUhHQWxPNVYtemU2YUhZeXpzck1Rb05ZUWRnMnh1OWZTaW51Z3pHZTZYU0hBbThZUFczdnVleWs4dlVnclhobU9KejVR?oc=5",
+          "source": "Deutsche Bank Wealth Management",
+          "snippet": "Life after selling a business: wealth planning questions for entrepreneurs&nbsp;&nbsp;Deutsche Bank Wealth Management",
+          "pub_date": "Fri, 02 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Every Founder Plans for Growth, But Almost None Plan for the Exit. Here's What I Wish I'd Understood Sooner. - entrepreneur.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ1IwcXAwLW0wOUR3UTROejNURE9ORVB1NmdRRi1Ccm4wbjdRa2Rrcy05R3h0OTJkT0xrV2paVENfblRqRHVsZFVKZHJ2cDFTalhCcWpVc2J6YlBkeDNBMm1fUWE3dmRzY2ZtRkduR3lvQnFRVDFJMnNtTloyd0xSUlhFNDg2WmxZNFl1TzhuNEU4WUpB?oc=5",
+          "source": "entrepreneur.com",
+          "snippet": "Every Founder Plans for Growth, But Almost None Plan for the Exit. Here's What I Wish I'd Understood Sooner.&nbsp;&nbsp;entrepreneur.com",
+          "pub_date": "Wed, 12 Aug 2026 07:00:00 GMT"
+        }
+      ],
+      "posts": {
+        "post1": {
+          "type": "thought_leadership",
+          "text": "Most founders treat life planning like a retirement activity. They are wrong.\n\nBy the time you hit $50M in revenue, the company has a plan. The team has a plan. The financials have a plan. But the person running all of it? Usually operating on fumes and assumptions.\n\nRecent research on entrepreneurs navigating post-exit transitions reveals something uncomfortable: many founders who successfully scaled their companies had no clear picture of what they actually wanted their life to look like at the top. The business filled that void by design.\n\nHere is what high-growth leaders consistently overlook:\n\n1. Work-life design is a strategic input, not a reward. How you structure your time now directly shapes the decisions you make at scale.\n\n2. Burnout does not announce itself. It shows up as bad acquisitions, poor hiring, and stalled growth.\n\n3. The founder's energy is a company asset. Treat it like one.\n\nIf your business plan runs 40 pages but your life plan runs zero, what does that tell you about your actual priorities?",
+          "hashtags": [
+            "#Leadership",
+            "#ScalingUp",
+            "#FounderMindset"
+          ]
+        },
+        "post2": {
+          "type": "article_reaction",
+          "text": "A recent piece in Deutsche Bank Wealth Management explores the financial and personal questions entrepreneurs face after selling a business. It is a smart read, but it surfaces something most scaling companies ignore until it is too late: founders rarely think about life design until a liquidity event forces the conversation.\n\nAt Autobahn, we work with companies moving from $50M to $500M and beyond. At that stage, the founder's clarity about what they want personally is not a soft consideration. It is a growth lever. Leaders who have not defined what winning looks like for their own lives tend to make reactive decisions that stall the business.\n\nDo not wait for an exit to start asking the right questions about how you want to live and lead.\n\nRead the full article here: https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQnVGcTRaaEZIeWFJZXg4cVRYZmFWZ291RHhfWm1Veml1bDN5ekUyYXlIck1jcWxoLWpSRHVYV1ZWX0UzQVEzc09tRDBsYnQwaHBhamdYQ2pwVkdfd2szYU5zQXNwVENqVjY3a183ZVJoa1ZlVVZTUHJwRzA2NUx1QmsyUGU2cVhfSkJRRGplUUhHQWxPNVYtemU2YUhZeXpzck1Rb05ZUWRnMnh1OWZTaW51Z3pHZTZYU0hBbThZUFczdnVleWs4dlVnclhobU9KejVR?oc=5",
+          "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQnVGcTRaaEZIeWFJZXg4cVRYZmFWZ291RHhfWm1Veml1bDN5ekUyYXlIck1jcWxoLWpSRHVYV1ZWX0UzQVEzc09tRDBsYnQwaHBhamdYQ2pwVkdfd2szYU5zQXNwVENqVjY3a183ZVJoa1ZlVVZTUHJwRzA2NUx1QmsyUGU2cVhfSkJRRGplUUhHQWxPNVYtemU2YUhZeXpzck1Rb05ZUWRnMnh1OWZTaW51Z3pHZTZYU0hBbThZUFczdnVleWs4dlVnclhobU9KejVR?oc=5"
+        },
+        "post3": {
+          "type": "book_tie_in",
+          "text": "Entrepreneur.com recently made a pointed observation: founders obsess over growth plans but almost never plan for what comes after. It is a gap that costs them far more than money.\n\nChapter 10 of Rock Your Business, titled Coming Up for Air, tackles exactly this. Authored by Samantha Frost and Jonathan and Katherine Slain, the chapter addresses something most scaling frameworks skip entirely: the founder's life design at the center of a high-growth company.\n\nOne insight from the chapter that tends to land hard with our clients: the moment you are too busy to think about what you want is precisely the moment you most need to stop and think about it. The business reflects the leader. If the leader has no plan for their own life, that void shows up everywhere in the company.\n\nRock Your Business -- available soon. Follow us for updates."
+        },
+        "blog_hook": "Founders building toward $500M have detailed plans for revenue, headcount, and market expansion. Almost none have a plan for how they actually want to live. That blind spot is not a personal failure. It is a business risk. Here is what scaling leaders need to understand about life design before the cost of ignoring it shows up on the balance sheet.",
+        "email_subject": "Your business has a plan. Do you?"
+      },
+      "scraped_at": "2026-11-24"
+    }
+  ]
+}
